@@ -1,5 +1,6 @@
-.neighborhood {
-  text-transform: capitalize;
+body {
+  padding-top: 5rem;
+  background-color: #f7f7f7;
 }
 
 .navbar {
@@ -37,7 +38,7 @@
   padding-top: 6rem;
   padding-bottom: 6rem;
   margin-bottom: 0;
-  background-color: #fff;
+  background-color: #f7f7f7;
 }
 
 .jumbotron p:last-child {
@@ -56,7 +57,6 @@
   min-height: 50rem; /* Can be removed; just added for demo purposes */
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #f7f7f7;
 }
 
 .card {
@@ -75,6 +75,10 @@
   font-size: 85%;
 }
 
+.map {
+  width: 33.333%;
+}
+
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -82,4 +86,24 @@ footer {
 
 footer p {
   margin-bottom: .25rem;
+}
+
+.neighborhood, .crime-trends, .crime-reports, .date-range {
+  text-transform: capitalize;
+}
+
+.crime-report {
+  padding: 1.5rem;
+}
+
+.crime-report-qty {
+  font-size: 4rem;
+}
+
+.crime-report ul {
+  list-style-type: none;
+}
+
+.crime-report-left {
+  text-align: center;
 }
