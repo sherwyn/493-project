@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Paveway", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1794, 
+    "lat": 42.376
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Paveway", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1787, 
+    "lat": 42.3758
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Paveway", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1794, 
+    "lat": 42.3758
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Paveway", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1802, 
+    "lat": 42.3777
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Paveway", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1782, 
+    "lat": 42.3774
+  }
+]

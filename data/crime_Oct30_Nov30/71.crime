@@ -1,0 +1,137 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Grant", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.035, 
+    "lat": 42.4278
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Grant", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0428, 
+    "lat": 42.4319
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Grant", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.039, 
+    "lat": 42.431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Grant", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0364, 
+    "lat": 42.4261
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Grant", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0317, 
+    "lat": 42.4296
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Grant", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0242, 
+    "lat": 42.4285
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Grant", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0322, 
+    "lat": 42.4305
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Grant", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0253, 
+    "lat": 42.4312
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Grant", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0323, 
+    "lat": 42.4305
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Grant", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0305, 
+    "lat": 42.433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Grant", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.039, 
+    "lat": 42.4335
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Grant", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0353, 
+    "lat": 42.4278
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Grant", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.03, 
+    "lat": 42.4319
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Grant", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0275, 
+    "lat": 42.4285
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Grant", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0422, 
+    "lat": 42.4327
+  }
+]

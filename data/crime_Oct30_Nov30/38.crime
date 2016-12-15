@@ -1,0 +1,191 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1556, 
+    "lat": 42.3892
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1514, 
+    "lat": 42.39
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 0, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.1521, 
+    "lat": 42.3917
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.153, 
+    "lat": 42.39
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1413, 
+    "lat": 42.3954
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1534, 
+    "lat": 42.391
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1566, 
+    "lat": 42.3873
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1509, 
+    "lat": 42.3898
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1504, 
+    "lat": 42.3933
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 12, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1583, 
+    "lat": 42.3902
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1509, 
+    "lat": 42.3886
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1567, 
+    "lat": 42.3926
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1521, 
+    "lat": 42.388
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.159, 
+    "lat": 42.3885
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1586, 
+    "lat": 42.3907
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1544, 
+    "lat": 42.3866
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1586, 
+    "lat": 42.395
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1521, 
+    "lat": 42.3881
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1585, 
+    "lat": 42.395
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1512, 
+    "lat": 42.3899
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Davison-Schoolcraft", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1551, 
+    "lat": 42.3877
+  }
+]

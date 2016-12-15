@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "North Campau", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0645, 
+    "lat": 42.4185
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 13, 
+    "community": "North Campau", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.088, 
+    "lat": 42.4182
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "North Campau", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0695, 
+    "lat": 42.414
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "North Campau", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0665, 
+    "lat": 42.4183
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "North Campau", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0738, 
+    "lat": 42.413
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "North Campau", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0836, 
+    "lat": 42.4165
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 1, 
+    "community": "North Campau", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0644, 
+    "lat": 42.4185
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "North Campau", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0848, 
+    "lat": 42.4182
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "North Campau", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0659, 
+    "lat": 42.4166
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "North Campau", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.066, 
+    "lat": 42.4165
+  }
+]

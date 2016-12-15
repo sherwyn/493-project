@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Happy Homes", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.176, 
+    "lat": 42.3885
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Happy Homes", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1779, 
+    "lat": 42.3883
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Happy Homes", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1692, 
+    "lat": 42.3949
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Happy Homes", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.173, 
+    "lat": 42.3943
+  }
+]

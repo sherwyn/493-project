@@ -1,0 +1,254 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0236, 
+    "lat": 42.3651
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0161, 
+    "lat": 42.3764
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0229, 
+    "lat": 42.3656
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.008, 
+    "lat": 42.3683
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0134, 
+    "lat": 42.3673
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0168, 
+    "lat": 42.3719
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0107, 
+    "lat": 42.3739
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0108, 
+    "lat": 42.3715
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0237, 
+    "lat": 42.3649
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0115, 
+    "lat": 42.3702
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0133, 
+    "lat": 42.3672
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0143, 
+    "lat": 42.367
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0224, 
+    "lat": 42.3627
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0205, 
+    "lat": 42.37
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0166, 
+    "lat": 42.3653
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0231, 
+    "lat": 42.3661
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0124, 
+    "lat": 42.3764
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0124, 
+    "lat": 42.3762
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0189, 
+    "lat": 42.3724
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0127, 
+    "lat": 42.3761
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0137, 
+    "lat": 42.3775
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0145, 
+    "lat": 42.3787
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0184, 
+    "lat": 42.3729
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0126, 
+    "lat": 42.3648
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0061, 
+    "lat": 42.3695
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0062, 
+    "lat": 42.3702
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0108, 
+    "lat": 42.3654
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "Gratiot-Grand", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0138, 
+    "lat": 42.3655
+  }
+]

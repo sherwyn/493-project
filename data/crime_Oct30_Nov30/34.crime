@@ -1,0 +1,758 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.935, 
+    "lat": 42.4169
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9275, 
+    "lat": 42.4113
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9255, 
+    "lat": 42.4184
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9349, 
+    "lat": 42.4168
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.922, 
+    "lat": 42.411
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9297, 
+    "lat": 42.406
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9183, 
+    "lat": 42.4069
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9278, 
+    "lat": 42.4177
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9248, 
+    "lat": 42.4213
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9219, 
+    "lat": 42.4234
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9195, 
+    "lat": 42.4109
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9196, 
+    "lat": 42.4191
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9252, 
+    "lat": 42.4101
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9143, 
+    "lat": 42.4196
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9185, 
+    "lat": 42.4112
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9233, 
+    "lat": 42.415
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 11, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9145, 
+    "lat": 42.4197
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9223, 
+    "lat": 42.3973
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9271, 
+    "lat": 42.4165
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9111, 
+    "lat": 42.4162
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9147, 
+    "lat": 42.4133
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9365, 
+    "lat": 42.4165
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9216, 
+    "lat": 42.4211
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9236, 
+    "lat": 42.4147
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Cornerstone Village", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9276, 
+    "lat": 42.4204
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9263, 
+    "lat": 42.4216
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9294, 
+    "lat": 42.4186
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9212, 
+    "lat": 42.4145
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9266, 
+    "lat": 42.4233
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9156, 
+    "lat": 42.4186
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.931, 
+    "lat": 42.4137
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 17, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9182, 
+    "lat": 42.4084
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9225, 
+    "lat": 42.404
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9294, 
+    "lat": 42.4077
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9145, 
+    "lat": 42.4197
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9142, 
+    "lat": 42.4171
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9335, 
+    "lat": 42.4156
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9208, 
+    "lat": 42.4047
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 13, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9262, 
+    "lat": 42.4034
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9267, 
+    "lat": 42.4189
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 11, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9218, 
+    "lat": 42.4052
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9205, 
+    "lat": 42.4074
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9257, 
+    "lat": 42.408
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9145, 
+    "lat": 42.4196
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9192, 
+    "lat": 42.4117
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9185, 
+    "lat": 42.4109
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9213, 
+    "lat": 42.4143
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9182, 
+    "lat": 42.422
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9198, 
+    "lat": 42.4198
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9366, 
+    "lat": 42.4166
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9294, 
+    "lat": 42.4078
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9175, 
+    "lat": 42.4167
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9221, 
+    "lat": 42.4067
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9129, 
+    "lat": 42.4178
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.934, 
+    "lat": 42.4152
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9193, 
+    "lat": 42.4049
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9345, 
+    "lat": 42.4156
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 5, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9283, 
+    "lat": 42.4247
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9235, 
+    "lat": 42.4109
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9341, 
+    "lat": 42.4177
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9237, 
+    "lat": 42.4045
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9186, 
+    "lat": 42.4167
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.929, 
+    "lat": 42.423
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9317, 
+    "lat": 42.419
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.922, 
+    "lat": 42.4019
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9197, 
+    "lat": 42.4131
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9302, 
+    "lat": 42.4176
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9118, 
+    "lat": 42.4146
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 12, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9258, 
+    "lat": 42.4148
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9338, 
+    "lat": 42.4177
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9257, 
+    "lat": 42.4048
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9158, 
+    "lat": 42.4185
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9236, 
+    "lat": 42.415
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 16, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9293, 
+    "lat": 42.4139
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9175, 
+    "lat": 42.416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9182, 
+    "lat": 42.4015
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 12, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9143, 
+    "lat": 42.4198
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9143, 
+    "lat": 42.4195
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9275, 
+    "lat": 42.4071
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9328, 
+    "lat": 42.4111
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9205, 
+    "lat": 42.3979
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9348, 
+    "lat": 42.4152
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9187, 
+    "lat": 42.4043
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Cornerstone Village", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9189, 
+    "lat": 42.4043
+  }
+]

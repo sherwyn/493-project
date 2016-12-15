@@ -1,0 +1,1235 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Harmony Village", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1631, 
+    "lat": 42.4002
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Harmony Village", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1714, 
+    "lat": 42.4009
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Harmony Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1726, 
+    "lat": 42.4166
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 3, 
+    "community": "Harmony Village", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.1619, 
+    "lat": 42.4059
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Harmony Village", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1792, 
+    "lat": 42.4022
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Harmony Village", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1588, 
+    "lat": 42.3981
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 16, 
+    "community": "Harmony Village", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1755, 
+    "lat": 42.4009
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Harmony Village", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1791, 
+    "lat": 42.4075
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Harmony Village", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1834, 
+    "lat": 42.4106
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Harmony Village", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1805, 
+    "lat": 42.3976
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Harmony Village", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1513, 
+    "lat": 42.3964
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Harmony Village", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1823, 
+    "lat": 42.4103
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Harmony Village", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1589, 
+    "lat": 42.3982
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Harmony Village", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1779, 
+    "lat": 42.4081
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Harmony Village", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1708, 
+    "lat": 42.4096
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Harmony Village", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1615, 
+    "lat": 42.4054
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Harmony Village", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1741, 
+    "lat": 42.4088
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Harmony Village", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1701, 
+    "lat": 42.3995
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Harmony Village", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1711, 
+    "lat": 42.4071
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 6, 
+    "community": "Harmony Village", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1826, 
+    "lat": 42.3981
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Harmony Village", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1793, 
+    "lat": 42.4063
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Harmony Village", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1802, 
+    "lat": 42.4148
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Harmony Village", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1801, 
+    "lat": 42.4165
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Harmony Village", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1401, 
+    "lat": 42.3981
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Harmony Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1777, 
+    "lat": 42.411
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Harmony Village", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.166, 
+    "lat": 42.4063
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Harmony Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1595, 
+    "lat": 42.4004
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Harmony Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1836, 
+    "lat": 42.4121
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Harmony Village", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1699, 
+    "lat": 42.4091
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Harmony Village", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1794, 
+    "lat": 42.4051
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Harmony Village", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1701, 
+    "lat": 42.4056
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Harmony Village", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1803, 
+    "lat": 42.4163
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Harmony Village", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1789, 
+    "lat": 42.3984
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Harmony Village", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1815, 
+    "lat": 42.4153
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Harmony Village", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1698, 
+    "lat": 42.4097
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Harmony Village", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1598, 
+    "lat": 42.4025
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Harmony Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1788, 
+    "lat": 42.4133
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Harmony Village", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1515, 
+    "lat": 42.3962
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Harmony Village", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1409, 
+    "lat": 42.4007
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Harmony Village", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1662, 
+    "lat": 42.4063
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Harmony Village", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1509, 
+    "lat": 42.4008
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Harmony Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1609, 
+    "lat": 42.4007
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Harmony Village", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.174, 
+    "lat": 42.4052
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Harmony Village", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.178, 
+    "lat": 42.4115
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Harmony Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1712, 
+    "lat": 42.4014
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Harmony Village", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1709, 
+    "lat": 42.4066
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Harmony Village", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1778, 
+    "lat": 42.4079
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Harmony Village", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1817, 
+    "lat": 42.3981
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Harmony Village", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1661, 
+    "lat": 42.4061
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Harmony Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1629, 
+    "lat": 42.4061
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Harmony Village", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1799, 
+    "lat": 42.4053
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Harmony Village", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1529, 
+    "lat": 42.3987
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Harmony Village", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.182, 
+    "lat": 42.4106
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Harmony Village", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1793, 
+    "lat": 42.4121
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Harmony Village", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1814, 
+    "lat": 42.4043
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Harmony Village", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1816, 
+    "lat": 42.4045
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Harmony Village", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1523, 
+    "lat": 42.3982
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Harmony Village", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1796, 
+    "lat": 42.4005
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Harmony Village", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1705, 
+    "lat": 42.399
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Harmony Village", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1727, 
+    "lat": 42.4037
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Harmony Village", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1728, 
+    "lat": 42.4034
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Harmony Village", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1401, 
+    "lat": 42.3958
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Harmony Village", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.184, 
+    "lat": 42.4033
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Harmony Village", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1778, 
+    "lat": 42.3971
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Harmony Village", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1566, 
+    "lat": 42.4014
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Harmony Village", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1579, 
+    "lat": 42.3995
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Harmony Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.167, 
+    "lat": 42.4049
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Harmony Village", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1462, 
+    "lat": 42.3972
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Harmony Village", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1465, 
+    "lat": 42.3971
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Harmony Village", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1788, 
+    "lat": 42.402
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Harmony Village", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1484, 
+    "lat": 42.4017
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Harmony Village", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1797, 
+    "lat": 42.4164
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Harmony Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1728, 
+    "lat": 42.4023
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Harmony Village", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1696, 
+    "lat": 42.4096
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Harmony Village", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1683, 
+    "lat": 42.4082
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Harmony Village", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1823, 
+    "lat": 42.4019
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 0, 
+    "community": "Harmony Village", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1813, 
+    "lat": 42.4092
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Harmony Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1798, 
+    "lat": 42.4133
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Harmony Village", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.172, 
+    "lat": 42.4108
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "Harmony Village", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1793, 
+    "lat": 42.4052
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Harmony Village", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.165, 
+    "lat": 42.4034
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Harmony Village", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.168, 
+    "lat": 42.4077
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Harmony Village", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1464, 
+    "lat": 42.3969
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Harmony Village", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1721, 
+    "lat": 42.408
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Harmony Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1813, 
+    "lat": 42.409
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Harmony Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1517, 
+    "lat": 42.3968
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Harmony Village", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.179, 
+    "lat": 42.4131
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 22, 
+    "community": "Harmony Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1467, 
+    "lat": 42.3979
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Harmony Village", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1776, 
+    "lat": 42.4141
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Harmony Village", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1779, 
+    "lat": 42.4107
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Harmony Village", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.179, 
+    "lat": 42.3997
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Harmony Village", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1738, 
+    "lat": 42.4046
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Harmony Village", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1842, 
+    "lat": 42.4162
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Harmony Village", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1507, 
+    "lat": 42.3961
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Harmony Village", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1722, 
+    "lat": 42.4062
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 23, 
+    "community": "Harmony Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1506, 
+    "lat": 42.4024
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Harmony Village", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1758, 
+    "lat": 42.3949
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 6, 
+    "community": "Harmony Village", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1822, 
+    "lat": 42.3991
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Harmony Village", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1762, 
+    "lat": 42.4015
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Harmony Village", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1656, 
+    "lat": 42.4012
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Harmony Village", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1654, 
+    "lat": 42.4011
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 16, 
+    "community": "Harmony Village", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1723, 
+    "lat": 42.402
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Harmony Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1634, 
+    "lat": 42.4027
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Harmony Village", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1767, 
+    "lat": 42.4113
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Harmony Village", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1699, 
+    "lat": 42.4013
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Harmony Village", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.17, 
+    "lat": 42.4015
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Harmony Village", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1794, 
+    "lat": 42.3999
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Harmony Village", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1812, 
+    "lat": 42.4101
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 17, 
+    "community": "Harmony Village", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1403, 
+    "lat": 42.3956
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Harmony Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1767, 
+    "lat": 42.405
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Harmony Village", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1616, 
+    "lat": 42.3982
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Harmony Village", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1713, 
+    "lat": 42.4008
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Harmony Village", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1688, 
+    "lat": 42.4049
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Harmony Village", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1512, 
+    "lat": 42.4024
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Harmony Village", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.174, 
+    "lat": 42.395
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Harmony Village", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1798, 
+    "lat": 42.4088
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Harmony Village", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1452, 
+    "lat": 42.3984
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Harmony Village", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1796, 
+    "lat": 42.4023
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Harmony Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1803, 
+    "lat": 42.4163
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Harmony Village", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1802, 
+    "lat": 42.4124
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Harmony Village", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1737, 
+    "lat": 42.4103
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Harmony Village", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1574, 
+    "lat": 42.3997
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Harmony Village", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1687, 
+    "lat": 42.4089
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Harmony Village", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1687, 
+    "lat": 42.409
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Harmony Village", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1796, 
+    "lat": 42.4091
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Harmony Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1803, 
+    "lat": 42.4164
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Harmony Village", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1516, 
+    "lat": 42.3965
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 10, 
+    "community": "Harmony Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1798, 
+    "lat": 42.4089
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Harmony Village", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1793, 
+    "lat": 42.4
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 6, 
+    "community": "Harmony Village", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1739, 
+    "lat": 42.4094
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Harmony Village", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1808, 
+    "lat": 42.4071
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Harmony Village", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1694, 
+    "lat": 42.4038
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Harmony Village", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1566, 
+    "lat": 42.3969
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Harmony Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1796, 
+    "lat": 42.4148
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Harmony Village", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1742, 
+    "lat": 42.4041
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Harmony Village", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1634, 
+    "lat": 42.4029
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Harmony Village", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.184, 
+    "lat": 42.4164
+  }
+]

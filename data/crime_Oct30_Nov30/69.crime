@@ -1,0 +1,110 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Grandmont", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2091, 
+    "lat": 42.3919
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Grandmont", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2152, 
+    "lat": 42.3908
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Grandmont", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2123, 
+    "lat": 42.3908
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Grandmont", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2086, 
+    "lat": 42.3915
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Grandmont", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2138, 
+    "lat": 42.392
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Grandmont", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2155, 
+    "lat": 42.3993
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Grandmont", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2152, 
+    "lat": 42.3906
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Grandmont", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2151, 
+    "lat": 42.3907
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Grandmont", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.213, 
+    "lat": 42.3927
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Grandmont", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2149, 
+    "lat": 42.3907
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Grandmont", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2111, 
+    "lat": 42.3909
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Grandmont", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2101, 
+    "lat": 42.3873
+  }
+]

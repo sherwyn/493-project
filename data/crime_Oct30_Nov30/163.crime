@@ -1,0 +1,353 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Rivertown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0185, 
+    "lat": 42.3395
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Rivertown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0185, 
+    "lat": 42.3371
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 14, 
+    "community": "Rivertown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0162, 
+    "lat": 42.3363
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Rivertown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0186, 
+    "lat": 42.3371
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Rivertown", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0221, 
+    "lat": 42.3382
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Rivertown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0146, 
+    "lat": 42.3411
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Rivertown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0089, 
+    "lat": 42.3418
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Rivertown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0087, 
+    "lat": 42.3424
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Rivertown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0196, 
+    "lat": 42.3393
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Rivertown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0332, 
+    "lat": 42.333
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Rivertown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0146, 
+    "lat": 42.3412
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Rivertown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0147, 
+    "lat": 42.3411
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Rivertown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0171, 
+    "lat": 42.3389
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Rivertown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0187, 
+    "lat": 42.3373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Rivertown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0085, 
+    "lat": 42.3431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Rivertown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0325, 
+    "lat": 42.331
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Rivertown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0315, 
+    "lat": 42.3325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Rivertown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0084, 
+    "lat": 42.3423
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Rivertown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0165, 
+    "lat": 42.3359
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Rivertown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0262, 
+    "lat": 42.336
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Rivertown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.016, 
+    "lat": 42.3364
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Rivertown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.032, 
+    "lat": 42.3313
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Rivertown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0091, 
+    "lat": 42.344
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Rivertown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0186, 
+    "lat": 42.337
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Rivertown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0186, 
+    "lat": 42.3373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Rivertown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0185, 
+    "lat": 42.3372
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Rivertown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0186, 
+    "lat": 42.3369
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Rivertown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.01, 
+    "lat": 42.3416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Rivertown", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0212, 
+    "lat": 42.3388
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Rivertown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0161, 
+    "lat": 42.3362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Rivertown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0186, 
+    "lat": 42.3369
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Rivertown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0224, 
+    "lat": 42.3383
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Rivertown", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0262, 
+    "lat": 42.3346
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Rivertown", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0185, 
+    "lat": 42.3372
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Rivertown", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0221, 
+    "lat": 42.3384
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Rivertown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0298, 
+    "lat": 42.3332
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Rivertown", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0146, 
+    "lat": 42.3412
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 16, 
+    "community": "Rivertown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.02, 
+    "lat": 42.3393
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Rivertown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0062, 
+    "lat": 42.3452
+  }
+]

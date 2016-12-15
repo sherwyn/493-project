@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Palmer Woods", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1199, 
+    "lat": 42.4361
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Palmer Woods", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1184, 
+    "lat": 42.4321
+  }
+]

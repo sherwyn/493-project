@@ -1,0 +1,65 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Tech Town", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0713, 
+    "lat": 42.3649
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Tech Town", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0751, 
+    "lat": 42.3613
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Tech Town", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.071, 
+    "lat": 42.3632
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Tech Town", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0713, 
+    "lat": 42.3648
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Tech Town", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0749, 
+    "lat": 42.3614
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Tech Town", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0711, 
+    "lat": 42.3651
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Tech Town", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0717, 
+    "lat": 42.3649
+  }
+]

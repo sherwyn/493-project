@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Sherwood Forest", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1338, 
+    "lat": 42.437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Sherwood Forest", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1406, 
+    "lat": 42.4363
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Sherwood Forest", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.139, 
+    "lat": 42.4333
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Sherwood Forest", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1415, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Sherwood Forest", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1397, 
+    "lat": 42.4352
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1203, 
+    "lat": 42.3312
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1099, 
+    "lat": 42.3454
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 19, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.109, 
+    "lat": 42.3374
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Chadsey Condon", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1111, 
+    "lat": 42.3358
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Chadsey Condon", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1198, 
+    "lat": 42.3324
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.109, 
+    "lat": 42.3446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1088, 
+    "lat": 42.3448
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1091, 
+    "lat": 42.3439
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.121, 
+    "lat": 42.3321
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1101, 
+    "lat": 42.3453
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1075, 
+    "lat": 42.3453
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1095, 
+    "lat": 42.3422
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1023, 
+    "lat": 42.3418
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1099, 
+    "lat": 42.3452
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1118, 
+    "lat": 42.3382
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1057, 
+    "lat": 42.3449
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 19, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1208, 
+    "lat": 42.3434
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1168, 
+    "lat": 42.3446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1062, 
+    "lat": 42.3446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1061, 
+    "lat": 42.3449
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1081, 
+    "lat": 42.3447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1102, 
+    "lat": 42.3419
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1054, 
+    "lat": 42.3319
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Chadsey Condon", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1195, 
+    "lat": 42.3371
+  }
+]

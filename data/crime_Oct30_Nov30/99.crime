@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Joseph Berry Sub", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9845, 
+    "lat": 42.3586
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Joseph Berry Sub", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9843, 
+    "lat": 42.3587
+  }
+]

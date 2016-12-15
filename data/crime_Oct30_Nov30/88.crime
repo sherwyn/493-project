@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Historic Atkinson", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1076, 
+    "lat": 42.3742
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 11, 
+    "community": "Historic Atkinson", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1019, 
+    "lat": 42.3765
+  }
+]

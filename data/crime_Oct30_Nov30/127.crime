@@ -1,0 +1,317 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Nardin Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1304, 
+    "lat": 42.3654
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Nardin Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1315, 
+    "lat": 42.3699
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Nardin Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1201, 
+    "lat": 42.3711
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Nardin Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1339, 
+    "lat": 42.3668
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Nardin Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1377, 
+    "lat": 42.3737
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 16, 
+    "community": "Nardin Park", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1222, 
+    "lat": 42.3685
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Nardin Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1362, 
+    "lat": 42.3707
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Nardin Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1215, 
+    "lat": 42.3757
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 20, 
+    "community": "Nardin Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1285, 
+    "lat": 42.3692
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Nardin Park", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1271, 
+    "lat": 42.3802
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 23, 
+    "community": "Nardin Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1226, 
+    "lat": 42.3701
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Nardin Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.135, 
+    "lat": 42.3764
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Nardin Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.133, 
+    "lat": 42.3776
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Nardin Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1378, 
+    "lat": 42.3738
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Nardin Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1244, 
+    "lat": 42.3736
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Nardin Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1271, 
+    "lat": 42.3804
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Nardin Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.131, 
+    "lat": 42.3744
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Nardin Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1378, 
+    "lat": 42.3696
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Nardin Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1225, 
+    "lat": 42.3727
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 16, 
+    "community": "Nardin Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1335, 
+    "lat": 42.3711
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Nardin Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1268, 
+    "lat": 42.3774
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Nardin Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1269, 
+    "lat": 42.3675
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Nardin Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1269, 
+    "lat": 42.3769
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Nardin Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1225, 
+    "lat": 42.3717
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Nardin Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1259, 
+    "lat": 42.3821
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Nardin Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1369, 
+    "lat": 42.3706
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Nardin Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1368, 
+    "lat": 42.3678
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Nardin Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1377, 
+    "lat": 42.3739
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Nardin Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1281, 
+    "lat": 42.3682
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Nardin Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1325, 
+    "lat": 42.3721
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Nardin Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1358, 
+    "lat": 42.3709
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Nardin Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1224, 
+    "lat": 42.3771
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 13, 
+    "community": "Nardin Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1276, 
+    "lat": 42.3767
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Nardin Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1246, 
+    "lat": 42.3791
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Nardin Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1261, 
+    "lat": 42.3821
+  }
+]

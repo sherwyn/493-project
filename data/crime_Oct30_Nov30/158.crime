@@ -1,0 +1,209 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.178, 
+    "lat": 42.3732
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 4, 
+    "community": "Pride Area Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1764, 
+    "lat": 42.3816
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Pride Area Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1703, 
+    "lat": 42.3733
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 4, 
+    "community": "Pride Area Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1763, 
+    "lat": 42.3815
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1781, 
+    "lat": 42.3819
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1697, 
+    "lat": 42.3755
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1763, 
+    "lat": 42.378
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1746, 
+    "lat": 42.3738
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1763, 
+    "lat": 42.3735
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.175, 
+    "lat": 42.3734
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1728, 
+    "lat": 42.375
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1783, 
+    "lat": 42.3817
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Pride Area Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1726, 
+    "lat": 42.3752
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1759, 
+    "lat": 42.3732
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1727, 
+    "lat": 42.3747
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1758, 
+    "lat": 42.3732
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1728, 
+    "lat": 42.3775
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1744, 
+    "lat": 42.3741
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1747, 
+    "lat": 42.3738
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1776, 
+    "lat": 42.3741
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1733, 
+    "lat": 42.3761
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1781, 
+    "lat": 42.382
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Pride Area Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1759, 
+    "lat": 42.3734
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Eastern Market", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0449, 
+    "lat": 42.3516
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Eastern Market", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0393, 
+    "lat": 42.3466
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Eastern Market", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0439, 
+    "lat": 42.3493
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Eastern Market", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0403, 
+    "lat": 42.3461
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Eastern Market", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0385, 
+    "lat": 42.3466
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Eastern Market", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0396, 
+    "lat": 42.3476
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Eastern Market", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0376, 
+    "lat": 42.3479
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Eastern Market", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0373, 
+    "lat": 42.3471
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Eastern Market", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0448, 
+    "lat": 42.3514
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Eastern Market", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0424, 
+    "lat": 42.3491
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Eastern Market", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.041, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Eastern Market", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0411, 
+    "lat": 42.3476
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Eastern Market", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0459, 
+    "lat": 42.3517
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Eastern Market", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.041, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Eastern Market", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0438, 
+    "lat": 42.3494
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Eastern Market", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0473, 
+    "lat": 42.3514
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Eastern Market", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0381, 
+    "lat": 42.3464
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Eastern Market", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0399, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Eastern Market", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0388, 
+    "lat": 42.3435
+  }
+]

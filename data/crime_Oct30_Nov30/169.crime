@@ -1,0 +1,488 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2122, 
+    "lat": 42.3797
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.199, 
+    "lat": 42.3866
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2026, 
+    "lat": 42.3856
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.206, 
+    "lat": 42.3852
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.203, 
+    "lat": 42.386
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 23, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2103, 
+    "lat": 42.3859
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1981, 
+    "lat": 42.3869
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2026, 
+    "lat": 42.3857
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2203, 
+    "lat": 42.385
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.2061, 
+    "lat": 42.3851
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.1921, 
+    "lat": 42.387
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2044, 
+    "lat": 42.3859
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2045, 
+    "lat": 42.3857
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2361, 
+    "lat": 42.3859
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2122, 
+    "lat": 42.3808
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2249, 
+    "lat": 42.3863
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1866, 
+    "lat": 42.386
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2093, 
+    "lat": 42.3824
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 17, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.193, 
+    "lat": 42.38
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2083, 
+    "lat": 42.3843
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.206, 
+    "lat": 42.3858
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2169, 
+    "lat": 42.3832
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2045, 
+    "lat": 42.3858
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2103, 
+    "lat": 42.3803
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 23, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2103, 
+    "lat": 42.3859
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2212, 
+    "lat": 42.3857
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1968, 
+    "lat": 42.387
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2072, 
+    "lat": 42.3829
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 19, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1977, 
+    "lat": 42.3812
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2124, 
+    "lat": 42.3798
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2154, 
+    "lat": 42.3848
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1852, 
+    "lat": 42.3872
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1952, 
+    "lat": 42.3844
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2062, 
+    "lat": 42.3851
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2062, 
+    "lat": 42.3852
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2032, 
+    "lat": 42.3868
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2084, 
+    "lat": 42.386
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1988, 
+    "lat": 42.3866
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2256, 
+    "lat": 42.3847
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1982, 
+    "lat": 42.3869
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2366, 
+    "lat": 42.3861
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2132, 
+    "lat": 42.3848
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1993, 
+    "lat": 42.3867
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2179, 
+    "lat": 42.3846
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1902, 
+    "lat": 42.384
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2131, 
+    "lat": 42.3834
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2231, 
+    "lat": 42.3858
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 8, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2103, 
+    "lat": 42.3801
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1936, 
+    "lat": 42.3799
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 13, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2186, 
+    "lat": 42.3865
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2249, 
+    "lat": 42.3861
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 12, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2041, 
+    "lat": 42.3817
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2171, 
+    "lat": 42.3833
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Schoolcraft-I96", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2123, 
+    "lat": 42.3799
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Greektown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0442, 
+    "lat": 42.3342
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Greektown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0413, 
+    "lat": 42.3344
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Greektown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0411, 
+    "lat": 42.3346
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Greektown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0426, 
+    "lat": 42.3338
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Greektown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0412, 
+    "lat": 42.3346
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Greektown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0402, 
+    "lat": 42.3357
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Greektown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0425, 
+    "lat": 42.3349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Greektown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0437, 
+    "lat": 42.3343
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Greektown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0415, 
+    "lat": 42.3351
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Greektown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.043, 
+    "lat": 42.3342
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Greektown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0419, 
+    "lat": 42.3352
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Greektown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0445, 
+    "lat": 42.3342
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Greektown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0411, 
+    "lat": 42.3344
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Greektown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0418, 
+    "lat": 42.3353
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Greektown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.041, 
+    "lat": 42.3345
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Greektown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0419, 
+    "lat": 42.3353
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Greektown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0424, 
+    "lat": 42.3348
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Greektown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0422, 
+    "lat": 42.3349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Greektown", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.041, 
+    "lat": 42.3347
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Greektown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0413, 
+    "lat": 42.3346
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Greektown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.041, 
+    "lat": 42.3347
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Greektown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0413, 
+    "lat": 42.3344
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Greektown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0426, 
+    "lat": 42.3347
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Greektown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0427, 
+    "lat": 42.3338
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Greektown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0409, 
+    "lat": 42.3356
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Greektown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.041, 
+    "lat": 42.3347
+  }
+]

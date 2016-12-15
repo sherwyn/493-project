@@ -1,0 +1,875 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1658, 
+    "lat": 42.3678
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Barton-McFarland", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1672, 
+    "lat": 42.3708
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1539, 
+    "lat": 42.3553
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1754, 
+    "lat": 42.371
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1681, 
+    "lat": 42.3672
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.169, 
+    "lat": 42.3658
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1586, 
+    "lat": 42.3693
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1692, 
+    "lat": 42.3608
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 18, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1713, 
+    "lat": 42.3587
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1648, 
+    "lat": 42.3714
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1672, 
+    "lat": 42.3604
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 18, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1653, 
+    "lat": 42.3687
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1563, 
+    "lat": 42.3642
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1727, 
+    "lat": 42.3623
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1754, 
+    "lat": 42.3665
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.1564, 
+    "lat": 42.3645
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Barton-McFarland", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1749, 
+    "lat": 42.3724
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1747, 
+    "lat": 42.3661
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1583, 
+    "lat": 42.3694
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1636, 
+    "lat": 42.364
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1498, 
+    "lat": 42.3646
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1583, 
+    "lat": 42.3692
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1711, 
+    "lat": 42.373
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1683, 
+    "lat": 42.367
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 9, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1699, 
+    "lat": 42.3655
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1688, 
+    "lat": 42.3666
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1623, 
+    "lat": 42.3702
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.165, 
+    "lat": 42.3619
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1499, 
+    "lat": 42.3545
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1733, 
+    "lat": 42.368
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1752, 
+    "lat": 42.3659
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1717, 
+    "lat": 42.3685
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1512, 
+    "lat": 42.3585
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1528, 
+    "lat": 42.3676
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1705, 
+    "lat": 42.3652
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1697, 
+    "lat": 42.3659
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1514, 
+    "lat": 42.3627
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Barton-McFarland", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1753, 
+    "lat": 42.3657
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Barton-McFarland", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1736, 
+    "lat": 42.372
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1656, 
+    "lat": 42.3686
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1561, 
+    "lat": 42.3544
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1747, 
+    "lat": 42.3731
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1727, 
+    "lat": 42.3721
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1721, 
+    "lat": 42.3703
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.166, 
+    "lat": 42.3701
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1757, 
+    "lat": 42.3727
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1609, 
+    "lat": 42.3694
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1557, 
+    "lat": 42.3562
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.161, 
+    "lat": 42.373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1512, 
+    "lat": 42.3591
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1631, 
+    "lat": 42.3591
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1569, 
+    "lat": 42.3637
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 16, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1691, 
+    "lat": 42.3625
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1691, 
+    "lat": 42.3625
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1498, 
+    "lat": 42.3645
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.165, 
+    "lat": 42.3699
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1561, 
+    "lat": 42.3572
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1599, 
+    "lat": 42.3597
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1567, 
+    "lat": 42.3672
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1584, 
+    "lat": 42.3693
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1557, 
+    "lat": 42.3636
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1733, 
+    "lat": 42.3682
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.151, 
+    "lat": 42.3735
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1756, 
+    "lat": 42.3703
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1551, 
+    "lat": 42.3589
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1715, 
+    "lat": 42.3685
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1589, 
+    "lat": 42.3675
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1592, 
+    "lat": 42.3674
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1604, 
+    "lat": 42.3653
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1594, 
+    "lat": 42.3592
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1693, 
+    "lat": 42.3622
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1691, 
+    "lat": 42.3622
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1629, 
+    "lat": 42.3608
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1629, 
+    "lat": 42.3607
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 0, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1526, 
+    "lat": 42.3674
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1705, 
+    "lat": 42.3658
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1585, 
+    "lat": 42.3715
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 19, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1532, 
+    "lat": 42.3663
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1571, 
+    "lat": 42.352
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1674, 
+    "lat": 42.3588
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1623, 
+    "lat": 42.3603
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1595, 
+    "lat": 42.359
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1759, 
+    "lat": 42.3657
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1501, 
+    "lat": 42.3584
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1592, 
+    "lat": 42.3673
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1517, 
+    "lat": 42.3587
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1674, 
+    "lat": 42.3591
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.149, 
+    "lat": 42.3528
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1693, 
+    "lat": 42.3661
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.153, 
+    "lat": 42.3678
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1527, 
+    "lat": 42.353
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1516, 
+    "lat": 42.3557
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1526, 
+    "lat": 42.3674
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1642, 
+    "lat": 42.3623
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.157, 
+    "lat": 42.352
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1761, 
+    "lat": 42.3634
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Barton-McFarland", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1727, 
+    "lat": 42.3624
+  }
+]

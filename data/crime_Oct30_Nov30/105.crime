@@ -1,0 +1,371 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0355, 
+    "lat": 42.3379
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.037, 
+    "lat": 42.3403
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0292, 
+    "lat": 42.3381
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0326, 
+    "lat": 42.3418
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0348, 
+    "lat": 42.3436
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0321, 
+    "lat": 42.3381
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Lafayette Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.034, 
+    "lat": 42.344
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 11, 
+    "community": "Lafayette Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0347, 
+    "lat": 42.3341
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0375, 
+    "lat": 42.3359
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0369, 
+    "lat": 42.3402
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0337, 
+    "lat": 42.3416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0332, 
+    "lat": 42.3348
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0319, 
+    "lat": 42.3405
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0366, 
+    "lat": 42.3435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0365, 
+    "lat": 42.3434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0364, 
+    "lat": 42.3394
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0293, 
+    "lat": 42.3381
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0363, 
+    "lat": 42.3431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0286, 
+    "lat": 42.3368
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0348, 
+    "lat": 42.3413
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0297, 
+    "lat": 42.3374
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0371, 
+    "lat": 42.3403
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0287, 
+    "lat": 42.3366
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.038, 
+    "lat": 42.3436
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0342, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0349, 
+    "lat": 42.333
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0347, 
+    "lat": 42.3413
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0332, 
+    "lat": 42.3417
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0346, 
+    "lat": 42.3364
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0321, 
+    "lat": 42.335
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0367, 
+    "lat": 42.3362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0313, 
+    "lat": 42.3377
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0364, 
+    "lat": 42.3434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0361, 
+    "lat": 42.3343
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0375, 
+    "lat": 42.3447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0312, 
+    "lat": 42.3356
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.035, 
+    "lat": 42.3437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.036, 
+    "lat": 42.3363
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0296, 
+    "lat": 42.3371
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0371, 
+    "lat": 42.3403
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Lafayette Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0343, 
+    "lat": 42.3492
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Martin Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1209, 
+    "lat": 42.4158
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Martin Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1224, 
+    "lat": 42.4124
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Martin Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1236, 
+    "lat": 42.4151
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Martin Park", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1275, 
+    "lat": 42.4102
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Martin Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1304, 
+    "lat": 42.4106
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Martin Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1277, 
+    "lat": 42.4102
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Martin Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1352, 
+    "lat": 42.4116
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Martin Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1346, 
+    "lat": 42.4148
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 9, 
+    "community": "Martin Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1284, 
+    "lat": 42.4169
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 13, 
+    "community": "Martin Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.127, 
+    "lat": 42.4121
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 10, 
+    "community": "Martin Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1376, 
+    "lat": 42.4148
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 1, 
+    "community": "Martin Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1328, 
+    "lat": 42.4172
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Martin Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1346, 
+    "lat": 42.4104
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Martin Park", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1402, 
+    "lat": 42.4101
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Martin Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.124, 
+    "lat": 42.4109
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Martin Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1237, 
+    "lat": 42.4151
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Martin Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1251, 
+    "lat": 42.4138
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Martin Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1197, 
+    "lat": 42.4141
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Martin Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1347, 
+    "lat": 42.4131
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Martin Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1315, 
+    "lat": 42.4119
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Martin Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1376, 
+    "lat": 42.415
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Martin Park", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1239, 
+    "lat": 42.4152
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Martin Park", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1343, 
+    "lat": 42.415
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 23, 
+    "community": "Martin Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1348, 
+    "lat": 42.4148
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Martin Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1303, 
+    "lat": 42.4142
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Martin Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1351, 
+    "lat": 42.4111
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Marina District", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9742, 
+    "lat": 42.365
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Marina District", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9715, 
+    "lat": 42.3661
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Marina District", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9718, 
+    "lat": 42.3641
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Marina District", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9733, 
+    "lat": 42.3639
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Marina District", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9741, 
+    "lat": 42.3652
+  }
+]

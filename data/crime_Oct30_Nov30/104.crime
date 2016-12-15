@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "LaSalle Gardens", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0924, 
+    "lat": 42.3634
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "LaSalle Gardens", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1019, 
+    "lat": 42.3674
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "LaSalle Gardens", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0982, 
+    "lat": 42.3614
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "LaSalle Gardens", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0946, 
+    "lat": 42.3628
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "LaSalle Gardens", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0969, 
+    "lat": 42.3658
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "LaSalle Gardens", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0966, 
+    "lat": 42.3619
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "LaSalle Gardens", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0961, 
+    "lat": 42.3618
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "LaSalle Gardens", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0943, 
+    "lat": 42.3627
+  }
+]

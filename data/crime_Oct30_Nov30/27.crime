@@ -1,0 +1,866 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Claytown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1338, 
+    "lat": 42.3295
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Claytown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1399, 
+    "lat": 42.3444
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Claytown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1448, 
+    "lat": 42.3352
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Claytown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1445, 
+    "lat": 42.3346
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Claytown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1324, 
+    "lat": 42.3298
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Claytown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1424, 
+    "lat": 42.3341
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Claytown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1283, 
+    "lat": 42.3285
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Claytown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1374, 
+    "lat": 42.3342
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Claytown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1376, 
+    "lat": 42.3344
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Claytown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1418, 
+    "lat": 42.3308
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Claytown", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1493, 
+    "lat": 42.3308
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Claytown", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1358, 
+    "lat": 42.3412
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Claytown", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.154, 
+    "lat": 42.3361
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 1, 
+    "community": "Claytown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1398, 
+    "lat": 42.3311
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 2, 
+    "community": "Claytown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1443, 
+    "lat": 42.3306
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Claytown", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.1426, 
+    "lat": 42.3366
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 23, 
+    "community": "Claytown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1368, 
+    "lat": 42.3333
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Claytown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1443, 
+    "lat": 42.3373
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Claytown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1483, 
+    "lat": 42.3385
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 23, 
+    "community": "Claytown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1368, 
+    "lat": 42.3332
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Claytown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1414, 
+    "lat": 42.3344
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Claytown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1283, 
+    "lat": 42.3241
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Claytown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.134, 
+    "lat": 42.3309
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Claytown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1336, 
+    "lat": 42.3311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Claytown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.141, 
+    "lat": 42.3359
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Claytown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1254, 
+    "lat": 42.3281
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Claytown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1333, 
+    "lat": 42.3293
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Claytown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1396, 
+    "lat": 42.3381
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Claytown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1328, 
+    "lat": 42.3284
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Claytown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1326, 
+    "lat": 42.3283
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Claytown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1429, 
+    "lat": 42.331
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Claytown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1415, 
+    "lat": 42.3416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Claytown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1286, 
+    "lat": 42.3389
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Claytown", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1381, 
+    "lat": 42.3389
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Claytown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1393, 
+    "lat": 42.3282
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Claytown", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1478, 
+    "lat": 42.3387
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 19, 
+    "community": "Claytown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1435, 
+    "lat": 42.3243
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Claytown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1281, 
+    "lat": 42.3353
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Claytown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1326, 
+    "lat": 42.325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Claytown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1426, 
+    "lat": 42.3323
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Claytown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1393, 
+    "lat": 42.3298
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 1, 
+    "community": "Claytown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.145, 
+    "lat": 42.3313
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Claytown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1285, 
+    "lat": 42.339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Claytown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1478, 
+    "lat": 42.3352
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Claytown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1266, 
+    "lat": 42.3385
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Claytown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.153, 
+    "lat": 42.3351
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Claytown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1448, 
+    "lat": 42.3276
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Claytown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1435, 
+    "lat": 42.3244
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Claytown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1229, 
+    "lat": 42.3312
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Claytown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1477, 
+    "lat": 42.3367
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Claytown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1291, 
+    "lat": 42.3351
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Claytown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1514, 
+    "lat": 42.3307
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Claytown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1332, 
+    "lat": 42.3293
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Claytown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1306, 
+    "lat": 42.3277
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Claytown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1446, 
+    "lat": 42.3301
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 15, 
+    "community": "Claytown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1439, 
+    "lat": 42.3402
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Claytown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1441, 
+    "lat": 42.3443
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Claytown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1283, 
+    "lat": 42.3238
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Claytown", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1508, 
+    "lat": 42.3373
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Claytown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1497, 
+    "lat": 42.3369
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Claytown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1451, 
+    "lat": 42.3276
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Claytown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1285, 
+    "lat": 42.3312
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Claytown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1388, 
+    "lat": 42.3355
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Claytown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1252, 
+    "lat": 42.3279
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Claytown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1332, 
+    "lat": 42.3321
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Claytown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1515, 
+    "lat": 42.3323
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Claytown", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1516, 
+    "lat": 42.3284
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Claytown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1314, 
+    "lat": 42.3283
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Claytown", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1318, 
+    "lat": 42.3311
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 3, 
+    "community": "Claytown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1441, 
+    "lat": 42.344
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Claytown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1274, 
+    "lat": 42.3312
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Claytown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1288, 
+    "lat": 42.3348
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Claytown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1301, 
+    "lat": 42.3322
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Claytown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1405, 
+    "lat": 42.3442
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Claytown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1327, 
+    "lat": 42.325
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Claytown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1331, 
+    "lat": 42.3323
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Claytown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1565, 
+    "lat": 42.3279
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Claytown", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1466, 
+    "lat": 42.3356
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Claytown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1483, 
+    "lat": 42.3298
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Claytown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.139, 
+    "lat": 42.3362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Claytown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1213, 
+    "lat": 42.3321
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Claytown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1426, 
+    "lat": 42.3343
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Claytown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1432, 
+    "lat": 42.3329
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Claytown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1289, 
+    "lat": 42.3389
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 1, 
+    "community": "Claytown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1561, 
+    "lat": 42.328
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Claytown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1299, 
+    "lat": 42.3415
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Claytown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.143, 
+    "lat": 42.3329
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 13, 
+    "community": "Claytown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1477, 
+    "lat": 42.3284
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Claytown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1487, 
+    "lat": 42.3335
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Claytown", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.138, 
+    "lat": 42.3307
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 23, 
+    "community": "Claytown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1565, 
+    "lat": 42.3279
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 23, 
+    "community": "Claytown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1565, 
+    "lat": 42.3276
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Claytown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1331, 
+    "lat": 42.3386
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Claytown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.145, 
+    "lat": 42.3274
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Claytown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1307, 
+    "lat": 42.3391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Claytown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1405, 
+    "lat": 42.336
+  }
+]

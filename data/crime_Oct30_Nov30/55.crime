@@ -1,0 +1,704 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Farwell", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.043, 
+    "lat": 42.4339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 12, 
+    "community": "Farwell", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0569, 
+    "lat": 42.4343
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Farwell", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0621, 
+    "lat": 42.4382
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Farwell", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.068, 
+    "lat": 42.4433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Farwell", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0447, 
+    "lat": 42.4378
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Farwell", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0477, 
+    "lat": 42.4359
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Farwell", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0668, 
+    "lat": 42.4434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Farwell", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0693, 
+    "lat": 42.4443
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Farwell", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0615, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Farwell", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0428, 
+    "lat": 42.434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Farwell", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0654, 
+    "lat": 42.4415
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Farwell", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0523, 
+    "lat": 42.4353
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Farwell", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0499, 
+    "lat": 42.4449
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Farwell", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0498, 
+    "lat": 42.4451
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Farwell", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0516, 
+    "lat": 42.4336
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Farwell", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.045, 
+    "lat": 42.4355
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Farwell", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.049, 
+    "lat": 42.4377
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "Farwell", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.069, 
+    "lat": 42.4471
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Farwell", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.044, 
+    "lat": 42.4477
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Farwell", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0684, 
+    "lat": 42.4435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Farwell", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.069, 
+    "lat": 42.4429
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Farwell", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0441, 
+    "lat": 42.4402
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Farwell", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0475, 
+    "lat": 42.4373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Farwell", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0617, 
+    "lat": 42.4428
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Farwell", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0618, 
+    "lat": 42.4415
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Farwell", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0521, 
+    "lat": 42.4352
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Farwell", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0473, 
+    "lat": 42.4368
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 12, 
+    "community": "Farwell", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0568, 
+    "lat": 42.4341
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Farwell", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0616, 
+    "lat": 42.4379
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Farwell", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.043, 
+    "lat": 42.4373
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Farwell", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0402, 
+    "lat": 42.447
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Farwell", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0506, 
+    "lat": 42.4416
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Farwell", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0492, 
+    "lat": 42.4432
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Farwell", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0422, 
+    "lat": 42.4404
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Farwell", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0591, 
+    "lat": 42.4393
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 4, 
+    "community": "Farwell", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0437, 
+    "lat": 42.4337
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Farwell", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0545, 
+    "lat": 42.4357
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Farwell", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0535, 
+    "lat": 42.4413
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Farwell", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0651, 
+    "lat": 42.443
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Farwell", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0624, 
+    "lat": 42.4372
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Farwell", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0527, 
+    "lat": 42.4337
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Farwell", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0473, 
+    "lat": 42.4367
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Farwell", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0626, 
+    "lat": 42.4385
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Farwell", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0674, 
+    "lat": 42.4458
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Farwell", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0403, 
+    "lat": 42.4469
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Farwell", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.065, 
+    "lat": 42.4428
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Farwell", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0569, 
+    "lat": 42.4405
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Farwell", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0441, 
+    "lat": 42.4405
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Farwell", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.059, 
+    "lat": 42.4355
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Farwell", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0633, 
+    "lat": 42.4426
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Farwell", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0591, 
+    "lat": 42.4393
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Farwell", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0617, 
+    "lat": 42.4457
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Farwell", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0679, 
+    "lat": 42.4406
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Farwell", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0628, 
+    "lat": 42.4377
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Farwell", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0592, 
+    "lat": 42.4363
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Farwell", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0536, 
+    "lat": 42.4374
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Farwell", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0453, 
+    "lat": 42.4372
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Farwell", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0483, 
+    "lat": 42.4394
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Farwell", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0471, 
+    "lat": 42.436
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Farwell", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0438, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 6, 
+    "community": "Farwell", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.068, 
+    "lat": 42.4467
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Farwell", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0563, 
+    "lat": 42.4391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Farwell", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0564, 
+    "lat": 42.439
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Farwell", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0659, 
+    "lat": 42.4453
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Farwell", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.044, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 6, 
+    "community": "Farwell", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0623, 
+    "lat": 42.4429
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Farwell", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0497, 
+    "lat": 42.4451
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Farwell", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0523, 
+    "lat": 42.4419
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 14, 
+    "community": "Farwell", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0664, 
+    "lat": 42.4428
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Farwell", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0485, 
+    "lat": 42.4355
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Farwell", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0534, 
+    "lat": 42.4443
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 3, 
+    "community": "Farwell", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.067, 
+    "lat": 42.4436
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Farwell", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0536, 
+    "lat": 42.4414
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Farwell", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0604, 
+    "lat": 42.438
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Farwell", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.046, 
+    "lat": 42.4382
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Farwell", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0638, 
+    "lat": 42.4422
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Farwell", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0457, 
+    "lat": 42.4366
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Farwell", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0627, 
+    "lat": 42.4432
+  }
+]

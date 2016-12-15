@@ -1,0 +1,137 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Delray", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1251, 
+    "lat": 42.2907
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Delray", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1007, 
+    "lat": 42.3048
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Delray", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1004, 
+    "lat": 42.3077
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Delray", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0981, 
+    "lat": 42.3098
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Delray", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1218, 
+    "lat": 42.2919
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Delray", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0981, 
+    "lat": 42.31
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Delray", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1054, 
+    "lat": 42.3059
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Delray", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1017, 
+    "lat": 42.2995
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Delray", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1017, 
+    "lat": 42.2996
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Delray", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1163, 
+    "lat": 42.2963
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 13, 
+    "community": "Delray", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.112, 
+    "lat": 42.2973
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Delray", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1202, 
+    "lat": 42.2924
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Delray", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0991, 
+    "lat": 42.3035
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Delray", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1199, 
+    "lat": 42.2929
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Delray", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1189, 
+    "lat": 42.3
+  }
+]

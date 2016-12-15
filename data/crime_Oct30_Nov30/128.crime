@@ -1,0 +1,83 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "New Center", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0769, 
+    "lat": 42.369
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "New Center", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0767, 
+    "lat": 42.369
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "New Center", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0813, 
+    "lat": 42.3678
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "New Center", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0758, 
+    "lat": 42.3703
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "New Center", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0789, 
+    "lat": 42.3681
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "New Center", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.075, 
+    "lat": 42.3703
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 14, 
+    "community": "New Center", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0791, 
+    "lat": 42.3683
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "New Center", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0814, 
+    "lat": 42.3671
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "New Center", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0751, 
+    "lat": 42.3701
+  }
+]

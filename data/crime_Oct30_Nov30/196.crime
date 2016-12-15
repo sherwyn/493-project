@@ -1,0 +1,29 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "West Woodbridge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0892, 
+    "lat": 42.3487
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "West Woodbridge", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0864, 
+    "lat": 42.3489
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "West Woodbridge", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0835, 
+    "lat": 42.3494
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1304, 
+    "lat": 42.3653
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1133, 
+    "lat": 42.3592
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1277, 
+    "lat": 42.3651
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1289, 
+    "lat": 42.3648
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1182, 
+    "lat": 42.3627
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1149, 
+    "lat": 42.3594
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1221, 
+    "lat": 42.3656
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1193, 
+    "lat": 42.3693
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1231, 
+    "lat": 42.3654
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1211, 
+    "lat": 42.3615
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1112, 
+    "lat": 42.3573
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1185, 
+    "lat": 42.3618
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1182, 
+    "lat": 42.3621
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1198, 
+    "lat": 42.369
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1182, 
+    "lat": 42.362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1191, 
+    "lat": 42.3624
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1155, 
+    "lat": 42.3649
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 20, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.12, 
+    "lat": 42.3692
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1139, 
+    "lat": 42.3645
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1187, 
+    "lat": 42.3616
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1212, 
+    "lat": 42.3683
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 9, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1167, 
+    "lat": 42.3675
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1176, 
+    "lat": 42.37
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1171, 
+    "lat": 42.36
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1095, 
+    "lat": 42.3569
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1217, 
+    "lat": 42.3654
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1213, 
+    "lat": 42.368
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Petoskey-Otsego", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1186, 
+    "lat": 42.362
+  }
+]

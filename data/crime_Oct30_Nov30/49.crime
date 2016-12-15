@@ -1,0 +1,155 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0811, 
+    "lat": 42.3566
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0799, 
+    "lat": 42.3611
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0813, 
+    "lat": 42.3588
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0933, 
+    "lat": 42.3617
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0912, 
+    "lat": 42.3633
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Elijah McCoy", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0933, 
+    "lat": 42.3617
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0933, 
+    "lat": 42.3619
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0796, 
+    "lat": 42.361
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0821, 
+    "lat": 42.3596
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0814, 
+    "lat": 42.3587
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0811, 
+    "lat": 42.3564
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.091, 
+    "lat": 42.3634
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0936, 
+    "lat": 42.361
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.091, 
+    "lat": 42.3635
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0883, 
+    "lat": 42.3609
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0816, 
+    "lat": 42.3574
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Elijah McCoy", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0814, 
+    "lat": 42.3566
+  }
+]

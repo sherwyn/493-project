@@ -1,0 +1,155 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Boston Edison", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1095, 
+    "lat": 42.3754
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Boston Edison", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0996, 
+    "lat": 42.3792
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Boston Edison", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1042, 
+    "lat": 42.3782
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Boston Edison", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0831, 
+    "lat": 42.3846
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Boston Edison", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1087, 
+    "lat": 42.3765
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Boston Edison", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1017, 
+    "lat": 42.3783
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Boston Edison", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.086, 
+    "lat": 42.3841
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Boston Edison", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1069, 
+    "lat": 42.3754
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Boston Edison", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1069, 
+    "lat": 42.3755
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Boston Edison", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0994, 
+    "lat": 42.3813
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 1, 
+    "community": "Boston Edison", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0975, 
+    "lat": 42.3836
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Boston Edison", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1041, 
+    "lat": 42.3769
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 12, 
+    "community": "Boston Edison", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0983, 
+    "lat": 42.3798
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Boston Edison", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0989, 
+    "lat": 42.3802
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Boston Edison", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1086, 
+    "lat": 42.3754
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Boston Edison", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0898, 
+    "lat": 42.3832
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Boston Edison", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0835, 
+    "lat": 42.3851
+  }
+]

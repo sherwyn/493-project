@@ -1,0 +1,191 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Weatherby", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2355, 
+    "lat": 42.3766
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Weatherby", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2441, 
+    "lat": 42.3785
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Weatherby", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.2391, 
+    "lat": 42.3748
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Weatherby", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2409, 
+    "lat": 42.3756
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Weatherby", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2462, 
+    "lat": 42.3719
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Weatherby", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2316, 
+    "lat": 42.3758
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Weatherby", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2395, 
+    "lat": 42.3753
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Weatherby", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2372, 
+    "lat": 42.3746
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Weatherby", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2403, 
+    "lat": 42.3719
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Weatherby", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2401, 
+    "lat": 42.3719
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Weatherby", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2434, 
+    "lat": 42.3753
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Weatherby", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2451, 
+    "lat": 42.374
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Weatherby", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2363, 
+    "lat": 42.374
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Weatherby", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2395, 
+    "lat": 42.3736
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Weatherby", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2429, 
+    "lat": 42.3722
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Weatherby", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2375, 
+    "lat": 42.372
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Weatherby", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2388, 
+    "lat": 42.3719
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Weatherby", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2328, 
+    "lat": 42.3728
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Weatherby", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2393, 
+    "lat": 42.372
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Weatherby", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2336, 
+    "lat": 42.3724
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Weatherby", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2382, 
+    "lat": 42.3725
+  }
+]

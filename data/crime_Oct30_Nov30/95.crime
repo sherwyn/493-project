@@ -1,0 +1,398 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Islandview", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0156, 
+    "lat": 42.3552
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Islandview", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0013, 
+    "lat": 42.3516
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Islandview", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0111, 
+    "lat": 42.3625
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Islandview", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0017, 
+    "lat": 42.3494
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Islandview", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0052, 
+    "lat": 42.3521
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Islandview", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0145, 
+    "lat": 42.3619
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Islandview", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0014, 
+    "lat": 42.3516
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Islandview", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.002, 
+    "lat": 42.3488
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Islandview", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9989, 
+    "lat": 42.3488
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Islandview", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0087, 
+    "lat": 42.3658
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Islandview", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0049, 
+    "lat": 42.353
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Islandview", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0003, 
+    "lat": 42.3481
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Islandview", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9981, 
+    "lat": 42.3494
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Islandview", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0127, 
+    "lat": 42.3619
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Islandview", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.005, 
+    "lat": 42.353
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Islandview", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0111, 
+    "lat": 42.3625
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Islandview", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0114, 
+    "lat": 42.3595
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Islandview", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0061, 
+    "lat": 42.3565
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Islandview", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0074, 
+    "lat": 42.3556
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Islandview", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0073, 
+    "lat": 42.3555
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Islandview", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0094, 
+    "lat": 42.3636
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Islandview", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0031, 
+    "lat": 42.3511
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Islandview", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0116, 
+    "lat": 42.3604
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Islandview", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0101, 
+    "lat": 42.3438
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Islandview", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0145, 
+    "lat": 42.3506
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Islandview", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0143, 
+    "lat": 42.3503
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Islandview", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0103, 
+    "lat": 42.3557
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Islandview", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0145, 
+    "lat": 42.3619
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Islandview", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.009, 
+    "lat": 42.3625
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Islandview", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0108, 
+    "lat": 42.355
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Islandview", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0095, 
+    "lat": 42.3598
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Islandview", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0064, 
+    "lat": 42.3525
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Islandview", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0053, 
+    "lat": 42.3513
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Islandview", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.002, 
+    "lat": 42.3493
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Islandview", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0126, 
+    "lat": 42.3633
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Islandview", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0014, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Islandview", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0005, 
+    "lat": 42.3594
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Islandview", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.005, 
+    "lat": 42.3591
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Islandview", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0059, 
+    "lat": 42.354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Islandview", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0061, 
+    "lat": 42.3546
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Islandview", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0057, 
+    "lat": 42.3536
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Islandview", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0041, 
+    "lat": 42.3645
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Islandview", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.01, 
+    "lat": 42.3605
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Islandview", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0064, 
+    "lat": 42.3526
+  }
+]

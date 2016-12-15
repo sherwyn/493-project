@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Old Redford", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2579, 
+    "lat": 42.4181
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Old Redford", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.2584, 
+    "lat": 42.4168
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Old Redford", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2618, 
+    "lat": 42.4224
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Old Redford", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2584, 
+    "lat": 42.421
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Old Redford", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2609, 
+    "lat": 42.4202
+  }
+]

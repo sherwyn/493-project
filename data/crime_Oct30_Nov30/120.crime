@@ -1,0 +1,227 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0698, 
+    "lat": 42.3695
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0711, 
+    "lat": 42.3693
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0711, 
+    "lat": 42.3692
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0673, 
+    "lat": 42.3701
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0638, 
+    "lat": 42.3723
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 10, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0698, 
+    "lat": 42.3712
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0695, 
+    "lat": 42.3703
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0717, 
+    "lat": 42.3698
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.069, 
+    "lat": 42.3703
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0711, 
+    "lat": 42.3693
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0672, 
+    "lat": 42.3702
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0703, 
+    "lat": 42.37
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.071, 
+    "lat": 42.3691
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0542, 
+    "lat": 42.3741
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0674, 
+    "lat": 42.3699
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 2, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0723, 
+    "lat": 42.3691
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0676, 
+    "lat": 42.3701
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0636, 
+    "lat": 42.3724
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0634, 
+    "lat": 42.3724
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0636, 
+    "lat": 42.3727
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0702, 
+    "lat": 42.3701
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0719, 
+    "lat": 42.3688
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0639, 
+    "lat": 42.3723
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0643, 
+    "lat": 42.3732
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Milwaukee Junction", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0656, 
+    "lat": 42.3721
+  }
+]

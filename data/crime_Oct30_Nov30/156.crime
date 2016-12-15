@@ -1,0 +1,146 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2034, 
+    "lat": 42.3749
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Plymouth-I96", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2147, 
+    "lat": 42.3726
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2026, 
+    "lat": 42.3773
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2037, 
+    "lat": 42.3748
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1989, 
+    "lat": 42.3739
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1977, 
+    "lat": 42.3726
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2061, 
+    "lat": 42.3769
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 19, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.212, 
+    "lat": 42.3724
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2028, 
+    "lat": 42.3755
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.204, 
+    "lat": 42.3726
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2086, 
+    "lat": 42.3778
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2145, 
+    "lat": 42.3726
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2086, 
+    "lat": 42.3776
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2012, 
+    "lat": 42.3726
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2098, 
+    "lat": 42.3751
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 19, 
+    "community": "Plymouth-I96", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2046, 
+    "lat": 42.3725
+  }
+]

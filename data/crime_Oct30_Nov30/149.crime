@@ -1,0 +1,173 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Penrose", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1189, 
+    "lat": 42.4391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Penrose", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1178, 
+    "lat": 42.4392
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Penrose", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1153, 
+    "lat": 42.4322
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Penrose", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1178, 
+    "lat": 42.4393
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Penrose", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1095, 
+    "lat": 42.4373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Penrose", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1177, 
+    "lat": 42.4391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Penrose", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1068, 
+    "lat": 42.4349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Penrose", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1066, 
+    "lat": 42.4325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Penrose", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1176, 
+    "lat": 42.4391
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Penrose", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1175, 
+    "lat": 42.4391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Penrose", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1123, 
+    "lat": 42.4384
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Penrose", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1057, 
+    "lat": 42.4345
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Penrose", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.107, 
+    "lat": 42.4342
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Penrose", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1171, 
+    "lat": 42.4346
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Penrose", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1064, 
+    "lat": 42.4326
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Penrose", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1186, 
+    "lat": 42.4389
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Penrose", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1103, 
+    "lat": 42.4393
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Penrose", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1187, 
+    "lat": 42.4391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Penrose", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1197, 
+    "lat": 42.4392
+  }
+]

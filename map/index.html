@@ -11,10 +11,22 @@
     <title>Crime in Detroit</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
+<<<<<<< HEAD
     <link href="/css/site.css" rel="stylesheet">
+
+    <!-- Library for rendering map -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://unpkg.com/@mapbox/leaflet-pip@latest/leaflet-pip.js"></script>
+
+=======
+    <link href="../css/site.css" rel="stylesheet">
+    <link href="../css/navbar-fixed-top.css" rel="stylesheet">
+>>>>>>> 543afb47c9a6faa9cac3fc4c86b62c00cce818d9
   </head>
 
   <body>
@@ -59,7 +71,9 @@
           </div>
 
           <div class="col-md-8">
-            <img data-src="holder.js/100px400/thumb" alt="Card image cap">
+            <!-- <img data-src="holder.js/100px400/thumb" alt="Card image cap"> -->
+            <div id="mapid" style="height: 400px"></div>
+
           </div>
         </div>
         <div class="row">

@@ -1,0 +1,254 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Five Points", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2877, 
+    "lat": 42.4423
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Five Points", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2823, 
+    "lat": 42.4275
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Five Points", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2781, 
+    "lat": 42.4289
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Five Points", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2821, 
+    "lat": 42.4283
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Five Points", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2821, 
+    "lat": 42.4281
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Five Points", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2816, 
+    "lat": 42.4287
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Five Points", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2818, 
+    "lat": 42.4287
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Five Points", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2817, 
+    "lat": 42.4302
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Five Points", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2807, 
+    "lat": 42.427
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Five Points", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2841, 
+    "lat": 42.43
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Five Points", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2801, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Five Points", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2807, 
+    "lat": 42.4366
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Five Points", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2807, 
+    "lat": 42.4294
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Five Points", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2873, 
+    "lat": 42.4286
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Five Points", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2794, 
+    "lat": 42.4376
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Five Points", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2852, 
+    "lat": 42.4372
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Five Points", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2795, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Five Points", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2785, 
+    "lat": 42.4426
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Five Points", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2787, 
+    "lat": 42.4343
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Five Points", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2784, 
+    "lat": 42.4321
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Five Points", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2818, 
+    "lat": 42.4273
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Five Points", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2821, 
+    "lat": 42.4347
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Five Points", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2853, 
+    "lat": 42.4375
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Five Points", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2816, 
+    "lat": 42.43
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Five Points", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2781, 
+    "lat": 42.426
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Five Points", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.278, 
+    "lat": 42.4287
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Five Points", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2819, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Five Points", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2821, 
+    "lat": 42.4284
+  }
+]

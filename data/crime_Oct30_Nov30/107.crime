@@ -1,0 +1,263 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Mack Avenue", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9861, 
+    "lat": 42.368
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9818, 
+    "lat": 42.3775
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9783, 
+    "lat": 42.3778
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -82.9815, 
+    "lat": 42.3777
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Mack Avenue", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9811, 
+    "lat": 42.3767
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9841, 
+    "lat": 42.368
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9858, 
+    "lat": 42.3668
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9779, 
+    "lat": 42.364
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 1, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9879, 
+    "lat": 42.3717
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9718, 
+    "lat": 42.3666
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9808, 
+    "lat": 42.3762
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 0, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9774, 
+    "lat": 42.3688
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9809, 
+    "lat": 42.3781
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9782, 
+    "lat": 42.3636
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9777, 
+    "lat": 42.3692
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9757, 
+    "lat": 42.3647
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 14, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9787, 
+    "lat": 42.3767
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9841, 
+    "lat": 42.3686
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 18, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9863, 
+    "lat": 42.3754
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9798, 
+    "lat": 42.3785
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9794, 
+    "lat": 42.3785
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9811, 
+    "lat": 42.377
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9832, 
+    "lat": 42.3687
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9861, 
+    "lat": 42.3675
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9779, 
+    "lat": 42.3767
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9853, 
+    "lat": 42.3716
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9786, 
+    "lat": 42.3775
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9756, 
+    "lat": 42.3721
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 16, 
+    "community": "Mack Avenue", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9851, 
+    "lat": 42.3698
+  }
+]

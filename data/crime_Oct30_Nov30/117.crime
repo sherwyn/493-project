@@ -1,0 +1,1127 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Midtown", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.066, 
+    "lat": 42.3546
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Midtown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0644, 
+    "lat": 42.3438
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Midtown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0681, 
+    "lat": 42.3492
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Midtown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0566, 
+    "lat": 42.3454
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Midtown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0646, 
+    "lat": 42.3433
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Midtown", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0567, 
+    "lat": 42.3417
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0646, 
+    "lat": 42.3439
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0674, 
+    "lat": 42.3528
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0677, 
+    "lat": 42.3531
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0675, 
+    "lat": 42.3531
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Midtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0688, 
+    "lat": 42.354
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0658, 
+    "lat": 42.3526
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 14, 
+    "community": "Midtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0621, 
+    "lat": 42.3435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Midtown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0653, 
+    "lat": 42.344
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Midtown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0632, 
+    "lat": 42.3465
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Midtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0581, 
+    "lat": 42.3464
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0611, 
+    "lat": 42.3545
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Midtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0632, 
+    "lat": 42.353
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0572, 
+    "lat": 42.339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Midtown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0619, 
+    "lat": 42.3462
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Midtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0671, 
+    "lat": 42.3478
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Midtown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0624, 
+    "lat": 42.3437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Midtown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0618, 
+    "lat": 42.3462
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Midtown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.059, 
+    "lat": 42.3429
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Midtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0609, 
+    "lat": 42.3517
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Midtown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0644, 
+    "lat": 42.3542
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Midtown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.066, 
+    "lat": 42.3474
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Midtown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0598, 
+    "lat": 42.3504
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Midtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0661, 
+    "lat": 42.3506
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Midtown", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0604, 
+    "lat": 42.3523
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Midtown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0663, 
+    "lat": 42.3557
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Midtown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0585, 
+    "lat": 42.3417
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Midtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.06, 
+    "lat": 42.3418
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Midtown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0576, 
+    "lat": 42.3384
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Midtown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0602, 
+    "lat": 42.3448
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Midtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0654, 
+    "lat": 42.3389
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Midtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0604, 
+    "lat": 42.3549
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Midtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0661, 
+    "lat": 42.3471
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Midtown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0578, 
+    "lat": 42.3495
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Midtown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.058, 
+    "lat": 42.3465
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Midtown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0649, 
+    "lat": 42.3519
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "Midtown", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0668, 
+    "lat": 42.3478
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 8, 
+    "community": "Midtown", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.063, 
+    "lat": 42.345
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Midtown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0607, 
+    "lat": 42.3368
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Midtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0582, 
+    "lat": 42.3462
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Midtown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0687, 
+    "lat": 42.3498
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "Midtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0568, 
+    "lat": 42.3454
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Midtown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0602, 
+    "lat": 42.3513
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Midtown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0604, 
+    "lat": 42.3513
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Midtown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0624, 
+    "lat": 42.3382
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Midtown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0666, 
+    "lat": 42.3525
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Midtown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0657, 
+    "lat": 42.3446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Midtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0708, 
+    "lat": 42.3512
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Midtown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.066, 
+    "lat": 42.3472
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Midtown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0571, 
+    "lat": 42.3389
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Midtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0641, 
+    "lat": 42.3542
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Midtown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0565, 
+    "lat": 42.3418
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Midtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0618, 
+    "lat": 42.3554
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Midtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0634, 
+    "lat": 42.3563
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Midtown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0652, 
+    "lat": 42.3536
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Midtown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0617, 
+    "lat": 42.3551
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Midtown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0681, 
+    "lat": 42.3491
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Midtown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0616, 
+    "lat": 42.3399
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Midtown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0569, 
+    "lat": 42.3452
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 8, 
+    "community": "Midtown", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0629, 
+    "lat": 42.3447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Midtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0674, 
+    "lat": 42.348
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Midtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0651, 
+    "lat": 42.3506
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Midtown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0577, 
+    "lat": 42.3385
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Midtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0653, 
+    "lat": 42.3486
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Midtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0617, 
+    "lat": 42.354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Midtown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0595, 
+    "lat": 42.3497
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Midtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0686, 
+    "lat": 42.3523
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.063, 
+    "lat": 42.3547
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Midtown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0721, 
+    "lat": 42.3541
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "Midtown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0655, 
+    "lat": 42.3538
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Midtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0665, 
+    "lat": 42.3511
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Midtown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0594, 
+    "lat": 42.3386
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Midtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0622, 
+    "lat": 42.3436
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Midtown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0565, 
+    "lat": 42.3452
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Midtown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.061, 
+    "lat": 42.3488
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Midtown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0683, 
+    "lat": 42.3539
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Midtown", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0639, 
+    "lat": 42.3479
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Midtown", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0593, 
+    "lat": 42.3386
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Midtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0628, 
+    "lat": 42.3495
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 1, 
+    "community": "Midtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0666, 
+    "lat": 42.3518
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Midtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0618, 
+    "lat": 42.3469
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Midtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0711, 
+    "lat": 42.3508
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.057, 
+    "lat": 42.3391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Midtown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0587, 
+    "lat": 42.3512
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Midtown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0675, 
+    "lat": 42.3479
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Midtown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0644, 
+    "lat": 42.3475
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Midtown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0632, 
+    "lat": 42.3467
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0613, 
+    "lat": 42.3545
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Midtown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0555, 
+    "lat": 42.3405
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Midtown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0653, 
+    "lat": 42.344
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Midtown", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0624, 
+    "lat": 42.3539
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 12, 
+    "community": "Midtown", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0577, 
+    "lat": 42.3402
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Midtown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0616, 
+    "lat": 42.3525
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Midtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.06, 
+    "lat": 42.3418
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Midtown", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0648, 
+    "lat": 42.3433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Midtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0686, 
+    "lat": 42.3536
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Midtown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0649, 
+    "lat": 42.3509
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Midtown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0601, 
+    "lat": 42.3442
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Midtown", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0606, 
+    "lat": 42.3479
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Midtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0668, 
+    "lat": 42.3515
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Midtown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0646, 
+    "lat": 42.3522
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Midtown", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0627, 
+    "lat": 42.3424
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Midtown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0605, 
+    "lat": 42.3478
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Midtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0625, 
+    "lat": 42.3379
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Midtown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0685, 
+    "lat": 42.3506
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Midtown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0574, 
+    "lat": 42.3393
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0589, 
+    "lat": 42.3429
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Midtown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0566, 
+    "lat": 42.3452
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Midtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0655, 
+    "lat": 42.3541
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Midtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0622, 
+    "lat": 42.3482
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Midtown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0678, 
+    "lat": 42.3518
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Midtown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0655, 
+    "lat": 42.3447
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Midtown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0651, 
+    "lat": 42.3443
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Midtown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0649, 
+    "lat": 42.3434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Midtown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0601, 
+    "lat": 42.3541
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Midtown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0584, 
+    "lat": 42.3505
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Midtown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0583, 
+    "lat": 42.3504
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Midtown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0616, 
+    "lat": 42.3409
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Midtown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.063, 
+    "lat": 42.3508
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Midtown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0623, 
+    "lat": 42.3445
+  }
+]

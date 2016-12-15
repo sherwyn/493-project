@@ -1,0 +1,128 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0871, 
+    "lat": 42.4321
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0924, 
+    "lat": 42.4308
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0864, 
+    "lat": 42.4292
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0889, 
+    "lat": 42.4275
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 9, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0854, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0906, 
+    "lat": 42.4273
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0916, 
+    "lat": 42.4325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0891, 
+    "lat": 42.4274
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.09, 
+    "lat": 42.4256
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0892, 
+    "lat": 42.4282
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0924, 
+    "lat": 42.4318
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.088, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0871, 
+    "lat": 42.4309
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Hawthorne Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0904, 
+    "lat": 42.4304
+  }
+]

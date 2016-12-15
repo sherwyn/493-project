@@ -1,0 +1,479 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2431, 
+    "lat": 42.4165
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2411, 
+    "lat": 42.4253
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 8, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2402, 
+    "lat": 42.4253
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.243, 
+    "lat": 42.4238
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2563, 
+    "lat": 42.4277
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2455, 
+    "lat": 42.4183
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2582, 
+    "lat": 42.4252
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.2407, 
+    "lat": 42.429
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.256, 
+    "lat": 42.429
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 20, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2507, 
+    "lat": 42.4149
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2443, 
+    "lat": 42.4287
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2408, 
+    "lat": 42.4233
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2508, 
+    "lat": 42.4249
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2396, 
+    "lat": 42.4268
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.239, 
+    "lat": 42.428
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 19, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2384, 
+    "lat": 42.4175
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2539, 
+    "lat": 42.4291
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2461, 
+    "lat": 42.4194
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2576, 
+    "lat": 42.4224
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.256, 
+    "lat": 42.4276
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2552, 
+    "lat": 42.4171
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.256, 
+    "lat": 42.4276
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2485, 
+    "lat": 42.4263
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2416, 
+    "lat": 42.4207
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2576, 
+    "lat": 42.4187
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 22, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2412, 
+    "lat": 42.4175
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 15, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2405, 
+    "lat": 42.4253
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2533, 
+    "lat": 42.4207
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2553, 
+    "lat": 42.4225
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2435, 
+    "lat": 42.4153
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2581, 
+    "lat": 42.4227
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2548, 
+    "lat": 42.4289
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2574, 
+    "lat": 42.4201
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 13, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.242, 
+    "lat": 42.4166
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.241, 
+    "lat": 42.4269
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 23, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2574, 
+    "lat": 42.4168
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2431, 
+    "lat": 42.4187
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2481, 
+    "lat": 42.4285
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2535, 
+    "lat": 42.415
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2493, 
+    "lat": 42.4263
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.24, 
+    "lat": 42.4223
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2493, 
+    "lat": 42.4149
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 1, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.24, 
+    "lat": 42.4284
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2384, 
+    "lat": 42.4154
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2516, 
+    "lat": 42.415
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2531, 
+    "lat": 42.4242
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2561, 
+    "lat": 42.4275
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2409, 
+    "lat": 42.4294
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2487, 
+    "lat": 42.4224
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2565, 
+    "lat": 42.4276
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2574, 
+    "lat": 42.4234
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2468, 
+    "lat": 42.4179
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Bentler-Pickford", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2466, 
+    "lat": 42.4179
+  }
+]

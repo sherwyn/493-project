@@ -1,0 +1,695 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1381, 
+    "lat": 42.3915
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.139, 
+    "lat": 42.3692
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1448, 
+    "lat": 42.3822
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1308, 
+    "lat": 42.3898
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1335, 
+    "lat": 42.3938
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1375, 
+    "lat": 42.3873
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1448, 
+    "lat": 42.3823
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1183, 
+    "lat": 42.4
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1451, 
+    "lat": 42.376
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1451, 
+    "lat": 42.3877
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1213, 
+    "lat": 42.3995
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.122, 
+    "lat": 42.3931
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1426, 
+    "lat": 42.3776
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1258, 
+    "lat": 42.3933
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1408, 
+    "lat": 42.38
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 1, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1482, 
+    "lat": 42.3861
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1438, 
+    "lat": 42.3785
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1392, 
+    "lat": 42.3694
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1419, 
+    "lat": 42.3761
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 19, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1247, 
+    "lat": 42.3921
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1424, 
+    "lat": 42.3818
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1414, 
+    "lat": 42.3894
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 19, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1163, 
+    "lat": 42.3955
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1376, 
+    "lat": 42.3938
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1433, 
+    "lat": 42.3868
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.115, 
+    "lat": 42.3997
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.141, 
+    "lat": 42.3833
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.135, 
+    "lat": 42.3906
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1422, 
+    "lat": 42.3777
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1203, 
+    "lat": 42.3937
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1402, 
+    "lat": 42.3761
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1392, 
+    "lat": 42.3687
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.144, 
+    "lat": 42.3863
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1452, 
+    "lat": 42.3782
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1289, 
+    "lat": 42.3928
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1282, 
+    "lat": 42.3916
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1355, 
+    "lat": 42.3945
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1233, 
+    "lat": 42.3964
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1297, 
+    "lat": 42.3959
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1419, 
+    "lat": 42.3905
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1397, 
+    "lat": 42.3928
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1355, 
+    "lat": 42.3933
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.123, 
+    "lat": 42.3946
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1363, 
+    "lat": 42.3929
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1443, 
+    "lat": 42.3831
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1422, 
+    "lat": 42.3815
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 13, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1396, 
+    "lat": 42.3883
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1294, 
+    "lat": 42.3957
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1448, 
+    "lat": 42.3776
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1333, 
+    "lat": 42.3934
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1392, 
+    "lat": 42.377
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1282, 
+    "lat": 42.3917
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 19, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1265, 
+    "lat": 42.3916
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1228, 
+    "lat": 42.3975
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1425, 
+    "lat": 42.3752
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.14, 
+    "lat": 42.3858
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1166, 
+    "lat": 42.3955
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 14, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1178, 
+    "lat": 42.395
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.145, 
+    "lat": 42.3884
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1392, 
+    "lat": 42.3691
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1391, 
+    "lat": 42.3691
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1242, 
+    "lat": 42.3945
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1395, 
+    "lat": 42.379
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1418, 
+    "lat": 42.3885
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1399, 
+    "lat": 42.3814
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1228, 
+    "lat": 42.3938
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1232, 
+    "lat": 42.3958
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1432, 
+    "lat": 42.3711
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1286, 
+    "lat": 42.3907
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1309, 
+    "lat": 42.3898
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1368, 
+    "lat": 42.3893
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1401, 
+    "lat": 42.3908
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.141, 
+    "lat": 42.3834
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1424, 
+    "lat": 42.3822
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1392, 
+    "lat": 42.3693
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1358, 
+    "lat": 42.3906
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Oakman Blvd Community", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1365, 
+    "lat": 42.3884
+  }
+]

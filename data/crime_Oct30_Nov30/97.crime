@@ -1,0 +1,452 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9498, 
+    "lat": 42.3662
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 1, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9577, 
+    "lat": 42.3685
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9566, 
+    "lat": 42.3681
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9557, 
+    "lat": 42.3651
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.956, 
+    "lat": 42.3655
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9528, 
+    "lat": 42.3705
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9426, 
+    "lat": 42.3719
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9389, 
+    "lat": 42.3712
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.959, 
+    "lat": 42.3667
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9553, 
+    "lat": 42.3642
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9525, 
+    "lat": 42.3706
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9563, 
+    "lat": 42.3673
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9468, 
+    "lat": 42.3652
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9514, 
+    "lat": 42.3695
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9479, 
+    "lat": 42.362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9558, 
+    "lat": 42.369
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.955, 
+    "lat": 42.3645
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9582, 
+    "lat": 42.3677
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9506, 
+    "lat": 42.3634
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9369, 
+    "lat": 42.3683
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9407, 
+    "lat": 42.3699
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9577, 
+    "lat": 42.3647
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9444, 
+    "lat": 42.3647
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9517, 
+    "lat": 42.3697
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9528, 
+    "lat": 42.3705
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9519, 
+    "lat": 42.3613
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9409, 
+    "lat": 42.3645
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9407, 
+    "lat": 42.3743
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9552, 
+    "lat": 42.3639
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9532, 
+    "lat": 42.3631
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9527, 
+    "lat": 42.3705
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9498, 
+    "lat": 42.3662
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9555, 
+    "lat": 42.3628
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9565, 
+    "lat": 42.3673
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9514, 
+    "lat": 42.3705
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9495, 
+    "lat": 42.3637
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9413, 
+    "lat": 42.3614
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9555, 
+    "lat": 42.3662
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9343, 
+    "lat": 42.3613
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9394, 
+    "lat": 42.3728
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9366, 
+    "lat": 42.37
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9394, 
+    "lat": 42.3605
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9402, 
+    "lat": 42.3657
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9513, 
+    "lat": 42.3695
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9447, 
+    "lat": 42.3643
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9516, 
+    "lat": 42.3636
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9413, 
+    "lat": 42.3731
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9332, 
+    "lat": 42.3618
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9547, 
+    "lat": 42.3636
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Jefferson Chalmers", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9585, 
+    "lat": 42.3676
+  }
+]

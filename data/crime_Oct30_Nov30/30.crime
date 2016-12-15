@@ -1,0 +1,686 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 0, 
+    "community": "Conner Creek", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0051, 
+    "lat": 42.442
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Conner Creek", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.005, 
+    "lat": 42.4421
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Conner Creek", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9925, 
+    "lat": 42.4447
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Conner Creek", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9888, 
+    "lat": 42.4453
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Conner Creek", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.988, 
+    "lat": 42.4456
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Conner Creek", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9992, 
+    "lat": 42.4421
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Conner Creek", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9957, 
+    "lat": 42.4459
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Conner Creek", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -82.9929, 
+    "lat": 42.449
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Conner Creek", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -82.9892, 
+    "lat": 42.4453
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Conner Creek", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -82.9863, 
+    "lat": 42.4427
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Conner Creek", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.001, 
+    "lat": 42.4428
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Conner Creek", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9983, 
+    "lat": 42.4423
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Conner Creek", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9873, 
+    "lat": 42.4459
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Conner Creek", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9875, 
+    "lat": 42.446
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Conner Creek", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9977, 
+    "lat": 42.4435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Conner Creek", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9894, 
+    "lat": 42.4466
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Conner Creek", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0245, 
+    "lat": 42.448
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Conner Creek", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9927, 
+    "lat": 42.4457
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 0, 
+    "community": "Conner Creek", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.005, 
+    "lat": 42.4419
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Conner Creek", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0217, 
+    "lat": 42.4481
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Conner Creek", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0209, 
+    "lat": 42.4479
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 7, 
+    "community": "Conner Creek", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9858, 
+    "lat": 42.4446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Conner Creek", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0157, 
+    "lat": 42.4482
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Conner Creek", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.987, 
+    "lat": 42.448
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Conner Creek", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0161, 
+    "lat": 42.4476
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Conner Creek", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9905, 
+    "lat": 42.4426
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Conner Creek", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0159, 
+    "lat": 42.4387
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Conner Creek", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9931, 
+    "lat": 42.443
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 15, 
+    "community": "Conner Creek", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0218, 
+    "lat": 42.4479
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Conner Creek", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0238, 
+    "lat": 42.4463
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Conner Creek", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0163, 
+    "lat": 42.4478
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Conner Creek", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0162, 
+    "lat": 42.4478
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Conner Creek", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9858, 
+    "lat": 42.4448
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Conner Creek", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0236, 
+    "lat": 42.4477
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Conner Creek", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0018, 
+    "lat": 42.4455
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Conner Creek", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0016, 
+    "lat": 42.4453
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Conner Creek", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9859, 
+    "lat": 42.4449
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 15, 
+    "community": "Conner Creek", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0212, 
+    "lat": 42.4425
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Conner Creek", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0224, 
+    "lat": 42.445
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Conner Creek", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0159, 
+    "lat": 42.4387
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Conner Creek", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0015, 
+    "lat": 42.4421
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Conner Creek", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9992, 
+    "lat": 42.4447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Conner Creek", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0029, 
+    "lat": 42.4487
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Conner Creek", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9955, 
+    "lat": 42.4454
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Conner Creek", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9929, 
+    "lat": 42.4429
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Conner Creek", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.015, 
+    "lat": 42.4391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Conner Creek", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9922, 
+    "lat": 42.4458
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Conner Creek", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0243, 
+    "lat": 42.445
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Conner Creek", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9885, 
+    "lat": 42.4437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Conner Creek", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0184, 
+    "lat": 42.4482
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 12, 
+    "community": "Conner Creek", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9937, 
+    "lat": 42.4473
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Conner Creek", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9953, 
+    "lat": 42.4445
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Conner Creek", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9977, 
+    "lat": 42.4425
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Conner Creek", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9928, 
+    "lat": 42.4425
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Conner Creek", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0161, 
+    "lat": 42.4387
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Conner Creek", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0018, 
+    "lat": 42.4453
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Conner Creek", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0015, 
+    "lat": 42.4419
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Conner Creek", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0159, 
+    "lat": 42.4385
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Conner Creek", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0162, 
+    "lat": 42.4479
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Conner Creek", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0002, 
+    "lat": 42.4471
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 17, 
+    "community": "Conner Creek", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9978, 
+    "lat": 42.4435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Conner Creek", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0167, 
+    "lat": 42.4482
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Conner Creek", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9924, 
+    "lat": 42.4448
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Conner Creek", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.993, 
+    "lat": 42.4477
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Conner Creek", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0226, 
+    "lat": 42.4451
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 15, 
+    "community": "Conner Creek", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0215, 
+    "lat": 42.448
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Conner Creek", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0007, 
+    "lat": 42.4486
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Conner Creek", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9978, 
+    "lat": 42.449
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Conner Creek", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9881, 
+    "lat": 42.4481
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Conner Creek", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0209, 
+    "lat": 42.4428
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Conner Creek", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0239, 
+    "lat": 42.4447
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Conner Creek", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9955, 
+    "lat": 42.4482
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Conner Creek", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9875, 
+    "lat": 42.4461
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Conner Creek", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.016, 
+    "lat": 42.448
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Conner Creek", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9889, 
+    "lat": 42.449
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Conner Creek", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0162, 
+    "lat": 42.4479
+  }
+]

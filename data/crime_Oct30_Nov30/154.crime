@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Pingree Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0087, 
+    "lat": 42.3781
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Pingree Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0061, 
+    "lat": 42.3777
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Pingree Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.012, 
+    "lat": 42.3797
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Pingree Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0087, 
+    "lat": 42.3807
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Pingree Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0098, 
+    "lat": 42.3803
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Pingree Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0099, 
+    "lat": 42.3804
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Pingree Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0013, 
+    "lat": 42.3698
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Pingree Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0101, 
+    "lat": 42.3786
+  }
+]

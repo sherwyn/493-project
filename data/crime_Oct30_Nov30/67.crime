@@ -1,0 +1,344 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Grand River-I96", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.18, 
+    "lat": 42.3852
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1683, 
+    "lat": 42.3807
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1784, 
+    "lat": 42.3846
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1813, 
+    "lat": 42.3915
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1615, 
+    "lat": 42.3803
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1683, 
+    "lat": 42.3805
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1637, 
+    "lat": 42.3752
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1682, 
+    "lat": 42.3786
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Grand River-I96", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1573, 
+    "lat": 42.3743
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Grand River-I96", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.159, 
+    "lat": 42.3773
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Grand River-I96", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.159, 
+    "lat": 42.3772
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Grand River-I96", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1785, 
+    "lat": 42.3845
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 8, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1798, 
+    "lat": 42.3855
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1784, 
+    "lat": 42.3845
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1641, 
+    "lat": 42.3765
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1781, 
+    "lat": 42.388
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1771, 
+    "lat": 42.386
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1782, 
+    "lat": 42.3845
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1789, 
+    "lat": 42.3948
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1812, 
+    "lat": 42.3917
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1782, 
+    "lat": 42.3846
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1604, 
+    "lat": 42.3809
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1647, 
+    "lat": 42.3809
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1778, 
+    "lat": 42.3849
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1666, 
+    "lat": 42.3813
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1631, 
+    "lat": 42.38
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1695, 
+    "lat": 42.3815
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1782, 
+    "lat": 42.3845
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1789, 
+    "lat": 42.3948
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1769, 
+    "lat": 42.3848
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1716, 
+    "lat": 42.3819
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 12, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1738, 
+    "lat": 42.3879
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1781, 
+    "lat": 42.388
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 14, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1615, 
+    "lat": 42.3754
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1831, 
+    "lat": 42.3922
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1673, 
+    "lat": 42.3798
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1606, 
+    "lat": 42.3841
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Grand River-I96", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1673, 
+    "lat": 42.38
+  }
+]

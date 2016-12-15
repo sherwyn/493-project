@@ -1,0 +1,218 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0776, 
+    "lat": 42.4191
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0694, 
+    "lat": 42.4255
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0722, 
+    "lat": 42.4252
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0781, 
+    "lat": 42.4186
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0712, 
+    "lat": 42.4222
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0779, 
+    "lat": 42.4187
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 1, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0765, 
+    "lat": 42.4249
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0721, 
+    "lat": 42.4254
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0754, 
+    "lat": 42.4189
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0638, 
+    "lat": 42.4189
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0809, 
+    "lat": 42.4198
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0798, 
+    "lat": 42.4257
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0862, 
+    "lat": 42.4242
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0829, 
+    "lat": 42.4194
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0797, 
+    "lat": 42.4224
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0813, 
+    "lat": 42.4209
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.079, 
+    "lat": 42.4214
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0754, 
+    "lat": 42.4233
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0838, 
+    "lat": 42.4192
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0672, 
+    "lat": 42.4219
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0735, 
+    "lat": 42.4243
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.064, 
+    "lat": 42.4191
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0768, 
+    "lat": 42.4189
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Cadillac Heights", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0731, 
+    "lat": 42.4242
+  }
+]

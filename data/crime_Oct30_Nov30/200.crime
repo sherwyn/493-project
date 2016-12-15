@@ -1,0 +1,299 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Woodbridge", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0746, 
+    "lat": 42.3428
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Woodbridge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0807, 
+    "lat": 42.3527
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Woodbridge", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0743, 
+    "lat": 42.3432
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 15, 
+    "community": "Woodbridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0797, 
+    "lat": 42.3517
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Woodbridge", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0802, 
+    "lat": 42.3521
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Woodbridge", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.073, 
+    "lat": 42.3446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Woodbridge", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0787, 
+    "lat": 42.3473
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Woodbridge", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0777, 
+    "lat": 42.35
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Woodbridge", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0746, 
+    "lat": 42.3428
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Woodbridge", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0771, 
+    "lat": 42.3442
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Woodbridge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0753, 
+    "lat": 42.3446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Woodbridge", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.08, 
+    "lat": 42.3464
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Woodbridge", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0799, 
+    "lat": 42.3519
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Woodbridge", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0805, 
+    "lat": 42.3529
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Woodbridge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0758, 
+    "lat": 42.3462
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Woodbridge", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0801, 
+    "lat": 42.3517
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Woodbridge", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0771, 
+    "lat": 42.3439
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Woodbridge", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0779, 
+    "lat": 42.3497
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Woodbridge", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0781, 
+    "lat": 42.3506
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Woodbridge", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0795, 
+    "lat": 42.3511
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Woodbridge", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0797, 
+    "lat": 42.351
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Woodbridge", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0747, 
+    "lat": 42.3447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Woodbridge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0757, 
+    "lat": 42.3465
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Woodbridge", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0731, 
+    "lat": 42.3447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Woodbridge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0799, 
+    "lat": 42.3534
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Woodbridge", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0721, 
+    "lat": 42.3438
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Woodbridge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.073, 
+    "lat": 42.3422
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Woodbridge", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0809, 
+    "lat": 42.3519
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Woodbridge", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0769, 
+    "lat": 42.3437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Woodbridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0795, 
+    "lat": 42.3515
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Woodbridge", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.079, 
+    "lat": 42.3523
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Woodbridge", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0798, 
+    "lat": 42.3518
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Woodbridge", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0802, 
+    "lat": 42.3517
+  }
+]

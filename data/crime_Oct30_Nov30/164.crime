@@ -1,0 +1,191 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Rosedale Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2221, 
+    "lat": 42.4011
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2244, 
+    "lat": 42.4009
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2184, 
+    "lat": 42.3955
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2255, 
+    "lat": 42.4013
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2296, 
+    "lat": 42.4006
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2303, 
+    "lat": 42.4003
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2211, 
+    "lat": 42.397
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2229, 
+    "lat": 42.3934
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 14, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2282, 
+    "lat": 42.4044
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2186, 
+    "lat": 42.4008
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2187, 
+    "lat": 42.3954
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.228, 
+    "lat": 42.3963
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2277, 
+    "lat": 42.3983
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.231, 
+    "lat": 42.4046
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2209, 
+    "lat": 42.3938
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2222, 
+    "lat": 42.401
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2216, 
+    "lat": 42.4015
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2211, 
+    "lat": 42.3988
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2261, 
+    "lat": 42.4012
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2292, 
+    "lat": 42.3918
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Rosedale Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2217, 
+    "lat": 42.3959
+  }
+]

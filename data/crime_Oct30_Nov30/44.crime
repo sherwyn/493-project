@@ -1,0 +1,1325 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Downtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0577, 
+    "lat": 42.3323
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Downtown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0455, 
+    "lat": 42.3329
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Downtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0404, 
+    "lat": 42.3369
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0577, 
+    "lat": 42.3325
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Downtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0415, 
+    "lat": 42.331
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Downtown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0528, 
+    "lat": 42.337
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Downtown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0581, 
+    "lat": 42.3326
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Downtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0453, 
+    "lat": 42.3352
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Downtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0413, 
+    "lat": 42.3332
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Downtown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0483, 
+    "lat": 42.3295
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Downtown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0577, 
+    "lat": 42.3325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Downtown", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0454, 
+    "lat": 42.3346
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Downtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0513, 
+    "lat": 42.3375
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 17, 
+    "community": "Downtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.045, 
+    "lat": 42.3292
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 14, 
+    "community": "Downtown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0579, 
+    "lat": 42.3323
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0442, 
+    "lat": 42.332
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Downtown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0404, 
+    "lat": 42.3317
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0525, 
+    "lat": 42.329
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 11, 
+    "community": "Downtown", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0533, 
+    "lat": 42.3339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Downtown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0499, 
+    "lat": 42.3373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Downtown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0417, 
+    "lat": 42.33
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0402, 
+    "lat": 42.3315
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Downtown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0491, 
+    "lat": 42.3324
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0416, 
+    "lat": 42.3323
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Downtown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0425, 
+    "lat": 42.3381
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Downtown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0459, 
+    "lat": 42.3341
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Downtown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0477, 
+    "lat": 42.3329
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Downtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0401, 
+    "lat": 42.3301
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Downtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0566, 
+    "lat": 42.3302
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Downtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0578, 
+    "lat": 42.3326
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Downtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0406, 
+    "lat": 42.3325
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Downtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0539, 
+    "lat": 42.3379
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Downtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0496, 
+    "lat": 42.3267
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Downtown", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0531, 
+    "lat": 42.328
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Downtown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0508, 
+    "lat": 42.3368
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Downtown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0445, 
+    "lat": 42.3317
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Downtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0481, 
+    "lat": 42.3293
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Downtown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.05, 
+    "lat": 42.3373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Downtown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.058, 
+    "lat": 42.3324
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Downtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0438, 
+    "lat": 42.3312
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Downtown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0451, 
+    "lat": 42.3351
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0579, 
+    "lat": 42.3324
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Downtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0581, 
+    "lat": 42.3323
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Downtown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0538, 
+    "lat": 42.338
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Downtown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0407, 
+    "lat": 42.3325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Downtown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0513, 
+    "lat": 42.3342
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Downtown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0581, 
+    "lat": 42.3326
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Downtown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0366, 
+    "lat": 42.3325
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0578, 
+    "lat": 42.3325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Downtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0466, 
+    "lat": 42.3343
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Downtown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.045, 
+    "lat": 42.3299
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0375, 
+    "lat": 42.3287
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Downtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0484, 
+    "lat": 42.3291
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Downtown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0486, 
+    "lat": 42.3337
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 10, 
+    "community": "Downtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0448, 
+    "lat": 42.3356
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Downtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0418, 
+    "lat": 42.3301
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Downtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.04, 
+    "lat": 42.33
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0415, 
+    "lat": 42.3332
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Downtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0534, 
+    "lat": 42.3293
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Downtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0488, 
+    "lat": 42.3343
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Downtown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0492, 
+    "lat": 42.3344
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Downtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0377, 
+    "lat": 42.3298
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Downtown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0454, 
+    "lat": 42.3329
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0507, 
+    "lat": 42.3308
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Downtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.058, 
+    "lat": 42.3323
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 13, 
+    "community": "Downtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0536, 
+    "lat": 42.3272
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Downtown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0435, 
+    "lat": 42.3362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Downtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0453, 
+    "lat": 42.3352
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Downtown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0558, 
+    "lat": 42.3295
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Downtown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0388, 
+    "lat": 42.334
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Downtown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0479, 
+    "lat": 42.3363
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Downtown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0475, 
+    "lat": 42.3324
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0484, 
+    "lat": 42.3317
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 10, 
+    "community": "Downtown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0534, 
+    "lat": 42.3363
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Downtown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.044, 
+    "lat": 42.332
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Downtown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0493, 
+    "lat": 42.3348
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Downtown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0508, 
+    "lat": 42.3339
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Downtown", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0526, 
+    "lat": 42.3317
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Downtown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0415, 
+    "lat": 42.3308
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Downtown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0434, 
+    "lat": 42.3295
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Downtown", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0579, 
+    "lat": 42.3325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Downtown", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0482, 
+    "lat": 42.3293
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Downtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0451, 
+    "lat": 42.3306
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Downtown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0485, 
+    "lat": 42.3354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Downtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0497, 
+    "lat": 42.3335
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Downtown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0495, 
+    "lat": 42.3265
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Downtown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0412, 
+    "lat": 42.3323
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0418, 
+    "lat": 42.334
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Downtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0478, 
+    "lat": 42.3316
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Downtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0581, 
+    "lat": 42.3323
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Downtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0507, 
+    "lat": 42.3308
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 10, 
+    "community": "Downtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0388, 
+    "lat": 42.3352
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Downtown", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0398, 
+    "lat": 42.3343
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Downtown", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0543, 
+    "lat": 42.3383
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Downtown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0486, 
+    "lat": 42.3317
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Downtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0441, 
+    "lat": 42.3361
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Downtown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0417, 
+    "lat": 42.3317
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Downtown", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0537, 
+    "lat": 42.3379
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Downtown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0537, 
+    "lat": 42.3274
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Downtown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0411, 
+    "lat": 42.3289
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Downtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0404, 
+    "lat": 42.3317
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Downtown", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0528, 
+    "lat": 42.3319
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0412, 
+    "lat": 42.3329
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Downtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0488, 
+    "lat": 42.3339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0474, 
+    "lat": 42.3282
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Downtown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0484, 
+    "lat": 42.3292
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Downtown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0506, 
+    "lat": 42.3323
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Downtown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0393, 
+    "lat": 42.3373
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Downtown", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0533, 
+    "lat": 42.3281
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Downtown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0523, 
+    "lat": 42.3362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Downtown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0537, 
+    "lat": 42.3365
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Downtown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0503, 
+    "lat": 42.3373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Downtown", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0516, 
+    "lat": 42.338
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Downtown", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0524, 
+    "lat": 42.3317
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Downtown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0417, 
+    "lat": 42.3315
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0485, 
+    "lat": 42.3299
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Downtown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0512, 
+    "lat": 42.3365
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Downtown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0488, 
+    "lat": 42.3337
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Downtown", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.058, 
+    "lat": 42.3324
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Downtown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0417, 
+    "lat": 42.3303
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Downtown", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0501, 
+    "lat": 42.3324
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Downtown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.051, 
+    "lat": 42.3367
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Downtown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0448, 
+    "lat": 42.3354
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Downtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0508, 
+    "lat": 42.3368
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Downtown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0457, 
+    "lat": 42.3345
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Downtown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0419, 
+    "lat": 42.3316
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Downtown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0451, 
+    "lat": 42.3289
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Downtown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0505, 
+    "lat": 42.3307
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Downtown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0569, 
+    "lat": 42.3304
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Downtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0471, 
+    "lat": 42.33
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 12, 
+    "community": "Downtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0496, 
+    "lat": 42.3373
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Downtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0442, 
+    "lat": 42.3318
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Downtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.044, 
+    "lat": 42.3319
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Downtown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0466, 
+    "lat": 42.3298
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Downtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0581, 
+    "lat": 42.3324
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0492, 
+    "lat": 42.3308
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Downtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0499, 
+    "lat": 42.3375
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Downtown", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0507, 
+    "lat": 42.3318
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Downtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0408, 
+    "lat": 42.3286
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Downtown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0513, 
+    "lat": 42.3377
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Downtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0413, 
+    "lat": 42.3329
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Downtown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0453, 
+    "lat": 42.3311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Downtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0508, 
+    "lat": 42.3368
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Downtown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0504, 
+    "lat": 42.3326
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Downtown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.04, 
+    "lat": 42.3299
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Downtown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0414, 
+    "lat": 42.3329
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Downtown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.058, 
+    "lat": 42.3324
+  }
+]

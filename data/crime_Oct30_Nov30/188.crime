@@ -1,0 +1,29 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Waterworks Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9825, 
+    "lat": 42.3602
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Waterworks Park", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9827, 
+    "lat": 42.3585
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Waterworks Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9827, 
+    "lat": 42.3587
+  }
+]

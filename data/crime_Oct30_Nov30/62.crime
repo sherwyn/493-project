@@ -1,0 +1,326 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Franklin", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9804, 
+    "lat": 42.433
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Franklin", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9883, 
+    "lat": 42.4298
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Franklin", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -82.9853, 
+    "lat": 42.4267
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Franklin", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9855, 
+    "lat": 42.4268
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Franklin", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9852, 
+    "lat": 42.427
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Franklin", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9846, 
+    "lat": 42.4346
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Franklin", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9881, 
+    "lat": 42.4323
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 8, 
+    "community": "Franklin", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9826, 
+    "lat": 42.4404
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Franklin", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.978, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Franklin", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9819, 
+    "lat": 42.4351
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Franklin", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9773, 
+    "lat": 42.4366
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Franklin", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9886, 
+    "lat": 42.4259
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Franklin", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.989, 
+    "lat": 42.4294
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Franklin", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9788, 
+    "lat": 42.4339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Franklin", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9845, 
+    "lat": 42.4344
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Franklin", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.978, 
+    "lat": 42.4356
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Franklin", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9778, 
+    "lat": 42.4352
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Franklin", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9764, 
+    "lat": 42.4378
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 3, 
+    "community": "Franklin", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9815, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 5, 
+    "community": "Franklin", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9813, 
+    "lat": 42.4298
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Franklin", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9851, 
+    "lat": 42.4275
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Franklin", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9852, 
+    "lat": 42.4409
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Franklin", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9865, 
+    "lat": 42.4319
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 1, 
+    "community": "Franklin", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9818, 
+    "lat": 42.4339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Franklin", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9773, 
+    "lat": 42.4364
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Franklin", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9822, 
+    "lat": 42.4304
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 1, 
+    "community": "Franklin", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9887, 
+    "lat": 42.4259
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Franklin", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9781, 
+    "lat": 42.4357
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Franklin", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9778, 
+    "lat": 42.4351
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Franklin", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9886, 
+    "lat": 42.4257
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Franklin", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9881, 
+    "lat": 42.43
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Franklin", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9816, 
+    "lat": 42.434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Franklin", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9819, 
+    "lat": 42.4374
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Franklin", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9826, 
+    "lat": 42.4374
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Franklin", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9811, 
+    "lat": 42.4344
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Franklin", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.982, 
+    "lat": 42.4286
+  }
+]

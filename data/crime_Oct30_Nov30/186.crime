@@ -1,0 +1,830 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Warren Ave Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2146, 
+    "lat": 42.3435
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2117, 
+    "lat": 42.3417
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1986, 
+    "lat": 42.345
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2141, 
+    "lat": 42.3398
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Warren Ave Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2066, 
+    "lat": 42.3548
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 23, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1991, 
+    "lat": 42.3509
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1987, 
+    "lat": 42.3452
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 15, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2014, 
+    "lat": 42.3433
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1977, 
+    "lat": 42.3481
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2133, 
+    "lat": 42.3476
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2055, 
+    "lat": 42.3414
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2048, 
+    "lat": 42.3444
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 2, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2035, 
+    "lat": 42.3434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2008, 
+    "lat": 42.3479
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1979, 
+    "lat": 42.3432
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2152, 
+    "lat": 42.3441
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2102, 
+    "lat": 42.3385
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2047, 
+    "lat": 42.3433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2013, 
+    "lat": 42.3581
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2127, 
+    "lat": 42.3455
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Warren Ave Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2064, 
+    "lat": 42.3548
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Warren Ave Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1973, 
+    "lat": 42.3481
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Warren Ave Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.204, 
+    "lat": 42.3456
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Warren Ave Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2153, 
+    "lat": 42.3436
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 21, 
+    "community": "Warren Ave Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.197, 
+    "lat": 42.34
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1989, 
+    "lat": 42.3467
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2115, 
+    "lat": 42.3417
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2135, 
+    "lat": 42.3475
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2082, 
+    "lat": 42.3435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1969, 
+    "lat": 42.3378
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2106, 
+    "lat": 42.3417
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2142, 
+    "lat": 42.3399
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2, 
+    "lat": 42.3374
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2096, 
+    "lat": 42.3506
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1979, 
+    "lat": 42.3438
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1984, 
+    "lat": 42.3434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2016, 
+    "lat": 42.3391
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2062, 
+    "lat": 42.3391
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2122, 
+    "lat": 42.3422
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2098, 
+    "lat": 42.343
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2091, 
+    "lat": 42.3411
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Warren Ave Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2138, 
+    "lat": 42.3427
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2151, 
+    "lat": 42.3504
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.211, 
+    "lat": 42.3426
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2117, 
+    "lat": 42.3464
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1986, 
+    "lat": 42.3396
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2024, 
+    "lat": 42.3527
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2017, 
+    "lat": 42.3494
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2151, 
+    "lat": 42.3506
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2144, 
+    "lat": 42.3485
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 16, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1962, 
+    "lat": 42.3395
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2127, 
+    "lat": 42.3455
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2028, 
+    "lat": 42.3479
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2001, 
+    "lat": 42.3467
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2083, 
+    "lat": 42.34
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2077, 
+    "lat": 42.3441
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 1, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.204, 
+    "lat": 42.358
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2044, 
+    "lat": 42.3419
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2152, 
+    "lat": 42.3498
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2092, 
+    "lat": 42.3433
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2042, 
+    "lat": 42.343
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1985, 
+    "lat": 42.3502
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1997, 
+    "lat": 42.3453
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2058, 
+    "lat": 42.3397
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2094, 
+    "lat": 42.3403
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2098, 
+    "lat": 42.3484
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1988, 
+    "lat": 42.3418
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2039, 
+    "lat": 42.3437
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 12, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1996, 
+    "lat": 42.3499
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.214, 
+    "lat": 42.3399
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 12, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1997, 
+    "lat": 42.3499
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1964, 
+    "lat": 42.3449
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2092, 
+    "lat": 42.3434
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1996, 
+    "lat": 42.3398
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 0, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1988, 
+    "lat": 42.3452
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2067, 
+    "lat": 42.3415
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2005, 
+    "lat": 42.3496
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2131, 
+    "lat": 42.3397
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2121, 
+    "lat": 42.3365
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1993, 
+    "lat": 42.3579
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 15, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2015, 
+    "lat": 42.3432
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2044, 
+    "lat": 42.3432
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2156, 
+    "lat": 42.3439
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2005, 
+    "lat": 42.3395
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2034, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2064, 
+    "lat": 42.3543
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 1, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1968, 
+    "lat": 42.3416
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2118, 
+    "lat": 42.3417
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2043, 
+    "lat": 42.3432
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2038, 
+    "lat": 42.3438
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.203, 
+    "lat": 42.3376
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Warren Ave Community", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2118, 
+    "lat": 42.3419
+  }
+]

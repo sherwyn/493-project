@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Rouge Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2655, 
+    "lat": 42.3587
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Rouge Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2616, 
+    "lat": 42.354
+  }
+]

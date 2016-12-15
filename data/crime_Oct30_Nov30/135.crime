@@ -1,0 +1,281 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2262, 
+    "lat": 42.4118
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2247, 
+    "lat": 42.412
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.223, 
+    "lat": 42.4081
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2191, 
+    "lat": 42.4012
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2193, 
+    "lat": 42.4154
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2283, 
+    "lat": 42.4118
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2286, 
+    "lat": 42.4143
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2193, 
+    "lat": 42.4152
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2203, 
+    "lat": 42.4128
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2234, 
+    "lat": 42.4081
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 3, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2192, 
+    "lat": 42.4155
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 11, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.237, 
+    "lat": 42.4091
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.226, 
+    "lat": 42.412
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2191, 
+    "lat": 42.4011
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2309, 
+    "lat": 42.4059
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2184, 
+    "lat": 42.4008
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2201, 
+    "lat": 42.4151
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2278, 
+    "lat": 42.4047
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2316, 
+    "lat": 42.409
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2363, 
+    "lat": 42.409
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2277, 
+    "lat": 42.4098
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.231, 
+    "lat": 42.4096
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2247, 
+    "lat": 42.4125
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2184, 
+    "lat": 42.4008
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.226, 
+    "lat": 42.413
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2226, 
+    "lat": 42.4073
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2344, 
+    "lat": 42.4119
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2229, 
+    "lat": 42.4126
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2267, 
+    "lat": 42.4096
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2312, 
+    "lat": 42.4064
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "North Rosedale Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2266, 
+    "lat": 42.4105
+  }
+]

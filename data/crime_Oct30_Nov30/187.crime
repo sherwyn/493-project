@@ -1,0 +1,1640 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 13, 
+    "community": "Warrendale", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2275, 
+    "lat": 42.336
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "Warrendale", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2276, 
+    "lat": 42.3465
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "Warrendale", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2171, 
+    "lat": 42.3403
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2298, 
+    "lat": 42.3358
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Warrendale", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2254, 
+    "lat": 42.3489
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Warrendale", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2306, 
+    "lat": 42.3452
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Warrendale", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.232, 
+    "lat": 42.3477
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Warrendale", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.241, 
+    "lat": 42.3532
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Warrendale", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2286, 
+    "lat": 42.3438
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Warrendale", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2332, 
+    "lat": 42.3379
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Warrendale", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2289, 
+    "lat": 42.3461
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Warrendale", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2211, 
+    "lat": 42.3433
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Warrendale", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2188, 
+    "lat": 42.3522
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Warrendale", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2202, 
+    "lat": 42.3421
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Warrendale", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.22, 
+    "lat": 42.3327
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Warrendale", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2219, 
+    "lat": 42.3537
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Warrendale", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2387, 
+    "lat": 42.3535
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Warrendale", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2229, 
+    "lat": 42.3402
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Warrendale", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2386, 
+    "lat": 42.3451
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Warrendale", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2349, 
+    "lat": 42.3433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2346, 
+    "lat": 42.3427
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.22, 
+    "lat": 42.3461
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Warrendale", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2461, 
+    "lat": 42.3523
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "Warrendale", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2417, 
+    "lat": 42.3489
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Warrendale", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2178, 
+    "lat": 42.3434
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Warrendale", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2326, 
+    "lat": 42.3359
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Warrendale", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2274, 
+    "lat": 42.3393
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Warrendale", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2377, 
+    "lat": 42.343
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Warrendale", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2201, 
+    "lat": 42.3291
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Warrendale", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2319, 
+    "lat": 42.3459
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.2392, 
+    "lat": 42.3435
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Warrendale", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2215, 
+    "lat": 42.3554
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Warrendale", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2313, 
+    "lat": 42.3406
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Warrendale", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2326, 
+    "lat": 42.3562
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Warrendale", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2399, 
+    "lat": 42.3517
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Warrendale", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.232, 
+    "lat": 42.346
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Warrendale", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2405, 
+    "lat": 42.3451
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Warrendale", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2356, 
+    "lat": 42.3503
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Warrendale", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2331, 
+    "lat": 42.3441
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Warrendale", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2333, 
+    "lat": 42.3439
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Warrendale", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2412, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2434, 
+    "lat": 42.3567
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2331, 
+    "lat": 42.3326
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2232, 
+    "lat": 42.3504
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2265, 
+    "lat": 42.3512
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2174, 
+    "lat": 42.344
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 14, 
+    "community": "Warrendale", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2444, 
+    "lat": 42.3555
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Warrendale", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2204, 
+    "lat": 42.3576
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2202, 
+    "lat": 42.3294
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Warrendale", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2286, 
+    "lat": 42.3374
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "Warrendale", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2169, 
+    "lat": 42.3403
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Warrendale", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2275, 
+    "lat": 42.3499
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Warrendale", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.235, 
+    "lat": 42.3574
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Warrendale", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2323, 
+    "lat": 42.3389
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Warrendale", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2417, 
+    "lat": 42.3471
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Warrendale", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2209, 
+    "lat": 42.3379
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2304, 
+    "lat": 42.3408
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Warrendale", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2231, 
+    "lat": 42.339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Warrendale", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2317, 
+    "lat": 42.3507
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 22, 
+    "community": "Warrendale", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2445, 
+    "lat": 42.3509
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Warrendale", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2216, 
+    "lat": 42.3408
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 2, 
+    "community": "Warrendale", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2184, 
+    "lat": 42.3432
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Warrendale", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2408, 
+    "lat": 42.357
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Warrendale", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2225, 
+    "lat": 42.3341
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Warrendale", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.229, 
+    "lat": 42.3511
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Warrendale", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2327, 
+    "lat": 42.3431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Warrendale", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2347, 
+    "lat": 42.3428
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 16, 
+    "community": "Warrendale", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2353, 
+    "lat": 42.3429
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Warrendale", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2352, 
+    "lat": 42.3372
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Warrendale", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2186, 
+    "lat": 42.3484
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Warrendale", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2175, 
+    "lat": 42.3318
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Warrendale", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2203, 
+    "lat": 42.3295
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Warrendale", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2348, 
+    "lat": 42.342
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Warrendale", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2443, 
+    "lat": 42.3509
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Warrendale", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2231, 
+    "lat": 42.3409
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Warrendale", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2395, 
+    "lat": 42.3492
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Warrendale", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2311, 
+    "lat": 42.3524
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Warrendale", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2444, 
+    "lat": 42.353
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Warrendale", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2273, 
+    "lat": 42.3482
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2188, 
+    "lat": 42.3507
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 2, 
+    "community": "Warrendale", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.236, 
+    "lat": 42.3575
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Warrendale", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2229, 
+    "lat": 42.3333
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Warrendale", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2195, 
+    "lat": 42.335
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Warrendale", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2166, 
+    "lat": 42.3577
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Warrendale", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2181, 
+    "lat": 42.3437
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2368, 
+    "lat": 42.3503
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2367, 
+    "lat": 42.3504
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Warrendale", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.241, 
+    "lat": 42.3466
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Warrendale", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2353, 
+    "lat": 42.342
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Warrendale", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2262, 
+    "lat": 42.3528
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Warrendale", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2371, 
+    "lat": 42.354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2182, 
+    "lat": 42.3363
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2258, 
+    "lat": 42.3402
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Warrendale", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2168, 
+    "lat": 42.3476
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Warrendale", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2312, 
+    "lat": 42.3446
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2321, 
+    "lat": 42.3443
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Warrendale", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2242, 
+    "lat": 42.3349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Warrendale", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2309, 
+    "lat": 42.3318
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Warrendale", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2287, 
+    "lat": 42.3375
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Warrendale", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2252, 
+    "lat": 42.3453
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Warrendale", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2305, 
+    "lat": 42.3542
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Warrendale", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2233, 
+    "lat": 42.341
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Warrendale", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2413, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Warrendale", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2178, 
+    "lat": 42.3315
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2189, 
+    "lat": 42.3393
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2241, 
+    "lat": 42.3568
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Warrendale", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.221, 
+    "lat": 42.3389
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "Warrendale", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2206, 
+    "lat": 42.345
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2168, 
+    "lat": 42.3497
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2329, 
+    "lat": 42.3432
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Warrendale", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2321, 
+    "lat": 42.3318
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2319, 
+    "lat": 42.3444
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Warrendale", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.233, 
+    "lat": 42.3443
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Warrendale", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2174, 
+    "lat": 42.3495
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2302, 
+    "lat": 42.3433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Warrendale", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2207, 
+    "lat": 42.3377
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Warrendale", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2288, 
+    "lat": 42.3488
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 9, 
+    "community": "Warrendale", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2327, 
+    "lat": 42.343
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.221, 
+    "lat": 42.3389
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2297, 
+    "lat": 42.3357
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 12, 
+    "community": "Warrendale", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.218, 
+    "lat": 42.3556
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Warrendale", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2327, 
+    "lat": 42.3487
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 5, 
+    "community": "Warrendale", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2255, 
+    "lat": 42.3433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Warrendale", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2396, 
+    "lat": 42.3492
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2319, 
+    "lat": 42.3347
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Warrendale", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2176, 
+    "lat": 42.335
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Warrendale", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.241, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Warrendale", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2351, 
+    "lat": 42.3444
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2348, 
+    "lat": 42.343
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Warrendale", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.218, 
+    "lat": 42.3555
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Warrendale", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2218, 
+    "lat": 42.354
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Warrendale", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2317, 
+    "lat": 42.3432
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2422, 
+    "lat": 42.3488
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2424, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Warrendale", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2231, 
+    "lat": 42.3396
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Warrendale", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2193, 
+    "lat": 42.3334
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Warrendale", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.231, 
+    "lat": 42.3451
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Warrendale", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2333, 
+    "lat": 42.3442
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2255, 
+    "lat": 42.3331
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Warrendale", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2298, 
+    "lat": 42.356
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Warrendale", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2266, 
+    "lat": 42.3497
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Warrendale", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2281, 
+    "lat": 42.3379
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 8, 
+    "community": "Warrendale", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2312, 
+    "lat": 42.3364
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Warrendale", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2314, 
+    "lat": 42.3364
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Warrendale", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2372, 
+    "lat": 42.3397
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Warrendale", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2349, 
+    "lat": 42.3432
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Warrendale", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2438, 
+    "lat": 42.3543
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Warrendale", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2439, 
+    "lat": 42.353
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2202, 
+    "lat": 42.342
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Warrendale", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2333, 
+    "lat": 42.344
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 1, 
+    "community": "Warrendale", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2189, 
+    "lat": 42.3495
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Warrendale", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2248, 
+    "lat": 42.3366
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Warrendale", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2193, 
+    "lat": 42.3301
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Warrendale", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2371, 
+    "lat": 42.3482
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2422, 
+    "lat": 42.3459
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Warrendale", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2357, 
+    "lat": 42.3575
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Warrendale", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2362, 
+    "lat": 42.3437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Warrendale", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.235, 
+    "lat": 42.3575
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Warrendale", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2299, 
+    "lat": 42.3434
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Warrendale", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2291, 
+    "lat": 42.3496
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Warrendale", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2237, 
+    "lat": 42.3577
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 6, 
+    "community": "Warrendale", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2174, 
+    "lat": 42.3515
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2297, 
+    "lat": 42.3354
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2298, 
+    "lat": 42.3356
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2297, 
+    "lat": 42.3355
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Warrendale", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2332, 
+    "lat": 42.337
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Warrendale", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2224, 
+    "lat": 42.3342
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 7, 
+    "community": "Warrendale", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2234, 
+    "lat": 42.3541
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2318, 
+    "lat": 42.3441
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Warrendale", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2213, 
+    "lat": 42.3416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Warrendale", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2427, 
+    "lat": 42.3471
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Warrendale", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2348, 
+    "lat": 42.3575
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2189, 
+    "lat": 42.339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Warrendale", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2278, 
+    "lat": 42.3431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Warrendale", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2355, 
+    "lat": 42.3373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Warrendale", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2231, 
+    "lat": 42.3391
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Warrendale", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2223, 
+    "lat": 42.3303
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 19, 
+    "community": "Warrendale", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2226, 
+    "lat": 42.3392
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Warrendale", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2332, 
+    "lat": 42.344
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Warrendale", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2167, 
+    "lat": 42.3395
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Warrendale", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2398, 
+    "lat": 42.3473
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Warrendale", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2179, 
+    "lat": 42.3394
+  }
+]

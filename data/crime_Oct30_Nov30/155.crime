@@ -1,0 +1,434 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1881, 
+    "lat": 42.3658
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1915, 
+    "lat": 42.3665
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1769, 
+    "lat": 42.3728
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1944, 
+    "lat": 42.3711
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1962, 
+    "lat": 42.3728
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1974, 
+    "lat": 42.3747
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1867, 
+    "lat": 42.3711
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1972, 
+    "lat": 42.3679
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1936, 
+    "lat": 42.3674
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1963, 
+    "lat": 42.3761
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1962, 
+    "lat": 42.3761
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.178, 
+    "lat": 42.3729
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1782, 
+    "lat": 42.3729
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 17, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1934, 
+    "lat": 42.3724
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1893, 
+    "lat": 42.3681
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1968, 
+    "lat": 42.3693
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1852, 
+    "lat": 42.3694
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1963, 
+    "lat": 42.3688
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1933, 
+    "lat": 42.3677
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1912, 
+    "lat": 42.3742
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1906, 
+    "lat": 42.373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1853, 
+    "lat": 42.3693
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1925, 
+    "lat": 42.3743
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1847, 
+    "lat": 42.3678
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.197, 
+    "lat": 42.3692
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1967, 
+    "lat": 42.3715
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1925, 
+    "lat": 42.3755
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1971, 
+    "lat": 42.368
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1768, 
+    "lat": 42.3697
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1893, 
+    "lat": 42.3728
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1901, 
+    "lat": 42.3699
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1965, 
+    "lat": 42.3713
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1971, 
+    "lat": 42.3703
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1937, 
+    "lat": 42.3673
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.179, 
+    "lat": 42.3671
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1921, 
+    "lat": 42.3713
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.194, 
+    "lat": 42.3725
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1937, 
+    "lat": 42.3736
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1853, 
+    "lat": 42.3695
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1799, 
+    "lat": 42.373
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 6, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1967, 
+    "lat": 42.3715
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1858, 
+    "lat": 42.3724
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.197, 
+    "lat": 42.3738
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1877, 
+    "lat": 42.3729
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1846, 
+    "lat": 42.3657
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 17, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1875, 
+    "lat": 42.3658
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1784, 
+    "lat": 42.3818
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Plymouth-Hubbell", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.197, 
+    "lat": 42.3739
+  }
+]

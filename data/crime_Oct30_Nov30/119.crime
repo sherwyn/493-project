@@ -1,0 +1,146 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Miller Grove", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.241, 
+    "lat": 42.4118
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Miller Grove", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2413, 
+    "lat": 42.4146
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Miller Grove", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2469, 
+    "lat": 42.4142
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Miller Grove", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2382, 
+    "lat": 42.4115
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Miller Grove", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2505, 
+    "lat": 42.4142
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Miller Grove", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2502, 
+    "lat": 42.4144
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Miller Grove", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2437, 
+    "lat": 42.4136
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Miller Grove", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2384, 
+    "lat": 42.4134
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Miller Grove", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2383, 
+    "lat": 42.409
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Miller Grove", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2382, 
+    "lat": 42.4115
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Miller Grove", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2421, 
+    "lat": 42.4107
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Miller Grove", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2393, 
+    "lat": 42.4144
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Miller Grove", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2407, 
+    "lat": 42.414
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Miller Grove", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2424, 
+    "lat": 42.4119
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Miller Grove", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2459, 
+    "lat": 42.4144
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Miller Grove", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2503, 
+    "lat": 42.4144
+  }
+]

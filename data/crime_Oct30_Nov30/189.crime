@@ -1,0 +1,362 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Wayne State", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.074, 
+    "lat": 42.3538
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Wayne State", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.072, 
+    "lat": 42.3581
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Wayne State", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0682, 
+    "lat": 42.3612
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Wayne State", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.065, 
+    "lat": 42.3578
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Wayne State", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.07, 
+    "lat": 42.3571
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Wayne State", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0752, 
+    "lat": 42.3559
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Wayne State", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0703, 
+    "lat": 42.3574
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Wayne State", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0675, 
+    "lat": 42.3574
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Wayne State", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0651, 
+    "lat": 42.3576
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Wayne State", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0676, 
+    "lat": 42.3575
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Wayne State", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0798, 
+    "lat": 42.3544
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Wayne State", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0669, 
+    "lat": 42.3563
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Wayne State", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0701, 
+    "lat": 42.3573
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Wayne State", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0673, 
+    "lat": 42.3569
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Wayne State", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0741, 
+    "lat": 42.3556
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Wayne State", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0667, 
+    "lat": 42.3561
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Wayne State", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0701, 
+    "lat": 42.3572
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Wayne State", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0715, 
+    "lat": 42.3552
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Wayne State", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0669, 
+    "lat": 42.3568
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Wayne State", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0722, 
+    "lat": 42.3568
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Wayne State", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0703, 
+    "lat": 42.3574
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Wayne State", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0756, 
+    "lat": 42.3517
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Wayne State", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0788, 
+    "lat": 42.3524
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Wayne State", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0653, 
+    "lat": 42.3567
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Wayne State", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0698, 
+    "lat": 42.3566
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Wayne State", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0738, 
+    "lat": 42.3556
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Wayne State", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0774, 
+    "lat": 42.3502
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Wayne State", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.074, 
+    "lat": 42.3537
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Wayne State", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0652, 
+    "lat": 42.3567
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Wayne State", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0696, 
+    "lat": 42.3617
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Wayne State", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0775, 
+    "lat": 42.3503
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Wayne State", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0761, 
+    "lat": 42.3526
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Wayne State", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.074, 
+    "lat": 42.354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Wayne State", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0672, 
+    "lat": 42.3572
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Wayne State", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0778, 
+    "lat": 42.3506
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Wayne State", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.07, 
+    "lat": 42.3575
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Wayne State", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0693, 
+    "lat": 42.3605
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Wayne State", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0667, 
+    "lat": 42.3562
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 0, 
+    "community": "Wayne State", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0668, 
+    "lat": 42.3563
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Wayne State", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0731, 
+    "lat": 42.3541
+  }
+]

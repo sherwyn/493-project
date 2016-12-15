@@ -1,0 +1,146 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Brush Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0559, 
+    "lat": 42.3469
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 13, 
+    "community": "Brush Park", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0533, 
+    "lat": 42.3446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Brush Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0536, 
+    "lat": 42.3418
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Brush Park", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0553, 
+    "lat": 42.3473
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Brush Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0535, 
+    "lat": 42.3471
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Brush Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0545, 
+    "lat": 42.3426
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Brush Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0532, 
+    "lat": 42.3406
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Brush Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.054, 
+    "lat": 42.3454
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Brush Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0539, 
+    "lat": 42.3454
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Brush Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0571, 
+    "lat": 42.3463
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Brush Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0523, 
+    "lat": 42.3434
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Brush Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0564, 
+    "lat": 42.3455
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Brush Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0532, 
+    "lat": 42.3444
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Brush Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0506, 
+    "lat": 42.341
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Brush Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0524, 
+    "lat": 42.341
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Brush Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0512, 
+    "lat": 42.3453
+  }
+]

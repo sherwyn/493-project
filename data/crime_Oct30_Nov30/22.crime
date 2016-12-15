@@ -1,0 +1,65 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 1, 
+    "community": "Carbon Works", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1304, 
+    "lat": 42.2936
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Carbon Works", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1311, 
+    "lat": 42.2913
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Carbon Works", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.129, 
+    "lat": 42.2938
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Carbon Works", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1306, 
+    "lat": 42.2958
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 23, 
+    "community": "Carbon Works", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1362, 
+    "lat": 42.2935
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Carbon Works", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1369, 
+    "lat": 42.2931
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Carbon Works", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1291, 
+    "lat": 42.2938
+  }
+]

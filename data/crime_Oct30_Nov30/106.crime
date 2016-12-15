@@ -1,0 +1,110 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1584, 
+    "lat": 42.3773
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1495, 
+    "lat": 42.3774
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1505, 
+    "lat": 42.3753
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1546, 
+    "lat": 42.3838
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1576, 
+    "lat": 42.384
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1575, 
+    "lat": 42.3821
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1567, 
+    "lat": 42.3788
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1573, 
+    "lat": 42.3839
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1492, 
+    "lat": 42.3824
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1513, 
+    "lat": 42.3822
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.156, 
+    "lat": 42.3797
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Littlefield Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1523, 
+    "lat": 42.3752
+  }
+]

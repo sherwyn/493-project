@@ -1,0 +1,191 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Greenwich", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.171, 
+    "lat": 42.4323
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "Greenwich", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1736, 
+    "lat": 42.4382
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Greenwich", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1768, 
+    "lat": 42.437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Greenwich", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1761, 
+    "lat": 42.4313
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Greenwich", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1697, 
+    "lat": 42.4321
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 17, 
+    "community": "Greenwich", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1697, 
+    "lat": 42.4313
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Greenwich", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1709, 
+    "lat": 42.4314
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Greenwich", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1709, 
+    "lat": 42.4334
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 10, 
+    "community": "Greenwich", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1804, 
+    "lat": 42.433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Greenwich", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1765, 
+    "lat": 42.4362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Greenwich", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1742, 
+    "lat": 42.4326
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Greenwich", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1803, 
+    "lat": 42.4341
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Greenwich", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1703, 
+    "lat": 42.4361
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Greenwich", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1805, 
+    "lat": 42.4311
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Greenwich", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1767, 
+    "lat": 42.4313
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Greenwich", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1759, 
+    "lat": 42.4378
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Greenwich", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1706, 
+    "lat": 42.4314
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Greenwich", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1774, 
+    "lat": 42.4326
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Greenwich", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1804, 
+    "lat": 42.4381
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Greenwich", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1795, 
+    "lat": 42.4337
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Greenwich", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1739, 
+    "lat": 42.436
+  }
+]

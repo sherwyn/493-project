@@ -1,0 +1,281 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Chandler Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9684, 
+    "lat": 42.3988
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Chandler Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9704, 
+    "lat": 42.393
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Chandler Park", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -82.9656, 
+    "lat": 42.3966
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Chandler Park", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.971, 
+    "lat": 42.4001
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Chandler Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.971, 
+    "lat": 42.3918
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Chandler Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9624, 
+    "lat": 42.3966
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 6, 
+    "community": "Chandler Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9701, 
+    "lat": 42.3923
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Chandler Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9663, 
+    "lat": 42.393
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Chandler Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9651, 
+    "lat": 42.4005
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Chandler Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9633, 
+    "lat": 42.3956
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Chandler Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9672, 
+    "lat": 42.3969
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Chandler Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9677, 
+    "lat": 42.3955
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Chandler Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9713, 
+    "lat": 42.3998
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Chandler Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9698, 
+    "lat": 42.3925
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 10, 
+    "community": "Chandler Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9622, 
+    "lat": 42.3984
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Chandler Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9831, 
+    "lat": 42.3929
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Chandler Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9667, 
+    "lat": 42.3929
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Chandler Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9697, 
+    "lat": 42.3932
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Chandler Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9667, 
+    "lat": 42.3938
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Chandler Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9685, 
+    "lat": 42.3976
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Chandler Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9821, 
+    "lat": 42.397
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Chandler Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9634, 
+    "lat": 42.3953
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Chandler Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9656, 
+    "lat": 42.3965
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Chandler Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9633, 
+    "lat": 42.3952
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Chandler Park", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9701, 
+    "lat": 42.3972
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Chandler Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9732, 
+    "lat": 42.3908
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 13, 
+    "community": "Chandler Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9632, 
+    "lat": 42.399
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Chandler Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9803, 
+    "lat": 42.3963
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Chandler Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9735, 
+    "lat": 42.3909
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Chandler Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9659, 
+    "lat": 42.3969
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Chandler Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9698, 
+    "lat": 42.3926
+  }
+]

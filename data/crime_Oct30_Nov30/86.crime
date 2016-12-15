@@ -1,0 +1,254 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Henry Ford", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0903, 
+    "lat": 42.3665
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 14, 
+    "community": "Henry Ford", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0845, 
+    "lat": 42.3677
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Henry Ford", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0847, 
+    "lat": 42.3674
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Henry Ford", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0884, 
+    "lat": 42.3645
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Henry Ford", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0846, 
+    "lat": 42.3677
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Henry Ford", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0871, 
+    "lat": 42.3717
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 11, 
+    "community": "Henry Ford", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0844, 
+    "lat": 42.3677
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Henry Ford", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0845, 
+    "lat": 42.3674
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Henry Ford", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0852, 
+    "lat": 42.3658
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Henry Ford", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0877, 
+    "lat": 42.3689
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Henry Ford", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.084, 
+    "lat": 42.3694
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Henry Ford", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0909, 
+    "lat": 42.3667
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 10, 
+    "community": "Henry Ford", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0845, 
+    "lat": 42.3677
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Henry Ford", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0851, 
+    "lat": 42.3718
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Henry Ford", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0844, 
+    "lat": 42.3676
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Henry Ford", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0854, 
+    "lat": 42.3655
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Henry Ford", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0845, 
+    "lat": 42.3677
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Henry Ford", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0893, 
+    "lat": 42.3696
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Henry Ford", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0827, 
+    "lat": 42.3633
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Henry Ford", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0873, 
+    "lat": 42.3715
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Henry Ford", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0846, 
+    "lat": 42.3677
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Henry Ford", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.09, 
+    "lat": 42.3675
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Henry Ford", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0879, 
+    "lat": 42.3687
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Henry Ford", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0848, 
+    "lat": 42.3677
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Henry Ford", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.088, 
+    "lat": 42.3688
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Henry Ford", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0879, 
+    "lat": 42.3687
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Henry Ford", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0867, 
+    "lat": 42.3713
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Henry Ford", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0847, 
+    "lat": 42.3675
+  }
+]

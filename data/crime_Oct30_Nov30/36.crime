@@ -1,0 +1,290 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Cultural Center", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0619, 
+    "lat": 42.3618
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Cultural Center", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0589, 
+    "lat": 42.3633
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Cultural Center", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0589, 
+    "lat": 42.3631
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Cultural Center", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0618, 
+    "lat": 42.3627
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Cultural Center", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0592, 
+    "lat": 42.3648
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Cultural Center", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0576, 
+    "lat": 42.3643
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Cultural Center", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0599, 
+    "lat": 42.3655
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Cultural Center", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0584, 
+    "lat": 42.3596
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Cultural Center", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0627, 
+    "lat": 42.3584
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Cultural Center", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0646, 
+    "lat": 42.3634
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Cultural Center", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0638, 
+    "lat": 42.3599
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Cultural Center", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0589, 
+    "lat": 42.3632
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Cultural Center", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.059, 
+    "lat": 42.3634
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Cultural Center", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0667, 
+    "lat": 42.3622
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Cultural Center", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0567, 
+    "lat": 42.3631
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Cultural Center", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0566, 
+    "lat": 42.3633
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Cultural Center", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0602, 
+    "lat": 42.3615
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Cultural Center", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.059, 
+    "lat": 42.3631
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Cultural Center", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0645, 
+    "lat": 42.3629
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Cultural Center", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0662, 
+    "lat": 42.3599
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Cultural Center", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.059, 
+    "lat": 42.3649
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Cultural Center", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0564, 
+    "lat": 42.3625
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Cultural Center", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0645, 
+    "lat": 42.3633
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Cultural Center", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0655, 
+    "lat": 42.3631
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Cultural Center", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0564, 
+    "lat": 42.3625
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Cultural Center", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0625, 
+    "lat": 42.363
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Cultural Center", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.059, 
+    "lat": 42.363
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Cultural Center", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0659, 
+    "lat": 42.3606
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Cultural Center", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0614, 
+    "lat": 42.3635
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Cultural Center", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.055, 
+    "lat": 42.3606
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Cultural Center", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0586, 
+    "lat": 42.3629
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Cultural Center", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0615, 
+    "lat": 42.3635
+  }
+]

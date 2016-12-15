@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "McDougall", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0312, 
+    "lat": 42.364
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "McDougall", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0276, 
+    "lat": 42.3649
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "McDougall", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0315, 
+    "lat": 42.3678
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "McDougall", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0297, 
+    "lat": 42.3573
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 9, 
+    "community": "McDougall", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0278, 
+    "lat": 42.359
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "McDougall", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0317, 
+    "lat": 42.3661
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 11, 
+    "community": "McDougall", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.039, 
+    "lat": 42.3601
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "McDougall", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0259, 
+    "lat": 42.3654
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "McDougall", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0348, 
+    "lat": 42.3627
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "McDougall", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.025, 
+    "lat": 42.3635
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Conant Gardens", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0689, 
+    "lat": 42.4321
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Conant Gardens", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0689, 
+    "lat": 42.4309
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Conant Gardens", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0699, 
+    "lat": 42.4278
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Conant Gardens", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0647, 
+    "lat": 42.4306
+  }
+]
