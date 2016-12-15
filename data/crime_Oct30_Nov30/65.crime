@@ -1,0 +1,101 @@
+[
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "Gateway Community", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0885, 
+    "lat": 42.3928
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Gateway Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.092, 
+    "lat": 42.3874
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Gateway Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0876, 
+    "lat": 42.3881
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Gateway Community", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0879, 
+    "lat": 42.3917
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "Gateway Community", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0884, 
+    "lat": 42.3926
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Gateway Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0929, 
+    "lat": 42.391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Gateway Community", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.091, 
+    "lat": 42.3871
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Gateway Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0974, 
+    "lat": 42.3839
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Gateway Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.087, 
+    "lat": 42.3883
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Gateway Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0921, 
+    "lat": 42.3873
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Gateway Community", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0915, 
+    "lat": 42.3912
+  }
+]

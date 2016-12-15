@@ -1,0 +1,110 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "West Village", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0002, 
+    "lat": 42.3553
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "West Village", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0002, 
+    "lat": 42.355
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "West Village", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9983, 
+    "lat": 42.3527
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "West Village", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9974, 
+    "lat": 42.3543
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "West Village", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9968, 
+    "lat": 42.3575
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "West Village", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9963, 
+    "lat": 42.3541
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "West Village", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9974, 
+    "lat": 42.3574
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "West Village", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9961, 
+    "lat": 42.3555
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "West Village", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9961, 
+    "lat": 42.3531
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "West Village", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9974, 
+    "lat": 42.355
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "West Village", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9989, 
+    "lat": 42.3565
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "West Village", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9962, 
+    "lat": 42.3535
+  }
+]

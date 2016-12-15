@@ -1,0 +1,146 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "New Center Commons", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.079, 
+    "lat": 42.3708
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "New Center Commons", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0792, 
+    "lat": 42.371
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "New Center Commons", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0815, 
+    "lat": 42.3712
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "New Center Commons", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0771, 
+    "lat": 42.3721
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "New Center Commons", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0804, 
+    "lat": 42.3732
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "New Center Commons", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0823, 
+    "lat": 42.3705
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "New Center Commons", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0823, 
+    "lat": 42.3707
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 7, 
+    "community": "New Center Commons", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0781, 
+    "lat": 42.3749
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "New Center Commons", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0794, 
+    "lat": 42.3718
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "New Center Commons", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0749, 
+    "lat": 42.3721
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 11, 
+    "community": "New Center Commons", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0776, 
+    "lat": 42.3716
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "New Center Commons", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0844, 
+    "lat": 42.3726
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 3, 
+    "community": "New Center Commons", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0781, 
+    "lat": 42.3746
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "New Center Commons", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.082, 
+    "lat": 42.3707
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "New Center Commons", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0808, 
+    "lat": 42.3726
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "New Center Commons", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0824, 
+    "lat": 42.3708
+  }
+]

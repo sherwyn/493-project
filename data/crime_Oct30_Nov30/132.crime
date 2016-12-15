@@ -1,0 +1,272 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "North Corktown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0853, 
+    "lat": 42.3333
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "North Corktown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0673, 
+    "lat": 42.339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "North Corktown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0832, 
+    "lat": 42.3335
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "North Corktown", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0883, 
+    "lat": 42.3367
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "North Corktown", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0868, 
+    "lat": 42.3339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "North Corktown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.073, 
+    "lat": 42.3354
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "North Corktown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0672, 
+    "lat": 42.339
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "North Corktown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0672, 
+    "lat": 42.3391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "North Corktown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.075, 
+    "lat": 42.3403
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "North Corktown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0673, 
+    "lat": 42.3391
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "North Corktown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.072, 
+    "lat": 42.3414
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "North Corktown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0731, 
+    "lat": 42.3413
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "North Corktown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0673, 
+    "lat": 42.3394
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "North Corktown", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0673, 
+    "lat": 42.3393
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "North Corktown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0791, 
+    "lat": 42.3398
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "North Corktown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.067, 
+    "lat": 42.3391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "North Corktown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0779, 
+    "lat": 42.339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 14, 
+    "community": "North Corktown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0672, 
+    "lat": 42.3392
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "North Corktown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.067, 
+    "lat": 42.3394
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 10, 
+    "community": "North Corktown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0755, 
+    "lat": 42.3373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "North Corktown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0776, 
+    "lat": 42.3389
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "North Corktown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0673, 
+    "lat": 42.3393
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "North Corktown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0672, 
+    "lat": 42.3392
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "North Corktown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0666, 
+    "lat": 42.3395
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "North Corktown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.067, 
+    "lat": 42.3391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "North Corktown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0844, 
+    "lat": 42.3381
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "North Corktown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0671, 
+    "lat": 42.3392
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "North Corktown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0752, 
+    "lat": 42.3405
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "North Corktown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0777, 
+    "lat": 42.339
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "North Corktown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0819, 
+    "lat": 42.3382
+  }
+]

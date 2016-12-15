@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Foxtown", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0452, 
+    "lat": 42.338
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Foxtown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0437, 
+    "lat": 42.3378
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Foxtown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0439, 
+    "lat": 42.3369
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Foxtown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0453, 
+    "lat": 42.3381
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Foxtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0466, 
+    "lat": 42.3386
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Foxtown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0453, 
+    "lat": 42.3381
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Foxtown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0464, 
+    "lat": 42.3385
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Foxtown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0458, 
+    "lat": 42.3376
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Foxtown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0456, 
+    "lat": 42.3361
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Foxtown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0467, 
+    "lat": 42.3389
+  }
+]

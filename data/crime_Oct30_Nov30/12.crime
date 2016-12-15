@@ -1,0 +1,308 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Boynton", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1603, 
+    "lat": 42.2672
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Boynton", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1571, 
+    "lat": 42.2677
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 21, 
+    "community": "Boynton", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1525, 
+    "lat": 42.2746
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Boynton", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1569, 
+    "lat": 42.2639
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Boynton", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1486, 
+    "lat": 42.2798
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Boynton", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1594, 
+    "lat": 42.2627
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Boynton", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1572, 
+    "lat": 42.2678
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Boynton", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.157, 
+    "lat": 42.2674
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Boynton", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1471, 
+    "lat": 42.2792
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Boynton", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1628, 
+    "lat": 42.2589
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Boynton", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1578, 
+    "lat": 42.2638
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Boynton", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1609, 
+    "lat": 42.2615
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Boynton", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1545, 
+    "lat": 42.2709
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Boynton", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1543, 
+    "lat": 42.2688
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Boynton", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1518, 
+    "lat": 42.2676
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Boynton", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1565, 
+    "lat": 42.2656
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 10, 
+    "community": "Boynton", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1565, 
+    "lat": 42.2715
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Boynton", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1466, 
+    "lat": 42.2788
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 20, 
+    "community": "Boynton", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1581, 
+    "lat": 42.2722
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Boynton", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1562, 
+    "lat": 42.2639
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Boynton", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1544, 
+    "lat": 42.2688
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Boynton", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1543, 
+    "lat": 42.2763
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Boynton", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1486, 
+    "lat": 42.2794
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Boynton", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1607, 
+    "lat": 42.2733
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Boynton", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1582, 
+    "lat": 42.2637
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Boynton", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1569, 
+    "lat": 42.2674
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Boynton", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1441, 
+    "lat": 42.2785
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Boynton", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.155, 
+    "lat": 42.2683
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Boynton", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.157, 
+    "lat": 42.2639
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Boynton", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1574, 
+    "lat": 42.2741
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Boynton", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1646, 
+    "lat": 42.2599
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Boynton", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1559, 
+    "lat": 42.2696
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Boynton", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1635, 
+    "lat": 42.2593
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Boynton", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1568, 
+    "lat": 42.2677
+  }
+]

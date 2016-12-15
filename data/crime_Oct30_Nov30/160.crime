@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Ravendale", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.988, 
+    "lat": 42.3973
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Ravendale", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9735, 
+    "lat": 42.4019
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Ravendale", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9807, 
+    "lat": 42.4002
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Ravendale", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9879, 
+    "lat": 42.3973
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Ravendale", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9882, 
+    "lat": 42.3989
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Ravendale", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9805, 
+    "lat": 42.3999
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Ravendale", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9912, 
+    "lat": 42.3994
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Ravendale", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9734, 
+    "lat": 42.4019
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Ravendale", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9787, 
+    "lat": 42.4013
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Ravendale", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9796, 
+    "lat": 42.4032
+  }
+]

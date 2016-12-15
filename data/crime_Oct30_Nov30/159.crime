@@ -1,0 +1,389 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Pulaski", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9986, 
+    "lat": 42.4403
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Pulaski", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0134, 
+    "lat": 42.4361
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Pulaski", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0013, 
+    "lat": 42.4418
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Pulaski", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9896, 
+    "lat": 42.4359
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Pulaski", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9992, 
+    "lat": 42.4371
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Pulaski", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9963, 
+    "lat": 42.4375
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Pulaski", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9884, 
+    "lat": 42.4373
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Pulaski", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0075, 
+    "lat": 42.4405
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Pulaski", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0076, 
+    "lat": 42.4401
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Pulaski", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.007, 
+    "lat": 42.4352
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 21, 
+    "community": "Pulaski", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0072, 
+    "lat": 42.4356
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Pulaski", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0041, 
+    "lat": 42.4345
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Pulaski", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9925, 
+    "lat": 42.4377
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Pulaski", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9878, 
+    "lat": 42.4384
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Pulaski", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.987, 
+    "lat": 42.4372
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Pulaski", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0123, 
+    "lat": 42.4362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Pulaski", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0075, 
+    "lat": 42.4401
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Pulaski", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0077, 
+    "lat": 42.44
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Pulaski", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9968, 
+    "lat": 42.4398
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Pulaski", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0011, 
+    "lat": 42.4416
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Pulaski", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0077, 
+    "lat": 42.4399
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Pulaski", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9872, 
+    "lat": 42.437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Pulaski", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9878, 
+    "lat": 42.4353
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Pulaski", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9994, 
+    "lat": 42.4385
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Pulaski", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0038, 
+    "lat": 42.4347
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Pulaski", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9866, 
+    "lat": 42.442
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Pulaski", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0141, 
+    "lat": 42.4342
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Pulaski", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0032, 
+    "lat": 42.4375
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Pulaski", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0104, 
+    "lat": 42.4367
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Pulaski", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9933, 
+    "lat": 42.439
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Pulaski", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0094, 
+    "lat": 42.4371
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Pulaski", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9935, 
+    "lat": 42.4417
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Pulaski", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9987, 
+    "lat": 42.4353
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Pulaski", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9988, 
+    "lat": 42.4405
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Pulaski", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9948, 
+    "lat": 42.441
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Pulaski", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0075, 
+    "lat": 42.4401
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Pulaski", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9878, 
+    "lat": 42.4351
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Pulaski", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9944, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "Pulaski", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0138, 
+    "lat": 42.4343
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Pulaski", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0071, 
+    "lat": 42.4347
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Pulaski", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0092, 
+    "lat": 42.4372
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Pulaski", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0055, 
+    "lat": 42.4356
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Pulaski", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9946, 
+    "lat": 42.4366
+  }
+]

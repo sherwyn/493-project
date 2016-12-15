@@ -1,0 +1,119 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "University District", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1404, 
+    "lat": 42.4173
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "University District", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.1385, 
+    "lat": 42.4282
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "University District", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1412, 
+    "lat": 42.4276
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "University District", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1407, 
+    "lat": 42.4305
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "University District", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1325, 
+    "lat": 42.4233
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "University District", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1317, 
+    "lat": 42.4298
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "University District", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1336, 
+    "lat": 42.4214
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "University District", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1394, 
+    "lat": 42.4196
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "University District", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1414, 
+    "lat": 42.4315
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "University District", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1342, 
+    "lat": 42.4192
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "University District", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1317, 
+    "lat": 42.4313
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "University District", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1317, 
+    "lat": 42.4311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "University District", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1337, 
+    "lat": 42.4279
+  }
+]

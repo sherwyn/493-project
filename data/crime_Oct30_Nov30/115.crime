@@ -1,0 +1,83 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Mexicantown", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0855, 
+    "lat": 42.3221
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Mexicantown", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0871, 
+    "lat": 42.3236
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Mexicantown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0858, 
+    "lat": 42.3228
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Mexicantown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0868, 
+    "lat": 42.3227
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Mexicantown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0878, 
+    "lat": 42.323
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Mexicantown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.085, 
+    "lat": 42.323
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Mexicantown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0879, 
+    "lat": 42.3211
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 7, 
+    "community": "Mexicantown", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0853, 
+    "lat": 42.3235
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Mexicantown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0854, 
+    "lat": 42.3229
+  }
+]

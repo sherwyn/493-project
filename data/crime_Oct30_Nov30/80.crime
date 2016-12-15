@@ -1,0 +1,164 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2023, 
+    "lat": 42.3939
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2007, 
+    "lat": 42.3923
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2036, 
+    "lat": 42.3928
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2, 
+    "lat": 42.3905
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.204, 
+    "lat": 42.3876
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 9, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2004, 
+    "lat": 42.3918
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.201, 
+    "lat": 42.3872
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.201, 
+    "lat": 42.3874
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2001, 
+    "lat": 42.3906
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1987, 
+    "lat": 42.3896
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1985, 
+    "lat": 42.3905
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2009, 
+    "lat": 42.3934
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2074, 
+    "lat": 42.3933
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2067, 
+    "lat": 42.3919
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2039, 
+    "lat": 42.3914
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2074, 
+    "lat": 42.396
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2011, 
+    "lat": 42.3899
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Greenfield-Grand River", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2077, 
+    "lat": 42.3938
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0967, 
+    "lat": 42.42
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Greenfield Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0999, 
+    "lat": 42.4302
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 4, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0959, 
+    "lat": 42.4321
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0952, 
+    "lat": 42.4241
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.102, 
+    "lat": 42.426
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0952, 
+    "lat": 42.4247
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0947, 
+    "lat": 42.4184
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 4, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0956, 
+    "lat": 42.432
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 23, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1016, 
+    "lat": 42.4198
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0966, 
+    "lat": 42.4291
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 4, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0957, 
+    "lat": 42.4321
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0931, 
+    "lat": 42.4215
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0948, 
+    "lat": 42.4257
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Greenfield Park", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0935, 
+    "lat": 42.4206
+  }
+]

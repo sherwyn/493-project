@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Jeffries", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.073, 
+    "lat": 42.3512
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Jeffries", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.072, 
+    "lat": 42.3455
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Jeffries", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0709, 
+    "lat": 42.3439
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Jeffries", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0699, 
+    "lat": 42.3455
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Jeffries", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0732, 
+    "lat": 42.3475
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Jeffries", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.072, 
+    "lat": 42.3449
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Jeffries", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.072, 
+    "lat": 42.3451
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Jeffries", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0733, 
+    "lat": 42.3473
+  }
+]

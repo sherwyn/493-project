@@ -1,0 +1,677 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9324, 
+    "lat": 42.4212
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9394, 
+    "lat": 42.4297
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9416, 
+    "lat": 42.4298
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9406, 
+    "lat": 42.4279
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9354, 
+    "lat": 42.4274
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9557, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Moross-Morang", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9444, 
+    "lat": 42.426
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.938, 
+    "lat": 42.4251
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Moross-Morang", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9464, 
+    "lat": 42.4273
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Moross-Morang", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9418, 
+    "lat": 42.4254
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9434, 
+    "lat": 42.4249
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Moross-Morang", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9513, 
+    "lat": 42.4288
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9517, 
+    "lat": 42.4348
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9517, 
+    "lat": 42.4348
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9432, 
+    "lat": 42.425
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9382, 
+    "lat": 42.4246
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.945, 
+    "lat": 42.4276
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9471, 
+    "lat": 42.4331
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9444, 
+    "lat": 42.4253
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9496, 
+    "lat": 42.4323
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9402, 
+    "lat": 42.4311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9516, 
+    "lat": 42.4351
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9424, 
+    "lat": 42.4279
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9517, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.948, 
+    "lat": 42.429
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9502, 
+    "lat": 42.4304
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9341, 
+    "lat": 42.4259
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9437, 
+    "lat": 42.4236
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9521, 
+    "lat": 42.4345
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9437, 
+    "lat": 42.4236
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9418, 
+    "lat": 42.4265
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9391, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Moross-Morang", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9363, 
+    "lat": 42.4291
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9516, 
+    "lat": 42.4348
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.946, 
+    "lat": 42.4264
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.93, 
+    "lat": 42.424
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9478, 
+    "lat": 42.4291
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9504, 
+    "lat": 42.4331
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9571, 
+    "lat": 42.4291
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.932, 
+    "lat": 42.4265
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9366, 
+    "lat": 42.4294
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.951, 
+    "lat": 42.4325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9539, 
+    "lat": 42.4304
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9341, 
+    "lat": 42.4256
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 16, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.936, 
+    "lat": 42.4248
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9373, 
+    "lat": 42.4292
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9496, 
+    "lat": 42.434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9479, 
+    "lat": 42.4332
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9423, 
+    "lat": 42.4292
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9391, 
+    "lat": 42.4296
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9435, 
+    "lat": 42.424
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9365, 
+    "lat": 42.4226
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9473, 
+    "lat": 42.4331
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9524, 
+    "lat": 42.4321
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9447, 
+    "lat": 42.4323
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9355, 
+    "lat": 42.4204
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9391, 
+    "lat": 42.4298
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9484, 
+    "lat": 42.4277
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9328, 
+    "lat": 42.4256
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9504, 
+    "lat": 42.4304
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9463, 
+    "lat": 42.4274
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.947, 
+    "lat": 42.4324
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9348, 
+    "lat": 42.4225
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9501, 
+    "lat": 42.433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9509, 
+    "lat": 42.4339
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 23, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9363, 
+    "lat": 42.4206
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9538, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 19, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9476, 
+    "lat": 42.4313
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9538, 
+    "lat": 42.431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9407, 
+    "lat": 42.4297
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9511, 
+    "lat": 42.4286
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9462, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.952, 
+    "lat": 42.4271
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9428, 
+    "lat": 42.4245
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Moross-Morang", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9343, 
+    "lat": 42.4234
+  }
+]

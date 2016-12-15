@@ -33,6 +33,17 @@ $(function() {
     // Save input to localStorage. We'll access this later in map.js.
     localStorage.setItem("address", address);
   })
+
+  var mymap = L.map('mapid').setView([42.3314, -83.0458], 11);
+  L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiaWFuenljIiwiYSI6ImNpd2I3bThjYTA0bmgyb3F1eHpiYXI2bTgifQ.uvJQRBGq8wA3BlyFcIXV8g', {
+    maxZoom: 18,
+    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> ' + 
+      'Imagery &copy <a href="http://mapbox.com">Mapbox</a>',
+    id: 'mapbox.streets'
+  }).addTo(mymap);
+
+  L.marker([42.344365, -83.076050999999]).addTo(mymap)
+    .bindPopup('<b style="font-size: 20px"> Commonwealth St, Detroit, MI 48208</b>').openPopup();
 })
 
 function handleCommunityData(data) {

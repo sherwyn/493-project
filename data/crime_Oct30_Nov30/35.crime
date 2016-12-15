@@ -1,0 +1,569 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2092, 
+    "lat": 42.4085
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Crary/St Marys", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1994, 
+    "lat": 42.4159
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2071, 
+    "lat": 42.4077
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2148, 
+    "lat": 42.4096
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2176, 
+    "lat": 42.4068
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2024, 
+    "lat": 42.4039
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2071, 
+    "lat": 42.4116
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2071, 
+    "lat": 42.4064
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2043, 
+    "lat": 42.4149
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2049, 
+    "lat": 42.402
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2044, 
+    "lat": 42.4147
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 18, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2041, 
+    "lat": 42.4127
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Crary/St Marys", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2092, 
+    "lat": 42.4055
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2139, 
+    "lat": 42.4073
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 11, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2078, 
+    "lat": 42.4156
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2073, 
+    "lat": 42.4031
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2022, 
+    "lat": 42.4149
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2009, 
+    "lat": 42.4016
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1995, 
+    "lat": 42.4119
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2171, 
+    "lat": 42.4117
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2077, 
+    "lat": 42.4059
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2093, 
+    "lat": 42.4014
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2068, 
+    "lat": 42.4094
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.217, 
+    "lat": 42.406
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2054, 
+    "lat": 42.4155
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 22, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2058, 
+    "lat": 42.4138
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2177, 
+    "lat": 42.4116
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 15, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1993, 
+    "lat": 42.4137
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2176, 
+    "lat": 42.4155
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2015, 
+    "lat": 42.4015
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2139, 
+    "lat": 42.4073
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2024, 
+    "lat": 42.4147
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2141, 
+    "lat": 42.4148
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2038, 
+    "lat": 42.4069
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Crary/St Marys", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2144, 
+    "lat": 42.4128
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2091, 
+    "lat": 42.4049
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2155, 
+    "lat": 42.4155
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2088, 
+    "lat": 42.4086
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2021, 
+    "lat": 42.4147
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2025, 
+    "lat": 42.4147
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2051, 
+    "lat": 42.4156
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2157, 
+    "lat": 42.4133
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2154, 
+    "lat": 42.411
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2121, 
+    "lat": 42.4128
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2142, 
+    "lat": 42.4139
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2004, 
+    "lat": 42.4122
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 15, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.207, 
+    "lat": 42.4118
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2166, 
+    "lat": 42.4085
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2121, 
+    "lat": 42.4093
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.211, 
+    "lat": 42.4118
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2154, 
+    "lat": 42.4097
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.204, 
+    "lat": 42.4149
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2073, 
+    "lat": 42.4126
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1994, 
+    "lat": 42.4087
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.21, 
+    "lat": 42.4036
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 10, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2067, 
+    "lat": 42.4064
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2038, 
+    "lat": 42.4147
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.211, 
+    "lat": 42.412
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2067, 
+    "lat": 42.4096
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1996, 
+    "lat": 42.4087
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2069, 
+    "lat": 42.4098
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2047, 
+    "lat": 42.4065
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Crary/St Marys", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2114, 
+    "lat": 42.4077
+  }
+]

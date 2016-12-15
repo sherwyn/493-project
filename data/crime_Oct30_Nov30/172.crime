@@ -1,0 +1,173 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Sherwood", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.032, 
+    "lat": 42.4466
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Sherwood", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0285, 
+    "lat": 42.4468
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Sherwood", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0328, 
+    "lat": 42.445
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Sherwood", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0347, 
+    "lat": 42.434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Sherwood", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0267, 
+    "lat": 42.4456
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Sherwood", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0294, 
+    "lat": 42.4421
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Sherwood", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.029, 
+    "lat": 42.4416
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Sherwood", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0288, 
+    "lat": 42.4473
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Sherwood", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0334, 
+    "lat": 42.4412
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Sherwood", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0278, 
+    "lat": 42.4414
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 13, 
+    "community": "Sherwood", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0288, 
+    "lat": 42.4476
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Sherwood", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0333, 
+    "lat": 42.442
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Sherwood", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0323, 
+    "lat": 42.4437
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Sherwood", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0297, 
+    "lat": 42.442
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Sherwood", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0285, 
+    "lat": 42.4476
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Sherwood", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0262, 
+    "lat": 42.4453
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Sherwood", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0285, 
+    "lat": 42.4459
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Sherwood", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0316, 
+    "lat": 42.444
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Sherwood", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0289, 
+    "lat": 42.4446
+  }
+]

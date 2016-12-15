@@ -1,0 +1,227 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2002, 
+    "lat": 42.3995
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2047, 
+    "lat": 42.3968
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2018, 
+    "lat": 42.3942
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2103, 
+    "lat": 42.3975
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2105, 
+    "lat": 42.3976
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2086, 
+    "lat": 42.3991
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2087, 
+    "lat": 42.4009
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2085, 
+    "lat": 42.3994
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1989, 
+    "lat": 42.4005
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2005, 
+    "lat": 42.3993
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1989, 
+    "lat": 42.4006
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2066, 
+    "lat": 42.3976
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 8, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1985, 
+    "lat": 42.3944
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.199, 
+    "lat": 42.3968
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2015, 
+    "lat": 42.3943
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2017, 
+    "lat": 42.3944
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2085, 
+    "lat": 42.3996
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.205, 
+    "lat": 42.3977
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2007, 
+    "lat": 42.3951
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2007, 
+    "lat": 42.3948
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2051, 
+    "lat": 42.3976
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2022, 
+    "lat": 42.3968
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 21, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2065, 
+    "lat": 42.4012
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2015, 
+    "lat": 42.3961
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Grand River-St Marys", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2004, 
+    "lat": 42.4001
+  }
+]

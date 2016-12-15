@@ -1,0 +1,218 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1923, 
+    "lat": 42.351
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1914, 
+    "lat": 42.352
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1925, 
+    "lat": 42.3558
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1907, 
+    "lat": 42.3518
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.1946, 
+    "lat": 42.3543
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.1964, 
+    "lat": 42.3559
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1941, 
+    "lat": 42.3547
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.188, 
+    "lat": 42.3579
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1924, 
+    "lat": 42.3558
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1924, 
+    "lat": 42.351
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1923, 
+    "lat": 42.3511
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1903, 
+    "lat": 42.3578
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1898, 
+    "lat": 42.3536
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1914, 
+    "lat": 42.3521
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 2, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1969, 
+    "lat": 42.3579
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1908, 
+    "lat": 42.3518
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 0, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1959, 
+    "lat": 42.3552
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1925, 
+    "lat": 42.351
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 19, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.196, 
+    "lat": 42.358
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1936, 
+    "lat": 42.3524
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1937, 
+    "lat": 42.3525
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 19, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1926, 
+    "lat": 42.358
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 10, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1948, 
+    "lat": 42.3532
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "Fiskhorn", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1937, 
+    "lat": 42.358
+  }
+]

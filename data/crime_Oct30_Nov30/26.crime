@@ -1,0 +1,137 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9595, 
+    "lat": 42.3973
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9563, 
+    "lat": 42.3971
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9582, 
+    "lat": 42.396
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9589, 
+    "lat": 42.402
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9582, 
+    "lat": 42.3957
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9609, 
+    "lat": 42.3981
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9609, 
+    "lat": 42.3983
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9578, 
+    "lat": 42.4004
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9546, 
+    "lat": 42.397
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9589, 
+    "lat": 42.4026
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9609, 
+    "lat": 42.3985
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9583, 
+    "lat": 42.3958
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9546, 
+    "lat": 42.3971
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9589, 
+    "lat": 42.3981
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Chandler Park-Chalmers", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9595, 
+    "lat": 42.4037
+  }
+]

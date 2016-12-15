@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "West Virginia Park", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0889, 
+    "lat": 42.3724
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "West Virginia Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0877, 
+    "lat": 42.3725
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "West Virginia Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0882, 
+    "lat": 42.3719
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "West Virginia Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0912, 
+    "lat": 42.3718
+  }
+]

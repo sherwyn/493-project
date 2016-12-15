@@ -1,0 +1,1028 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1029, 
+    "lat": 42.3102
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0952, 
+    "lat": 42.3238
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Southwest Detroit", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1178, 
+    "lat": 42.3044
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1044, 
+    "lat": 42.3109
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.114, 
+    "lat": 42.3079
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 14, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0926, 
+    "lat": 42.3221
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1112, 
+    "lat": 42.3106
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1136, 
+    "lat": 42.3059
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1158, 
+    "lat": 42.306
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0907, 
+    "lat": 42.3224
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0922, 
+    "lat": 42.3222
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1091, 
+    "lat": 42.3135
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1101, 
+    "lat": 42.3096
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Southwest Detroit", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0939, 
+    "lat": 42.3164
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1012, 
+    "lat": 42.3224
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.094, 
+    "lat": 42.3245
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Southwest Detroit", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0972, 
+    "lat": 42.3197
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1194, 
+    "lat": 42.3017
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1153, 
+    "lat": 42.3074
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1113, 
+    "lat": 42.3287
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0966, 
+    "lat": 42.3179
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0835, 
+    "lat": 42.3275
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.104, 
+    "lat": 42.3171
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1151, 
+    "lat": 42.3075
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1184, 
+    "lat": 42.3311
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1134, 
+    "lat": 42.3066
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Southwest Detroit", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.108, 
+    "lat": 42.3182
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1154, 
+    "lat": 42.3073
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1019, 
+    "lat": 42.3132
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1021, 
+    "lat": 42.3211
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1029, 
+    "lat": 42.315
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1016, 
+    "lat": 42.3185
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1074, 
+    "lat": 42.3194
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0974, 
+    "lat": 42.3201
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1117, 
+    "lat": 42.3086
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Southwest Detroit", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1103, 
+    "lat": 42.3121
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Southwest Detroit", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1079, 
+    "lat": 42.3297
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.11, 
+    "lat": 42.3094
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Southwest Detroit", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1039, 
+    "lat": 42.319
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1056, 
+    "lat": 42.3167
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1081, 
+    "lat": 42.3147
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1137, 
+    "lat": 42.3061
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.105, 
+    "lat": 42.3166
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1154, 
+    "lat": 42.3075
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1139, 
+    "lat": 42.3057
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1114, 
+    "lat": 42.3129
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1114, 
+    "lat": 42.3127
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1149, 
+    "lat": 42.3073
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.094, 
+    "lat": 42.3213
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0974, 
+    "lat": 42.3193
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1043, 
+    "lat": 42.3169
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1112, 
+    "lat": 42.3311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1069, 
+    "lat": 42.3119
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0985, 
+    "lat": 42.312
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1079, 
+    "lat": 42.3075
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0919, 
+    "lat": 42.3313
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1115, 
+    "lat": 42.3117
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 14, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0923, 
+    "lat": 42.3221
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1137, 
+    "lat": 42.3095
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0935, 
+    "lat": 42.3238
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1017, 
+    "lat": 42.3179
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0885, 
+    "lat": 42.3314
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1149, 
+    "lat": 42.3037
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0963, 
+    "lat": 42.3224
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0966, 
+    "lat": 42.3131
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1192, 
+    "lat": 42.3311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1056, 
+    "lat": 42.3074
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1127, 
+    "lat": 42.306
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0945, 
+    "lat": 42.3156
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0932, 
+    "lat": 42.3286
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1076, 
+    "lat": 42.3158
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1054, 
+    "lat": 42.3164
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1165, 
+    "lat": 42.3046
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0921, 
+    "lat": 42.3241
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1165, 
+    "lat": 42.3048
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1102, 
+    "lat": 42.315
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1061, 
+    "lat": 42.3217
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.106, 
+    "lat": 42.3164
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 19, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1102, 
+    "lat": 42.3152
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1113, 
+    "lat": 42.3284
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1042, 
+    "lat": 42.3201
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1026, 
+    "lat": 42.3172
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0948, 
+    "lat": 42.3295
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1099, 
+    "lat": 42.3156
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0988, 
+    "lat": 42.3114
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1148, 
+    "lat": 42.3051
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0941, 
+    "lat": 42.3213
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1192, 
+    "lat": 42.3047
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1025, 
+    "lat": 42.314
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1197, 
+    "lat": 42.302
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1042, 
+    "lat": 42.3168
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0843, 
+    "lat": 42.3264
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1163, 
+    "lat": 42.3096
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0933, 
+    "lat": 42.3285
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1101, 
+    "lat": 42.3109
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1076, 
+    "lat": 42.3155
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1043, 
+    "lat": 42.311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1029, 
+    "lat": 42.3109
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1077, 
+    "lat": 42.3119
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1112, 
+    "lat": 42.306
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1044, 
+    "lat": 42.3144
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0948, 
+    "lat": 42.3236
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1123, 
+    "lat": 42.3066
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1112, 
+    "lat": 42.3051
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1026, 
+    "lat": 42.3139
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0924, 
+    "lat": 42.322
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0943, 
+    "lat": 42.3321
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0979, 
+    "lat": 42.3129
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1106, 
+    "lat": 42.3076
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.097, 
+    "lat": 42.3233
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1167, 
+    "lat": 42.3079
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.095, 
+    "lat": 42.316
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0969, 
+    "lat": 42.324
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Southwest Detroit", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0905, 
+    "lat": 42.3224
+  }
+]

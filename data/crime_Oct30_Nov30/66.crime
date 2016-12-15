@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Gold Coast", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9843, 
+    "lat": 42.3544
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Gold Coast", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9919, 
+    "lat": 42.3518
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Gold Coast", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9846, 
+    "lat": 42.3542
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Gold Coast", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9981, 
+    "lat": 42.3491
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Gold Coast", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9972, 
+    "lat": 42.3499
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Gold Coast", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9948, 
+    "lat": 42.3512
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Gold Coast", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9855, 
+    "lat": 42.3563
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Gold Coast", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9919, 
+    "lat": 42.3518
+  }
+]

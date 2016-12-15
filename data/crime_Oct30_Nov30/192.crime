@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "West Outer Drive", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2636, 
+    "lat": 42.3647
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "West Outer Drive", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2632, 
+    "lat": 42.3684
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "West Outer Drive", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2611, 
+    "lat": 42.3722
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "West Outer Drive", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2651, 
+    "lat": 42.3688
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "West Outer Drive", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2642, 
+    "lat": 42.375
+  }
+]

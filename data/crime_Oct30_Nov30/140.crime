@@ -1,0 +1,101 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Oak Grove", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2771, 
+    "lat": 42.4241
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Oak Grove", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.2612, 
+    "lat": 42.4157
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Oak Grove", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2601, 
+    "lat": 42.4154
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Oak Grove", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2557, 
+    "lat": 42.4157
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Oak Grove", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2601, 
+    "lat": 42.4155
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Oak Grove", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2573, 
+    "lat": 42.4147
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Oak Grove", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2658, 
+    "lat": 42.4187
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Oak Grove", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2602, 
+    "lat": 42.4156
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Oak Grove", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2604, 
+    "lat": 42.4155
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Oak Grove", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2578, 
+    "lat": 42.4149
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Oak Grove", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2577, 
+    "lat": 42.4165
+  }
+]

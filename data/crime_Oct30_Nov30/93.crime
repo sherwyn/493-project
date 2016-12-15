@@ -1,0 +1,101 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Hunt", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0302, 
+    "lat": 42.35
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Hunt", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.031, 
+    "lat": 42.3509
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Hunt", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.022, 
+    "lat": 42.3535
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Hunt", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0307, 
+    "lat": 42.3545
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Hunt", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0306, 
+    "lat": 42.3543
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Hunt", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0219, 
+    "lat": 42.3603
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Hunt", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0278, 
+    "lat": 42.3588
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Hunt", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0282, 
+    "lat": 42.3553
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Hunt", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0206, 
+    "lat": 42.3585
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 23, 
+    "community": "Hunt", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0276, 
+    "lat": 42.3592
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Hunt", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0281, 
+    "lat": 42.3552
+  }
+]

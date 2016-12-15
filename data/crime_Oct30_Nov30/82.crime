@@ -1,0 +1,254 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Grixdale Farms", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1152, 
+    "lat": 42.432
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.107, 
+    "lat": 42.4288
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1093, 
+    "lat": 42.4267
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.107, 
+    "lat": 42.4288
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1071, 
+    "lat": 42.4288
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1067, 
+    "lat": 42.4235
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1063, 
+    "lat": 42.4201
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1139, 
+    "lat": 42.4304
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1025, 
+    "lat": 42.4268
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1064, 
+    "lat": 42.4205
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1142, 
+    "lat": 42.4317
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1138, 
+    "lat": 42.4314
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1038, 
+    "lat": 42.4296
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1084, 
+    "lat": 42.4224
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1043, 
+    "lat": 42.4285
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1139, 
+    "lat": 42.4317
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1068, 
+    "lat": 42.4234
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1142, 
+    "lat": 42.4315
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1072, 
+    "lat": 42.4297
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1123, 
+    "lat": 42.4304
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1076, 
+    "lat": 42.4249
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 0, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1138, 
+    "lat": 42.4304
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1036, 
+    "lat": 42.4312
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.114, 
+    "lat": 42.4314
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1072, 
+    "lat": 42.4287
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1077, 
+    "lat": 42.425
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1141, 
+    "lat": 42.4314
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Grixdale Farms", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1024, 
+    "lat": 42.4266
+  }
+]

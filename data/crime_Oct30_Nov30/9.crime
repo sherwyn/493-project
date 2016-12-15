@@ -1,0 +1,263 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2623, 
+    "lat": 42.4329
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2605, 
+    "lat": 42.4422
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2585, 
+    "lat": 42.4292
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2651, 
+    "lat": 42.4322
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2593, 
+    "lat": 42.4382
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2594, 
+    "lat": 42.4381
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.2588, 
+    "lat": 42.4313
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.2633, 
+    "lat": 42.4347
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Berg-Lahser", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2662, 
+    "lat": 42.4303
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2679, 
+    "lat": 42.4338
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2706, 
+    "lat": 42.4366
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2626, 
+    "lat": 42.4422
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2628, 
+    "lat": 42.4374
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2587, 
+    "lat": 42.4323
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2652, 
+    "lat": 42.4311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2689, 
+    "lat": 42.4375
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2679, 
+    "lat": 42.4338
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2645, 
+    "lat": 42.4338
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2636, 
+    "lat": 42.4361
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2675, 
+    "lat": 42.43
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2621, 
+    "lat": 42.4405
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2595, 
+    "lat": 42.4382
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2617, 
+    "lat": 42.4421
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2605, 
+    "lat": 42.4422
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2674, 
+    "lat": 42.4298
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2648, 
+    "lat": 42.4319
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2587, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2651, 
+    "lat": 42.4308
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Berg-Lahser", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2589, 
+    "lat": 42.4423
+  }
+]

@@ -1,0 +1,515 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2478, 
+    "lat": 42.4331
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2446, 
+    "lat": 42.4345
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2563, 
+    "lat": 42.43
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2405, 
+    "lat": 42.4379
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.253, 
+    "lat": 42.4295
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2545, 
+    "lat": 42.4398
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2511, 
+    "lat": 42.438
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2448, 
+    "lat": 42.4399
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2401, 
+    "lat": 42.44
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 23, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2508, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2405, 
+    "lat": 42.4341
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2418, 
+    "lat": 42.4352
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2528, 
+    "lat": 42.4431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2508, 
+    "lat": 42.4403
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2441, 
+    "lat": 42.4355
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2562, 
+    "lat": 42.4329
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2437, 
+    "lat": 42.443
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2488, 
+    "lat": 42.4347
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2431, 
+    "lat": 42.431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2496, 
+    "lat": 42.4294
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2493, 
+    "lat": 42.436
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2408, 
+    "lat": 42.4367
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.241, 
+    "lat": 42.4423
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2528, 
+    "lat": 42.4337
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2579, 
+    "lat": 42.4335
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2498, 
+    "lat": 42.4362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2586, 
+    "lat": 42.4431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2527, 
+    "lat": 42.4332
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2556, 
+    "lat": 42.4332
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2446, 
+    "lat": 42.4372
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2525, 
+    "lat": 42.4431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2461, 
+    "lat": 42.4416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2544, 
+    "lat": 42.4364
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2462, 
+    "lat": 42.4425
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.239, 
+    "lat": 42.4296
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2482, 
+    "lat": 42.4371
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2407, 
+    "lat": 42.4421
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.253, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2559, 
+    "lat": 42.4402
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2545, 
+    "lat": 42.4402
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2586, 
+    "lat": 42.4422
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2476, 
+    "lat": 42.4298
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2549, 
+    "lat": 42.4313
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2494, 
+    "lat": 42.4297
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.247, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2455, 
+    "lat": 42.4335
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2416, 
+    "lat": 42.4296
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 19, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2424, 
+    "lat": 42.4295
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2483, 
+    "lat": 42.4307
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2445, 
+    "lat": 42.4392
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.248, 
+    "lat": 42.4378
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2545, 
+    "lat": 42.4402
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2475, 
+    "lat": 42.4377
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2532, 
+    "lat": 42.4351
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.258, 
+    "lat": 42.4325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 15, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2557, 
+    "lat": 42.4341
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Evergreen Lahser 7/8", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2448, 
+    "lat": 42.4354
+  }
+]

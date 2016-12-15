@@ -1,0 +1,542 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "College Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2154, 
+    "lat": 42.4261
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "College Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2175, 
+    "lat": 42.4261
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "College Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2163, 
+    "lat": 42.4183
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "College Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2143, 
+    "lat": 42.4265
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "College Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2161, 
+    "lat": 42.4291
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "College Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2027, 
+    "lat": 42.4264
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "College Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2025, 
+    "lat": 42.4267
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "College Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2001, 
+    "lat": 42.4283
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "College Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2056, 
+    "lat": 42.4259
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "College Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2075, 
+    "lat": 42.4169
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "College Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.21, 
+    "lat": 42.4227
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "College Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2104, 
+    "lat": 42.4229
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "College Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1998, 
+    "lat": 42.4207
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "College Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2043, 
+    "lat": 42.4302
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 14, 
+    "community": "College Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2047, 
+    "lat": 42.4159
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "College Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2014, 
+    "lat": 42.4285
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "College Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.204, 
+    "lat": 42.4272
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "College Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2099, 
+    "lat": 42.4192
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 14, 
+    "community": "College Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2077, 
+    "lat": 42.4196
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "College Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2065, 
+    "lat": 42.4159
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 23, 
+    "community": "College Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.217, 
+    "lat": 42.4299
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "College Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1998, 
+    "lat": 42.4207
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "College Park", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2071, 
+    "lat": 42.4197
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "College Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2145, 
+    "lat": 42.4277
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "College Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2171, 
+    "lat": 42.4286
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "College Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2101, 
+    "lat": 42.4282
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "College Park", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2125, 
+    "lat": 42.4259
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "College Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2027, 
+    "lat": 42.4189
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "College Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2161, 
+    "lat": 42.426
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "College Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2185, 
+    "lat": 42.4281
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "College Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2083, 
+    "lat": 42.4207
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "College Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2002, 
+    "lat": 42.43
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 6, 
+    "community": "College Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2033, 
+    "lat": 42.4245
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "College Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2008, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "College Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2047, 
+    "lat": 42.4276
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "College Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2037, 
+    "lat": 42.4279
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 1, 
+    "community": "College Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2046, 
+    "lat": 42.4237
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "College Park", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2104, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "College Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2039, 
+    "lat": 42.4199
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "College Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.21, 
+    "lat": 42.4284
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "College Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2025, 
+    "lat": 42.428
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "College Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1997, 
+    "lat": 42.4189
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "College Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2151, 
+    "lat": 42.4245
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "College Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2086, 
+    "lat": 42.4215
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "College Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2056, 
+    "lat": 42.4252
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "College Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2163, 
+    "lat": 42.4186
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "College Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2031, 
+    "lat": 42.4171
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "College Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2171, 
+    "lat": 42.4248
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "College Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2131, 
+    "lat": 42.4294
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "College Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2044, 
+    "lat": 42.43
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "College Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2173, 
+    "lat": 42.4165
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "College Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2166, 
+    "lat": 42.4183
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 0, 
+    "community": "College Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2164, 
+    "lat": 42.4184
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "College Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2048, 
+    "lat": 42.4256
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "College Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2036, 
+    "lat": 42.4228
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "College Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2125, 
+    "lat": 42.4259
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "College Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2001, 
+    "lat": 42.4267
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "College Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2085, 
+    "lat": 42.4167
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "College Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2002, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "College Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2034, 
+    "lat": 42.4239
+  }
+]

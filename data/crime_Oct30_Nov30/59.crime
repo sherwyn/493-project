@@ -1,0 +1,173 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Forest Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0492, 
+    "lat": 42.3554
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Forest Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.05, 
+    "lat": 42.357
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Forest Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0488, 
+    "lat": 42.358
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Forest Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0489, 
+    "lat": 42.3555
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Forest Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0514, 
+    "lat": 42.3593
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Forest Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0491, 
+    "lat": 42.3556
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Forest Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0473, 
+    "lat": 42.3594
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Forest Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0472, 
+    "lat": 42.3516
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Forest Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0516, 
+    "lat": 42.3591
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Forest Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0495, 
+    "lat": 42.3552
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Forest Park", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0473, 
+    "lat": 42.354
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "Forest Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0465, 
+    "lat": 42.3601
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Forest Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0494, 
+    "lat": 42.3597
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 14, 
+    "community": "Forest Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0499, 
+    "lat": 42.357
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Forest Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0518, 
+    "lat": 42.359
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Forest Park", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0509, 
+    "lat": 42.3567
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Forest Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.047, 
+    "lat": 42.3517
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Forest Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.048, 
+    "lat": 42.3514
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Forest Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0466, 
+    "lat": 42.3603
+  }
+]

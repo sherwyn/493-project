@@ -1,0 +1,11 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Detroit Golf", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1296, 
+    "lat": 42.4174
+  }
+]

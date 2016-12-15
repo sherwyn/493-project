@@ -1,0 +1,137 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0703, 
+    "lat": 42.3879
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 15, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.081, 
+    "lat": 42.3948
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0847, 
+    "lat": 42.3931
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "North End Neighborhood", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0783, 
+    "lat": 42.391
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "North End Neighborhood", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0788, 
+    "lat": 42.3929
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0726, 
+    "lat": 42.3862
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0862, 
+    "lat": 42.3895
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0798, 
+    "lat": 42.3916
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0838, 
+    "lat": 42.3943
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0774, 
+    "lat": 42.3914
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0838, 
+    "lat": 42.39
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.081, 
+    "lat": 42.3904
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.0765, 
+    "lat": 42.3918
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 17, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0842, 
+    "lat": 42.3922
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "North End Neighborhood", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0827, 
+    "lat": 42.3903
+  }
+]

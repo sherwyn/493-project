@@ -1,0 +1,191 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "We Care Community", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.1876, 
+    "lat": 42.3603
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "We Care Community", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1965, 
+    "lat": 42.3614
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "We Care Community", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1947, 
+    "lat": 42.3614
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "We Care Community", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1836, 
+    "lat": 42.3628
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "We Care Community", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1835, 
+    "lat": 42.3627
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "We Care Community", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1945, 
+    "lat": 42.3582
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "We Care Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1898, 
+    "lat": 42.36
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "We Care Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.196, 
+    "lat": 42.3583
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "We Care Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.196, 
+    "lat": 42.3653
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "We Care Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1796, 
+    "lat": 42.3604
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "We Care Community", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1931, 
+    "lat": 42.3635
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "We Care Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1902, 
+    "lat": 42.3649
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "We Care Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1796, 
+    "lat": 42.3605
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "We Care Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1774, 
+    "lat": 42.3587
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "We Care Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1795, 
+    "lat": 42.3653
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "We Care Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1927, 
+    "lat": 42.3638
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "We Care Community", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1937, 
+    "lat": 42.3636
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "We Care Community", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1904, 
+    "lat": 42.3645
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "We Care Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1897, 
+    "lat": 42.3646
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "We Care Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1923, 
+    "lat": 42.3633
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "We Care Community", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1901, 
+    "lat": 42.3645
+  }
+]

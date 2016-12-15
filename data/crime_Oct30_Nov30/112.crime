@@ -1,0 +1,11 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Medbury Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0658, 
+    "lat": 42.3661
+  }
+]

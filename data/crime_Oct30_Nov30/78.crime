@@ -1,0 +1,740 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Greenfield", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1989, 
+    "lat": 42.4313
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Greenfield", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2005, 
+    "lat": 42.4308
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Greenfield", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2064, 
+    "lat": 42.441
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Greenfield", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2098, 
+    "lat": 42.4334
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Greenfield", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2186, 
+    "lat": 42.4412
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Greenfield", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2129, 
+    "lat": 42.4392
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Greenfield", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2119, 
+    "lat": 42.4377
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 19, 
+    "community": "Greenfield", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2158, 
+    "lat": 42.4365
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Greenfield", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2186, 
+    "lat": 42.4308
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 20, 
+    "community": "Greenfield", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2183, 
+    "lat": 42.4307
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 0, 
+    "community": "Greenfield", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2184, 
+    "lat": 42.4333
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Greenfield", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.2022, 
+    "lat": 42.4312
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Greenfield", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1999, 
+    "lat": 42.4326
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Greenfield", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2089, 
+    "lat": 42.4376
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Greenfield", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2006, 
+    "lat": 42.4309
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 18, 
+    "community": "Greenfield", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2012, 
+    "lat": 42.4424
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Greenfield", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2007, 
+    "lat": 42.431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Greenfield", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2167, 
+    "lat": 42.4356
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Greenfield", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2096, 
+    "lat": 42.4444
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Greenfield", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2175, 
+    "lat": 42.4332
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Greenfield", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2064, 
+    "lat": 42.4413
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Greenfield", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2144, 
+    "lat": 42.4395
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Greenfield", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2071, 
+    "lat": 42.4423
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Greenfield", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2004, 
+    "lat": 42.4348
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Greenfield", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2082, 
+    "lat": 42.4368
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Greenfield", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.194, 
+    "lat": 42.4345
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 16, 
+    "community": "Greenfield", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2184, 
+    "lat": 42.433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 14, 
+    "community": "Greenfield", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2071, 
+    "lat": 42.4394
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Greenfield", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1921, 
+    "lat": 42.4332
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Greenfield", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2044, 
+    "lat": 42.4376
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Greenfield", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2052, 
+    "lat": 42.4347
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Greenfield", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2079, 
+    "lat": 42.4427
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 13, 
+    "community": "Greenfield", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2166, 
+    "lat": 42.4302
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Greenfield", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2064, 
+    "lat": 42.4419
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Greenfield", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2186, 
+    "lat": 42.4339
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Greenfield", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2096, 
+    "lat": 42.4423
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Greenfield", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2166, 
+    "lat": 42.4419
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Greenfield", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.19, 
+    "lat": 42.4326
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Greenfield", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2173, 
+    "lat": 42.4405
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Greenfield", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2122, 
+    "lat": 42.4392
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Greenfield", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2143, 
+    "lat": 42.4325
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Greenfield", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2004, 
+    "lat": 42.4372
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Greenfield", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2014, 
+    "lat": 42.4352
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Greenfield", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2168, 
+    "lat": 42.44
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Greenfield", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1881, 
+    "lat": 42.4311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Greenfield", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2164, 
+    "lat": 42.4358
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Greenfield", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2138, 
+    "lat": 42.4428
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Greenfield", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2039, 
+    "lat": 42.4346
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Greenfield", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2129, 
+    "lat": 42.4403
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Greenfield", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2062, 
+    "lat": 42.4304
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Greenfield", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2008, 
+    "lat": 42.4305
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Greenfield", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2012, 
+    "lat": 42.4358
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Greenfield", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2127, 
+    "lat": 42.4374
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Greenfield", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2068, 
+    "lat": 42.4318
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Greenfield", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2113, 
+    "lat": 42.4378
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Greenfield", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.188, 
+    "lat": 42.4313
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Greenfield", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2113, 
+    "lat": 42.438
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Greenfield", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2074, 
+    "lat": 42.4345
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Greenfield", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2123, 
+    "lat": 42.431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Greenfield", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2046, 
+    "lat": 42.4434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Greenfield", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2075, 
+    "lat": 42.4341
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Greenfield", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2005, 
+    "lat": 42.4308
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Greenfield", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2079, 
+    "lat": 42.4416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Greenfield", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2101, 
+    "lat": 42.4407
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Greenfield", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2126, 
+    "lat": 42.4306
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Greenfield", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2143, 
+    "lat": 42.4394
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Greenfield", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1989, 
+    "lat": 42.4325
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Greenfield", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2132, 
+    "lat": 42.4436
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Greenfield", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2162, 
+    "lat": 42.441
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Greenfield", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1982, 
+    "lat": 42.4346
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Greenfield", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.218, 
+    "lat": 42.4422
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Greenfield", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2184, 
+    "lat": 42.4393
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Greenfield", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2029, 
+    "lat": 42.4307
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Greenfield", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2181, 
+    "lat": 42.4303
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Greenfield", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2046, 
+    "lat": 42.443
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Greenfield", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2163, 
+    "lat": 42.4417
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Greenfield", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2183, 
+    "lat": 42.4303
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Greenfield", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2148, 
+    "lat": 42.4357
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 21, 
+    "community": "Greenfield", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2185, 
+    "lat": 42.4303
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Greenfield", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2019, 
+    "lat": 42.4383
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Greenfield", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2058, 
+    "lat": 42.4362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Greenfield", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1883, 
+    "lat": 42.4314
+  }
+]

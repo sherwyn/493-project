@@ -1,0 +1,200 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2612, 
+    "lat": 42.3434
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2561, 
+    "lat": 42.3464
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2639, 
+    "lat": 42.3522
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.263, 
+    "lat": 42.3489
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2627, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2545, 
+    "lat": 42.3469
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2634, 
+    "lat": 42.3468
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2616, 
+    "lat": 42.3445
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2613, 
+    "lat": 42.3472
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2581, 
+    "lat": 42.3461
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2593, 
+    "lat": 42.3468
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2618, 
+    "lat": 42.3489
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2633, 
+    "lat": 42.3447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2623, 
+    "lat": 42.3467
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2581, 
+    "lat": 42.3462
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2629, 
+    "lat": 42.348
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.257, 
+    "lat": 42.3449
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2628, 
+    "lat": 42.3491
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2573, 
+    "lat": 42.3469
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2631, 
+    "lat": 42.3439
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2608, 
+    "lat": 42.3442
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Far West Detroit", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2629, 
+    "lat": 42.3489
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 7, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2285, 
+    "lat": 42.4348
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "O'Hair Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2278, 
+    "lat": 42.4398
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 20, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2359, 
+    "lat": 42.4298
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2325, 
+    "lat": 42.4429
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2228, 
+    "lat": 42.4431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2228, 
+    "lat": 42.4432
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2203, 
+    "lat": 42.4331
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2388, 
+    "lat": 42.4314
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2304, 
+    "lat": 42.4307
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2283, 
+    "lat": 42.43
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2254, 
+    "lat": 42.4396
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2382, 
+    "lat": 42.4314
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.232, 
+    "lat": 42.4299
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 9, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2231, 
+    "lat": 42.4354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2367, 
+    "lat": 42.4436
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2325, 
+    "lat": 42.433
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2218, 
+    "lat": 42.4384
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "O'Hair Park", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2205, 
+    "lat": 42.4416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.234, 
+    "lat": 42.4307
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2222, 
+    "lat": 42.444
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2342, 
+    "lat": 42.4324
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2235, 
+    "lat": 42.4342
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2328, 
+    "lat": 42.4436
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2291, 
+    "lat": 42.4429
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2289, 
+    "lat": 42.4435
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2335, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2232, 
+    "lat": 42.4433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2238, 
+    "lat": 42.4428
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2236, 
+    "lat": 42.4397
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2304, 
+    "lat": 42.4308
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2261, 
+    "lat": 42.4359
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2263, 
+    "lat": 42.4361
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.233, 
+    "lat": 42.4434
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2379, 
+    "lat": 42.4319
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2269, 
+    "lat": 42.4323
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2331, 
+    "lat": 42.4302
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2331, 
+    "lat": 42.4435
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2387, 
+    "lat": 42.4296
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2289, 
+    "lat": 42.4438
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2251, 
+    "lat": 42.4397
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2279, 
+    "lat": 42.4357
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2287, 
+    "lat": 42.4436
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2253, 
+    "lat": 42.4396
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 3, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2328, 
+    "lat": 42.4299
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2225, 
+    "lat": 42.4401
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2334, 
+    "lat": 42.442
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2271, 
+    "lat": 42.4412
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 7, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2205, 
+    "lat": 42.4337
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2282, 
+    "lat": 42.4439
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 15, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2265, 
+    "lat": 42.4406
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "O'Hair Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2212, 
+    "lat": 42.433
+  }
+]

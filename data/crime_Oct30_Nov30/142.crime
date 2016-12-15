@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Oakwood Heights", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1462, 
+    "lat": 42.2925
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Oakwood Heights", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.16, 
+    "lat": 42.2806
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 23, 
+    "community": "Oakwood Heights", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1627, 
+    "lat": 42.2841
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Oakwood Heights", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1641, 
+    "lat": 42.2874
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Oakwood Heights", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1462, 
+    "lat": 42.2923
+  }
+]

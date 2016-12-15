@@ -1,0 +1,65 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Piety Hill", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0817, 
+    "lat": 42.3827
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Piety Hill", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0797, 
+    "lat": 42.3778
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Piety Hill", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0862, 
+    "lat": 42.3759
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 12, 
+    "community": "Piety Hill", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0876, 
+    "lat": 42.3807
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Piety Hill", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0836, 
+    "lat": 42.3796
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Piety Hill", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0785, 
+    "lat": 42.3778
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Piety Hill", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.086, 
+    "lat": 42.3763
+  }
+]

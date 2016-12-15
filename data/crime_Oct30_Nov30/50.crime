@@ -1,0 +1,83 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Eliza Howell", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2647, 
+    "lat": 42.3877
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Eliza Howell", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2641, 
+    "lat": 42.3914
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Eliza Howell", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2731, 
+    "lat": 42.3864
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Eliza Howell", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2748, 
+    "lat": 42.3866
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "Eliza Howell", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2729, 
+    "lat": 42.3859
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Eliza Howell", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2641, 
+    "lat": 42.3911
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Eliza Howell", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.264, 
+    "lat": 42.3907
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Eliza Howell", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2647, 
+    "lat": 42.3878
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Eliza Howell", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2729, 
+    "lat": 42.3876
+  }
+]

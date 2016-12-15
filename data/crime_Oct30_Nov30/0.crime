@@ -1,0 +1,767 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "NULL", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": 0, 
+    "lat": 0
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "NULL", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": 0, 
+    "lat": 0
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 7, 
+    "community": "NULL", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.167, 
+    "lat": 42.2893
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "NULL", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": 999998.9999, 
+    "lat": 999999.0001
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "NULL", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.452, 
+    "lat": 42.1911
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "NULL", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2763, 
+    "lat": 42.4001
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "NULL", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1906, 
+    "lat": 42.351
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "NULL", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0824, 
+    "lat": 42.4472
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "NULL", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0853, 
+    "lat": 42.4047
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "NULL", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0637, 
+    "lat": 42.4474
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": 0, 
+    "lat": 0
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 5, 
+    "community": "NULL", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -84.5481, 
+    "lat": 42.7014
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "NULL", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9108, 
+    "lat": 42.4169
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 6, 
+    "community": "NULL", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.2395, 
+    "lat": 42.4439
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 0, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9805, 
+    "lat": 42.507
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "NULL", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2588, 
+    "lat": 42.4433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "NULL", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0953, 
+    "lat": 42.4496
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "NULL", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.26, 
+    "lat": 42.3358
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "NULL", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": 0, 
+    "lat": 0
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "NULL", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9457, 
+    "lat": 42.3852
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "NULL", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9456, 
+    "lat": 42.3853
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "NULL", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1905, 
+    "lat": 42.351
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9804, 
+    "lat": 42.507
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 0, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9804, 
+    "lat": 42.5069
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9804, 
+    "lat": 42.5072
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 0, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9805, 
+    "lat": 42.5069
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": 0, 
+    "lat": 0
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.227, 
+    "lat": 42.2169
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": 0, 
+    "lat": 0
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": 0, 
+    "lat": 0
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "NULL", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.235, 
+    "lat": 42.4439
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "NULL", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2006, 
+    "lat": 42.445
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "NULL", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2003, 
+    "lat": 42.3144
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "NULL", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2395, 
+    "lat": 42.4439
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": 999998.9999, 
+    "lat": 999998.9998
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "NULL", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2005, 
+    "lat": 42.4448
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "NULL", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": 999998.9999, 
+    "lat": 999999.0001
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0564, 
+    "lat": 42.3824
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "NULL", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2727, 
+    "lat": 42.4429
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "NULL", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2505, 
+    "lat": 42.4446
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 1, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.227, 
+    "lat": 42.2169
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "NULL", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0893, 
+    "lat": 42.447
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "NULL", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.936, 
+    "lat": 42.3896
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "NULL", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": 999999.0001, 
+    "lat": 999998.9999
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "NULL", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9156, 
+    "lat": 42.4059
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 5, 
+    "community": "NULL", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9265, 
+    "lat": 42.3931
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": 999998.9998, 
+    "lat": 999999
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "NULL", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2269, 
+    "lat": 42.2167
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.8899, 
+    "lat": 42.4095
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "NULL", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0899, 
+    "lat": 42.4469
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "NULL", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2053, 
+    "lat": 42.4575
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": 0, 
+    "lat": 0
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": 999998.9998, 
+    "lat": 999999.0001
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": 999999, 
+    "lat": 999998.9998
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "NULL", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1194, 
+    "lat": 42.4466
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "NULL", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.4504, 
+    "lat": 42.3186
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "NULL", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.179, 
+    "lat": 42.4453
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": 999999, 
+    "lat": 999999.0001
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "NULL", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1132, 
+    "lat": 42.4176
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "NULL", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1198, 
+    "lat": 42.4172
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "NULL", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2006, 
+    "lat": 42.4449
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2222, 
+    "lat": 42.4442
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "NULL", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0859, 
+    "lat": 42.447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "NULL", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1195, 
+    "lat": 42.4466
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "NULL", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0328, 
+    "lat": 42.4538
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "NULL", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.235, 
+    "lat": 42.332
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "NULL", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1095, 
+    "lat": 42.4012
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "NULL", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": 999999.0001, 
+    "lat": 999998.9999
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "NULL", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": 999998.9998, 
+    "lat": 999999
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "NULL", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": 999998.9998, 
+    "lat": 999998.9998
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "NULL", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.274, 
+    "lat": 42.4429
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "NULL", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": 999998.9998, 
+    "lat": 999999
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "NULL", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1507, 
+    "lat": 42.2673
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "NULL", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9414, 
+    "lat": 42.4503
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 2, 
+    "community": "NULL", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.141, 
+    "lat": 42.4462
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "NULL", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1575, 
+    "lat": 42.3516
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "NULL", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.936, 
+    "lat": 42.3707
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "NULL", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.968, 
+    "lat": 42.4499
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "NULL", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.222, 
+    "lat": 42.3289
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "NULL", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1193, 
+    "lat": 42.4466
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "NULL", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2629, 
+    "lat": 42.4432
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "NULL", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0908, 
+    "lat": 42.417
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "NULL", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": 999999.0001, 
+    "lat": 999998.9998
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "NULL", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1829, 
+    "lat": 42.3511
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "NULL", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0835, 
+    "lat": 42.4472
+  }
+]

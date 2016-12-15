@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Green Acres", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1379, 
+    "lat": 42.4437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Green Acres", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1333, 
+    "lat": 42.4461
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Green Acres", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1332, 
+    "lat": 42.4462
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Green Acres", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1333, 
+    "lat": 42.445
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Green Acres", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1348, 
+    "lat": 42.4435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Green Acres", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1338, 
+    "lat": 42.4394
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Green Acres", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1348, 
+    "lat": 42.4414
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 2, 
+    "community": "Green Acres", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1409, 
+    "lat": 42.446
+  }
+]

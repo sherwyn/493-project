@@ -1,0 +1,119 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Blackstone Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1807, 
+    "lat": 42.4451
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Blackstone Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1795, 
+    "lat": 42.4447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Blackstone Park", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.18, 
+    "lat": 42.4393
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Blackstone Park", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1757, 
+    "lat": 42.4387
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Blackstone Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1741, 
+    "lat": 42.4423
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Blackstone Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1746, 
+    "lat": 42.4424
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Blackstone Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1714, 
+    "lat": 42.4401
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Blackstone Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1756, 
+    "lat": 42.4438
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 0, 
+    "community": "Blackstone Park", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1771, 
+    "lat": 42.4405
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Blackstone Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1716, 
+    "lat": 42.4393
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Blackstone Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.18, 
+    "lat": 42.4387
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Blackstone Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1779, 
+    "lat": 42.44
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Blackstone Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1798, 
+    "lat": 42.4402
+  }
+]

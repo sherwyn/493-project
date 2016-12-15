@@ -1,0 +1,695 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 17, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.108, 
+    "lat": 42.3893
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1129, 
+    "lat": 42.376
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1157, 
+    "lat": 42.3774
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1205, 
+    "lat": 42.3768
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 23, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.116, 
+    "lat": 42.3936
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1275, 
+    "lat": 42.3896
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1151, 
+    "lat": 42.3776
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1217, 
+    "lat": 42.3766
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1185, 
+    "lat": 42.3787
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1179, 
+    "lat": 42.3782
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1213, 
+    "lat": 42.3765
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1091, 
+    "lat": 42.3845
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1202, 
+    "lat": 42.3875
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1173, 
+    "lat": 42.3861
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.119, 
+    "lat": 42.3776
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1117, 
+    "lat": 42.3927
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.124, 
+    "lat": 42.3833
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1126, 
+    "lat": 42.3848
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1167, 
+    "lat": 42.38
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1181, 
+    "lat": 42.376
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1026, 
+    "lat": 42.3877
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 13, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1027, 
+    "lat": 42.3875
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1174, 
+    "lat": 42.3821
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1088, 
+    "lat": 42.3953
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1257, 
+    "lat": 42.3914
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1238, 
+    "lat": 42.3814
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1127, 
+    "lat": 42.3845
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1175, 
+    "lat": 42.378
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1102, 
+    "lat": 42.3814
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1221, 
+    "lat": 42.3872
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1119, 
+    "lat": 42.393
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1153, 
+    "lat": 42.3741
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.119, 
+    "lat": 42.3941
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1078, 
+    "lat": 42.3841
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1148, 
+    "lat": 42.3918
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1041, 
+    "lat": 42.3878
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1174, 
+    "lat": 42.3935
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1238, 
+    "lat": 42.3895
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.122, 
+    "lat": 42.3875
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1173, 
+    "lat": 42.3787
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1171, 
+    "lat": 42.3785
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1159, 
+    "lat": 42.3929
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1154, 
+    "lat": 42.3767
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1168, 
+    "lat": 42.383
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1173, 
+    "lat": 42.3822
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 19, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1092, 
+    "lat": 42.3906
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 12, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1161, 
+    "lat": 42.3846
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1065, 
+    "lat": 42.3932
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1193, 
+    "lat": 42.389
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1183, 
+    "lat": 42.3713
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1149, 
+    "lat": 42.3774
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 18, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1215, 
+    "lat": 42.39
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1183, 
+    "lat": 42.3886
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1262, 
+    "lat": 42.3864
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1305, 
+    "lat": 42.3893
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.122, 
+    "lat": 42.3874
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 19, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1091, 
+    "lat": 42.3906
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1107, 
+    "lat": 42.3802
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1084, 
+    "lat": 42.3849
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1067, 
+    "lat": 42.3858
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 23, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1305, 
+    "lat": 42.3892
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1094, 
+    "lat": 42.3938
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1248, 
+    "lat": 42.3915
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1039, 
+    "lat": 42.388
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1248, 
+    "lat": 42.3809
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.122, 
+    "lat": 42.3875
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1157, 
+    "lat": 42.378
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1254, 
+    "lat": 42.3818
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1188, 
+    "lat": 42.3756
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1116, 
+    "lat": 42.3794
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1223, 
+    "lat": 42.3897
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1102, 
+    "lat": 42.3815
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1135, 
+    "lat": 42.3778
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1177, 
+    "lat": 42.3936
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.125, 
+    "lat": 42.3886
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1253, 
+    "lat": 42.3916
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Dexter-Linwood", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.123, 
+    "lat": 42.3849
+  }
+]

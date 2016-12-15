@@ -1,0 +1,353 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Nortown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0284, 
+    "lat": 42.4385
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 21, 
+    "community": "Nortown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0196, 
+    "lat": 42.4403
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Nortown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0258, 
+    "lat": 42.4351
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Nortown", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0259, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Nortown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0333, 
+    "lat": 42.439
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Nortown", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0229, 
+    "lat": 42.4383
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Nortown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0161, 
+    "lat": 42.4385
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Nortown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0161, 
+    "lat": 42.4386
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Nortown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0298, 
+    "lat": 42.4344
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Nortown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0263, 
+    "lat": 42.4349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Nortown", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0264, 
+    "lat": 42.4365
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Nortown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0244, 
+    "lat": 42.4381
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Nortown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0241, 
+    "lat": 42.4363
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Nortown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0229, 
+    "lat": 42.438
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 15, 
+    "community": "Nortown", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0232, 
+    "lat": 42.4401
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Nortown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0242, 
+    "lat": 42.4341
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Nortown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0311, 
+    "lat": 42.441
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Nortown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0245, 
+    "lat": 42.441
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 22, 
+    "community": "Nortown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0244, 
+    "lat": 42.4361
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Nortown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0178, 
+    "lat": 42.4373
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Nortown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0179, 
+    "lat": 42.4374
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Nortown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0226, 
+    "lat": 42.4345
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Nortown", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.018, 
+    "lat": 42.4374
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Nortown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0195, 
+    "lat": 42.4386
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Nortown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0334, 
+    "lat": 42.439
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Nortown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.028, 
+    "lat": 42.4354
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 12, 
+    "community": "Nortown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0286, 
+    "lat": 42.4376
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Nortown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0235, 
+    "lat": 42.4374
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Nortown", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0198, 
+    "lat": 42.4371
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Nortown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0335, 
+    "lat": 42.4346
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Nortown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.018, 
+    "lat": 42.4383
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Nortown", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0191, 
+    "lat": 42.4373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Nortown", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0298, 
+    "lat": 42.4369
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Nortown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0261, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Nortown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0308, 
+    "lat": 42.441
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 6, 
+    "community": "Nortown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0235, 
+    "lat": 42.4378
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Nortown", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.027, 
+    "lat": 42.4364
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Nortown", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0189, 
+    "lat": 42.4406
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Nortown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0305, 
+    "lat": 42.4371
+  }
+]

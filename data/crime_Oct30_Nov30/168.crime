@@ -1,0 +1,335 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1939, 
+    "lat": 42.4397
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1814, 
+    "lat": 42.4353
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1811, 
+    "lat": 42.4431
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1848, 
+    "lat": 42.4434
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2004, 
+    "lat": 42.4439
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1874, 
+    "lat": 42.4396
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1909, 
+    "lat": 42.4385
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1812, 
+    "lat": 42.4432
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1882, 
+    "lat": 42.4357
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1816, 
+    "lat": 42.4365
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1939, 
+    "lat": 42.4394
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1809, 
+    "lat": 42.4394
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 0, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1829, 
+    "lat": 42.4329
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1812, 
+    "lat": 42.445
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1876, 
+    "lat": 42.4405
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1853, 
+    "lat": 42.441
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1813, 
+    "lat": 42.4354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.181, 
+    "lat": 42.4363
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1973, 
+    "lat": 42.4435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1858, 
+    "lat": 42.4377
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1845, 
+    "lat": 42.4395
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1809, 
+    "lat": 42.4402
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1869, 
+    "lat": 42.4364
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1866, 
+    "lat": 42.4319
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1949, 
+    "lat": 42.4388
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1833, 
+    "lat": 42.434
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2004, 
+    "lat": 42.4448
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1819, 
+    "lat": 42.4441
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1814, 
+    "lat": 42.4448
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.188, 
+    "lat": 42.4338
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1811, 
+    "lat": 42.4433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1879, 
+    "lat": 42.4337
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1829, 
+    "lat": 42.4438
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1883, 
+    "lat": 42.4408
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1893, 
+    "lat": 42.4359
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1881, 
+    "lat": 42.4406
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Schaefer 7/8 Lodge", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1899, 
+    "lat": 42.4418
+  }
+]

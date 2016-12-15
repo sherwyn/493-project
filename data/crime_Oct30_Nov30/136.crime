@@ -1,0 +1,155 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0816, 
+    "lat": 42.4283
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0729, 
+    "lat": 42.4297
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 19, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0741, 
+    "lat": 42.4327
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0827, 
+    "lat": 42.4297
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0818, 
+    "lat": 42.4287
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0702, 
+    "lat": 42.4276
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0843, 
+    "lat": 42.4287
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 4, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0826, 
+    "lat": 42.4329
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0766, 
+    "lat": 42.4265
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0697, 
+    "lat": 42.4272
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.082, 
+    "lat": 42.4323
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0698, 
+    "lat": 42.4274
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0779, 
+    "lat": 42.431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0784, 
+    "lat": 42.427
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0809, 
+    "lat": 42.4304
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0744, 
+    "lat": 42.4314
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Northeast Central District", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0782, 
+    "lat": 42.4319
+  }
+]

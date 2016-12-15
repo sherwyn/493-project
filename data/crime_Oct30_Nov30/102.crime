@@ -1,0 +1,308 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0532, 
+    "lat": 42.4332
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0518, 
+    "lat": 42.4333
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0539, 
+    "lat": 42.43
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0562, 
+    "lat": 42.4277
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0469, 
+    "lat": 42.4314
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Krainz Woods", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0546, 
+    "lat": 42.4277
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Krainz Woods", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0545, 
+    "lat": 42.4277
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0512, 
+    "lat": 42.4305
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0511, 
+    "lat": 42.4317
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0502, 
+    "lat": 42.429
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0474, 
+    "lat": 42.432
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0506, 
+    "lat": 42.4318
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0496, 
+    "lat": 42.4319
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0488, 
+    "lat": 42.4323
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0481, 
+    "lat": 42.4312
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0561, 
+    "lat": 42.4279
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0561, 
+    "lat": 42.4278
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0604, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0511, 
+    "lat": 42.4319
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0469, 
+    "lat": 42.4276
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 11, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0543, 
+    "lat": 42.4312
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0571, 
+    "lat": 42.4279
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0495, 
+    "lat": 42.431
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0465, 
+    "lat": 42.4303
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0534, 
+    "lat": 42.4328
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0582, 
+    "lat": 42.4282
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0556, 
+    "lat": 42.4261
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0559, 
+    "lat": 42.4277
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0495, 
+    "lat": 42.4325
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.051, 
+    "lat": 42.4277
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0507, 
+    "lat": 42.4317
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 18, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0434, 
+    "lat": 42.4277
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0629, 
+    "lat": 42.433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Krainz Woods", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0506, 
+    "lat": 42.4305
+  }
+]

@@ -1,0 +1,776 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9608, 
+    "lat": 42.4142
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9488, 
+    "lat": 42.4131
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9598, 
+    "lat": 42.4177
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9763, 
+    "lat": 42.4103
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9553, 
+    "lat": 42.4126
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9562, 
+    "lat": 42.4135
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9605, 
+    "lat": 42.4185
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9548, 
+    "lat": 42.4168
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9705, 
+    "lat": 42.4078
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9634, 
+    "lat": 42.4137
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9675, 
+    "lat": 42.42
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9647, 
+    "lat": 42.4057
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.959, 
+    "lat": 42.4144
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 4, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9735, 
+    "lat": 42.4027
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9545, 
+    "lat": 42.4165
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9513, 
+    "lat": 42.4096
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9513, 
+    "lat": 42.4096
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9581, 
+    "lat": 42.41
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9565, 
+    "lat": 42.4164
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9499, 
+    "lat": 42.4087
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9658, 
+    "lat": 42.4199
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9694, 
+    "lat": 42.4204
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9687, 
+    "lat": 42.4082
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.974, 
+    "lat": 42.4202
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9737, 
+    "lat": 42.4199
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9738, 
+    "lat": 42.4201
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9501, 
+    "lat": 42.4127
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9701, 
+    "lat": 42.4205
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9539, 
+    "lat": 42.4131
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.962, 
+    "lat": 42.4114
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9584, 
+    "lat": 42.4159
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9644, 
+    "lat": 42.4206
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9657, 
+    "lat": 42.4048
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9718, 
+    "lat": 42.419
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9589, 
+    "lat": 42.4146
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9618, 
+    "lat": 42.4159
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9656, 
+    "lat": 42.4065
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9516, 
+    "lat": 42.4141
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9514, 
+    "lat": 42.4095
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9512, 
+    "lat": 42.4097
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9609, 
+    "lat": 42.4168
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9528, 
+    "lat": 42.4166
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9637, 
+    "lat": 42.414
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9687, 
+    "lat": 42.4081
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.969, 
+    "lat": 42.4081
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 1, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9715, 
+    "lat": 42.4205
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9565, 
+    "lat": 42.4135
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9592, 
+    "lat": 42.4169
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9649, 
+    "lat": 42.4098
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.973, 
+    "lat": 42.4025
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9609, 
+    "lat": 42.4057
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.967, 
+    "lat": 42.4097
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9458, 
+    "lat": 42.4119
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9615, 
+    "lat": 42.4152
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9693, 
+    "lat": 42.4123
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9564, 
+    "lat": 42.4165
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9713, 
+    "lat": 42.4076
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9719, 
+    "lat": 42.4081
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9519, 
+    "lat": 42.4142
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.95, 
+    "lat": 42.4148
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 16, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9555, 
+    "lat": 42.4115
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 21, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9567, 
+    "lat": 42.4125
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9643, 
+    "lat": 42.4141
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9666, 
+    "lat": 42.4113
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9751, 
+    "lat": 42.4081
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9628, 
+    "lat": 42.4148
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9531, 
+    "lat": 42.4153
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9639, 
+    "lat": 42.4137
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9517, 
+    "lat": 42.4141
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.97, 
+    "lat": 42.4114
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9736, 
+    "lat": 42.419
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9541, 
+    "lat": 42.4143
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 22, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9706, 
+    "lat": 42.4108
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9605, 
+    "lat": 42.4059
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9445, 
+    "lat": 42.4133
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 0, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9655, 
+    "lat": 42.4195
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.965, 
+    "lat": 42.4187
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9577, 
+    "lat": 42.4174
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9647, 
+    "lat": 42.4046
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9623, 
+    "lat": 42.4154
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.966, 
+    "lat": 42.4047
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9452, 
+    "lat": 42.4128
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9631, 
+    "lat": 42.4187
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9621, 
+    "lat": 42.4147
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.977, 
+    "lat": 42.4107
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Outer Drive-Hayes", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9451, 
+    "lat": 42.4136
+  }
+]

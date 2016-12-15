@@ -1,0 +1,443 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Pembroke", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1664, 
+    "lat": 42.4354
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Pembroke", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1463, 
+    "lat": 42.4374
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Pembroke", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.157, 
+    "lat": 42.4362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Pembroke", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1653, 
+    "lat": 42.4396
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 1, 
+    "community": "Pembroke", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1535, 
+    "lat": 42.4456
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Pembroke", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.162, 
+    "lat": 42.4387
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Pembroke", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.1444, 
+    "lat": 42.4375
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Pembroke", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1571, 
+    "lat": 42.437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Pembroke", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1459, 
+    "lat": 42.4358
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Pembroke", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.16, 
+    "lat": 42.4373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Pembroke", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1472, 
+    "lat": 42.4359
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 12, 
+    "community": "Pembroke", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1643, 
+    "lat": 42.4416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Pembroke", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1495, 
+    "lat": 42.44
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Pembroke", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1701, 
+    "lat": 42.4407
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Pembroke", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1465, 
+    "lat": 42.4379
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Pembroke", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1464, 
+    "lat": 42.4379
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Pembroke", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1506, 
+    "lat": 42.4412
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Pembroke", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1644, 
+    "lat": 42.444
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Pembroke", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1553, 
+    "lat": 42.4413
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Pembroke", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1522, 
+    "lat": 42.4407
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Pembroke", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1452, 
+    "lat": 42.4447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Pembroke", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1571, 
+    "lat": 42.4373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Pembroke", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.152, 
+    "lat": 42.4356
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Pembroke", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1674, 
+    "lat": 42.439
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Pembroke", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1658, 
+    "lat": 42.4356
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Pembroke", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1572, 
+    "lat": 42.4437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Pembroke", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1566, 
+    "lat": 42.4444
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Pembroke", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1468, 
+    "lat": 42.4381
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Pembroke", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1476, 
+    "lat": 42.4382
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Pembroke", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1523, 
+    "lat": 42.436
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Pembroke", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1608, 
+    "lat": 42.444
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Pembroke", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1593, 
+    "lat": 42.4412
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Pembroke", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.157, 
+    "lat": 42.4364
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Pembroke", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1549, 
+    "lat": 42.4407
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Pembroke", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1543, 
+    "lat": 42.4428
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Pembroke", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.161, 
+    "lat": 42.4437
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Pembroke", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1606, 
+    "lat": 42.4412
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Pembroke", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1679, 
+    "lat": 42.4453
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 20, 
+    "community": "Pembroke", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1698, 
+    "lat": 42.4431
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Pembroke", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1463, 
+    "lat": 42.4414
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Pembroke", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1558, 
+    "lat": 42.4389
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Pembroke", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1464, 
+    "lat": 42.4399
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Pembroke", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1463, 
+    "lat": 42.4416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Pembroke", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1682, 
+    "lat": 42.4446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Pembroke", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.142, 
+    "lat": 42.4442
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 9, 
+    "community": "Pembroke", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1528, 
+    "lat": 42.4392
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Pembroke", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1694, 
+    "lat": 42.4391
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Pembroke", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1689, 
+    "lat": 42.437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Pembroke", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1425, 
+    "lat": 42.4418
+  }
+]

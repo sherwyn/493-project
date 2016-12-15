@@ -1,0 +1,290 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0131, 
+    "lat": 42.4275
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0122, 
+    "lat": 42.4277
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.012, 
+    "lat": 42.4284
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0081, 
+    "lat": 42.4223
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0101, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0123, 
+    "lat": 42.4276
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0126, 
+    "lat": 42.4273
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0215, 
+    "lat": 42.434
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 13, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0142, 
+    "lat": 42.4341
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0144, 
+    "lat": 42.4325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0104, 
+    "lat": 42.4272
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0137, 
+    "lat": 42.4288
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0096, 
+    "lat": 42.4288
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0129, 
+    "lat": 42.428
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0132, 
+    "lat": 42.4342
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0206, 
+    "lat": 42.4314
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0198, 
+    "lat": 42.4307
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0121, 
+    "lat": 42.4336
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0119, 
+    "lat": 42.433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0126, 
+    "lat": 42.433
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0095, 
+    "lat": 42.4317
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0096, 
+    "lat": 42.4317
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0134, 
+    "lat": 42.4341
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.024, 
+    "lat": 42.4325
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0084, 
+    "lat": 42.4321
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0202, 
+    "lat": 42.4299
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0086, 
+    "lat": 42.432
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0143, 
+    "lat": 42.4341
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0124, 
+    "lat": 42.4307
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0112, 
+    "lat": 42.4342
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0132, 
+    "lat": 42.4285
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Mount Olivet", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.024, 
+    "lat": 42.4339
+  }
+]

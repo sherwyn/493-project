@@ -1,0 +1,209 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 13, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.999, 
+    "lat": 42.4139
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9916, 
+    "lat": 42.4197
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9933, 
+    "lat": 42.4178
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 7, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9924, 
+    "lat": 42.4158
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9988, 
+    "lat": 42.4117
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9993, 
+    "lat": 42.4115
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9916, 
+    "lat": 42.4225
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9917, 
+    "lat": 42.4172
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9918, 
+    "lat": 42.4224
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9985, 
+    "lat": 42.4097
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9973, 
+    "lat": 42.4069
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9963, 
+    "lat": 42.4152
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0043, 
+    "lat": 42.4112
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9925, 
+    "lat": 42.413
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 2, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9889, 
+    "lat": 42.4182
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0009, 
+    "lat": 42.4101
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9856, 
+    "lat": 42.4234
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 22, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9938, 
+    "lat": 42.4121
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 15, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0034, 
+    "lat": 42.4141
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 22, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9938, 
+    "lat": 42.4122
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9939, 
+    "lat": 42.4119
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9845, 
+    "lat": 42.4259
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Gratiot-Findlay", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9916, 
+    "lat": 42.4227
+  }
+]

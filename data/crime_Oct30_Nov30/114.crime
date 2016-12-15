@@ -1,0 +1,29 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Melvern Hill", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2583, 
+    "lat": 42.4291
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Melvern Hill", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2583, 
+    "lat": 42.429
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Melvern Hill", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2583, 
+    "lat": 42.4261
+  }
+]

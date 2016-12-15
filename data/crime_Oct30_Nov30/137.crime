@@ -1,0 +1,83 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Northwest Community", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1604, 
+    "lat": 42.3877
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Northwest Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1605, 
+    "lat": 42.3915
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Northwest Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1667, 
+    "lat": 42.3898
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Northwest Community", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1669, 
+    "lat": 42.3897
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "Northwest Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1655, 
+    "lat": 42.3858
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Northwest Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1682, 
+    "lat": 42.3868
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Northwest Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1681, 
+    "lat": 42.3868
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Northwest Community", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1635, 
+    "lat": 42.3897
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Northwest Community", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1605, 
+    "lat": 42.3879
+  }
+]

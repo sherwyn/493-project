@@ -1,0 +1,191 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Davison", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0608, 
+    "lat": 42.4175
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Davison", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0559, 
+    "lat": 42.4201
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Davison", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.06, 
+    "lat": 42.4195
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 14, 
+    "community": "Davison", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0429, 
+    "lat": 42.4189
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Davison", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0434, 
+    "lat": 42.4236
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Davison", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0384, 
+    "lat": 42.417
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Davison", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0576, 
+    "lat": 42.417
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Davison", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0545, 
+    "lat": 42.4153
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Davison", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0616, 
+    "lat": 42.4181
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Davison", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.0531, 
+    "lat": 42.4204
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Davison", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0384, 
+    "lat": 42.419
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Davison", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0559, 
+    "lat": 42.4258
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Davison", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0555, 
+    "lat": 42.4202
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Davison", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0624, 
+    "lat": 42.4224
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Davison", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0431, 
+    "lat": 42.4237
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Davison", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0625, 
+    "lat": 42.4225
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Davison", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0516, 
+    "lat": 42.4253
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Davison", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0516, 
+    "lat": 42.4204
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Davison", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0635, 
+    "lat": 42.4185
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 6, 
+    "community": "Davison", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0494, 
+    "lat": 42.4216
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Davison", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0386, 
+    "lat": 42.4189
+  }
+]

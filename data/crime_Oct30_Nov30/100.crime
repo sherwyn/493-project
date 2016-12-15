@@ -1,0 +1,524 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Joy Community", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2112, 
+    "lat": 42.3602
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Joy Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.205, 
+    "lat": 42.361
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Joy Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.203, 
+    "lat": 42.3584
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Joy Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1981, 
+    "lat": 42.368
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Joy Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2002, 
+    "lat": 42.3591
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Joy Community", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1975, 
+    "lat": 42.3669
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Joy Community", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2033, 
+    "lat": 42.3583
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Joy Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2159, 
+    "lat": 42.3721
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Joy Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1979, 
+    "lat": 42.3722
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Joy Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1981, 
+    "lat": 42.3724
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Joy Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2045, 
+    "lat": 42.3586
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Joy Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2046, 
+    "lat": 42.3588
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Joy Community", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2055, 
+    "lat": 42.3713
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Joy Community", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.209, 
+    "lat": 42.3653
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Joy Community", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2159, 
+    "lat": 42.3613
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Joy Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2011, 
+    "lat": 42.3657
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Joy Community", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2049, 
+    "lat": 42.3592
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Joy Community", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1973, 
+    "lat": 42.3654
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Joy Community", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2045, 
+    "lat": 42.3585
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Joy Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2108, 
+    "lat": 42.3718
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Joy Community", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2126, 
+    "lat": 42.3667
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Joy Community", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2073, 
+    "lat": 42.3703
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Joy Community", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.201, 
+    "lat": 42.3582
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Joy Community", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.201, 
+    "lat": 42.3582
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Joy Community", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2073, 
+    "lat": 42.3699
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Joy Community", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.204, 
+    "lat": 42.3583
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Joy Community", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1975, 
+    "lat": 42.3681
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Joy Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.202, 
+    "lat": 42.3587
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 17, 
+    "community": "Joy Community", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2101, 
+    "lat": 42.3673
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Joy Community", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2124, 
+    "lat": 42.3645
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Joy Community", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.208, 
+    "lat": 42.3654
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 1, 
+    "community": "Joy Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2151, 
+    "lat": 42.3688
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Joy Community", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1997, 
+    "lat": 42.3657
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Joy Community", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.212, 
+    "lat": 42.3661
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Joy Community", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.203, 
+    "lat": 42.3585
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Joy Community", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2007, 
+    "lat": 42.371
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Joy Community", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2029, 
+    "lat": 42.3676
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 11, 
+    "community": "Joy Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2058, 
+    "lat": 42.365
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Joy Community", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2115, 
+    "lat": 42.3715
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Joy Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.206, 
+    "lat": 42.3686
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Joy Community", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2111, 
+    "lat": 42.3593
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Joy Community", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2039, 
+    "lat": 42.3724
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 10, 
+    "community": "Joy Community", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2022, 
+    "lat": 42.3709
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Joy Community", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2011, 
+    "lat": 42.3723
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Joy Community", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1999, 
+    "lat": 42.3717
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 11, 
+    "community": "Joy Community", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2055, 
+    "lat": 42.3652
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Joy Community", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2038, 
+    "lat": 42.3587
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Joy Community", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2013, 
+    "lat": 42.3689
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Joy Community", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2136, 
+    "lat": 42.3609
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Joy Community", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1974, 
+    "lat": 42.3668
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Joy Community", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2033, 
+    "lat": 42.3586
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Joy Community", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1987, 
+    "lat": 42.3694
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Joy Community", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2089, 
+    "lat": 42.3655
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Joy Community", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.211, 
+    "lat": 42.3595
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Joy Community", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2029, 
+    "lat": 42.3614
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Joy Community", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2024, 
+    "lat": 42.3685
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Joy Community", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2041, 
+    "lat": 42.366
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 1, 
+    "community": "Joy Community", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2044, 
+    "lat": 42.3581
+  }
+]

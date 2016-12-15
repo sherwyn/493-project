@@ -1,0 +1,173 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Castle Rouge", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2712, 
+    "lat": 42.382
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2735, 
+    "lat": 42.3839
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2736, 
+    "lat": 42.3846
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2718, 
+    "lat": 42.3813
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2645, 
+    "lat": 42.3807
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2619, 
+    "lat": 42.3793
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2642, 
+    "lat": 42.379
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2749, 
+    "lat": 42.3813
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2645, 
+    "lat": 42.3807
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2725, 
+    "lat": 42.3804
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2622, 
+    "lat": 42.3825
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2662, 
+    "lat": 42.3828
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2738, 
+    "lat": 42.3841
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2748, 
+    "lat": 42.382
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2615, 
+    "lat": 42.3795
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2734, 
+    "lat": 42.3826
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2622, 
+    "lat": 42.3796
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2645, 
+    "lat": 42.3799
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Castle Rouge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2738, 
+    "lat": 42.384
+  }
+]

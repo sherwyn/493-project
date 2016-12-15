@@ -1,0 +1,191 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 15, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0685, 
+    "lat": 42.4102
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0609, 
+    "lat": 42.4135
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0668, 
+    "lat": 42.4122
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0642, 
+    "lat": 42.409
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 9, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0588, 
+    "lat": 42.4084
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 9, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0588, 
+    "lat": 42.4084
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0591, 
+    "lat": 42.4089
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0644, 
+    "lat": 42.4084
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0578, 
+    "lat": 42.4099
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.0608, 
+    "lat": 42.4116
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0626, 
+    "lat": 42.4081
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0683, 
+    "lat": 42.4101
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0636, 
+    "lat": 42.4077
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0644, 
+    "lat": 42.4113
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0638, 
+    "lat": 42.4134
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0586, 
+    "lat": 42.4087
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0655, 
+    "lat": 42.4092
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 21, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0639, 
+    "lat": 42.4126
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.067, 
+    "lat": 42.4121
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0655, 
+    "lat": 42.4112
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Campau/Banglatown", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0637, 
+    "lat": 42.4074
+  }
+]

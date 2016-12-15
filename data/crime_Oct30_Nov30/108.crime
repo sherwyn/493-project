@@ -1,0 +1,875 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Mapleridge", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.958, 
+    "lat": 42.4302
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Mapleridge", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9578, 
+    "lat": 42.4284
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Mapleridge", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9572, 
+    "lat": 42.4347
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Mapleridge", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9825, 
+    "lat": 42.4269
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 0, 
+    "community": "Mapleridge", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9757, 
+    "lat": 42.4255
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Mapleridge", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9609, 
+    "lat": 42.4347
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Mapleridge", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9591, 
+    "lat": 42.4296
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Mapleridge", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9568, 
+    "lat": 42.43
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Mapleridge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9629, 
+    "lat": 42.4348
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Mapleridge", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.961, 
+    "lat": 42.4284
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Mapleridge", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9684, 
+    "lat": 42.4331
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 22, 
+    "community": "Mapleridge", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9651, 
+    "lat": 42.4282
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Mapleridge", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9735, 
+    "lat": 42.4281
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Mapleridge", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9651, 
+    "lat": 42.4249
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Mapleridge", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9658, 
+    "lat": 42.4214
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Mapleridge", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9659, 
+    "lat": 42.4215
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Mapleridge", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9573, 
+    "lat": 42.4298
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Mapleridge", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -82.9668, 
+    "lat": 42.4211
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Mapleridge", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -82.9667, 
+    "lat": 42.4213
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Mapleridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.963, 
+    "lat": 42.4272
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Mapleridge", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9654, 
+    "lat": 42.421
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Mapleridge", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9609, 
+    "lat": 42.4339
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Mapleridge", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9551, 
+    "lat": 42.4349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Mapleridge", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9646, 
+    "lat": 42.4234
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Mapleridge", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9777, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "Mapleridge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9773, 
+    "lat": 42.4311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Mapleridge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9693, 
+    "lat": 42.434
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Mapleridge", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9629, 
+    "lat": 42.4354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Mapleridge", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9809, 
+    "lat": 42.4296
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Mapleridge", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9655, 
+    "lat": 42.4353
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 23, 
+    "community": "Mapleridge", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9619, 
+    "lat": 42.4353
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Mapleridge", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9571, 
+    "lat": 42.4295
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 18, 
+    "community": "Mapleridge", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9591, 
+    "lat": 42.4343
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Mapleridge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9803, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Mapleridge", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9654, 
+    "lat": 42.4323
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 16, 
+    "community": "Mapleridge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9772, 
+    "lat": 42.4311
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Mapleridge", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9666, 
+    "lat": 42.4209
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Mapleridge", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9661, 
+    "lat": 42.422
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 2, 
+    "community": "Mapleridge", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9676, 
+    "lat": 42.4208
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Mapleridge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.954, 
+    "lat": 42.4337
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Mapleridge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9642, 
+    "lat": 42.4234
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Mapleridge", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9797, 
+    "lat": 42.4308
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Mapleridge", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.967, 
+    "lat": 42.4277
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Mapleridge", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9731, 
+    "lat": 42.434
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 17, 
+    "community": "Mapleridge", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9794, 
+    "lat": 42.4325
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Mapleridge", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9746, 
+    "lat": 42.4349
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Mapleridge", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9644, 
+    "lat": 42.4233
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Mapleridge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9733, 
+    "lat": 42.4293
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Mapleridge", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9667, 
+    "lat": 42.4212
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 4, 
+    "community": "Mapleridge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9574, 
+    "lat": 42.4297
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Mapleridge", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9687, 
+    "lat": 42.4323
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Mapleridge", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9619, 
+    "lat": 42.4319
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Mapleridge", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9619, 
+    "lat": 42.4354
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 1, 
+    "community": "Mapleridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9654, 
+    "lat": 42.428
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 18, 
+    "community": "Mapleridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9673, 
+    "lat": 42.4264
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Mapleridge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9801, 
+    "lat": 42.4312
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 4, 
+    "community": "Mapleridge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9799, 
+    "lat": 42.4312
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Mapleridge", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9647, 
+    "lat": 42.4289
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Mapleridge", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9868, 
+    "lat": 42.4212
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Mapleridge", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9571, 
+    "lat": 42.4332
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Mapleridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9768, 
+    "lat": 42.4351
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Mapleridge", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9809, 
+    "lat": 42.421
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 21, 
+    "community": "Mapleridge", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9789, 
+    "lat": 42.4287
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Mapleridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9745, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Mapleridge", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9775, 
+    "lat": 42.4348
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 15, 
+    "community": "Mapleridge", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9655, 
+    "lat": 42.4329
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 18, 
+    "community": "Mapleridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9672, 
+    "lat": 42.4264
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Mapleridge", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9649, 
+    "lat": 42.4353
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Mapleridge", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.965, 
+    "lat": 42.4282
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Mapleridge", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9619, 
+    "lat": 42.4317
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Mapleridge", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9555, 
+    "lat": 42.4316
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Mapleridge", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9782, 
+    "lat": 42.4275
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Mapleridge", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9669, 
+    "lat": 42.431
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 12, 
+    "community": "Mapleridge", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9672, 
+    "lat": 42.4311
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Mapleridge", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9829, 
+    "lat": 42.4268
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 10, 
+    "community": "Mapleridge", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9627, 
+    "lat": 42.4333
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Mapleridge", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9824, 
+    "lat": 42.4272
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Mapleridge", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9621, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Mapleridge", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9657, 
+    "lat": 42.4278
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Mapleridge", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9852, 
+    "lat": 42.4233
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Mapleridge", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.9626, 
+    "lat": 42.4338
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 14, 
+    "community": "Mapleridge", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9828, 
+    "lat": 42.4268
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Mapleridge", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9616, 
+    "lat": 42.4257
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Mapleridge", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9757, 
+    "lat": 42.4326
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Mapleridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.964, 
+    "lat": 42.4342
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Mapleridge", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9776, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Mapleridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9568, 
+    "lat": 42.43
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Mapleridge", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9634, 
+    "lat": 42.4337
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Mapleridge", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9617, 
+    "lat": 42.4259
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Mapleridge", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9775, 
+    "lat": 42.435
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Mapleridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9568, 
+    "lat": 42.4301
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Mapleridge", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9808, 
+    "lat": 42.422
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Mapleridge", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.958, 
+    "lat": 42.4346
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Mapleridge", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9592, 
+    "lat": 42.4343
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Mapleridge", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9726, 
+    "lat": 42.4313
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 22, 
+    "community": "Mapleridge", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9673, 
+    "lat": 42.4208
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Mapleridge", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9606, 
+    "lat": 42.428
+  }
+]

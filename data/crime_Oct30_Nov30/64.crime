@@ -1,0 +1,101 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Garden View", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.2121, 
+    "lat": 42.3578
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Garden View", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2108, 
+    "lat": 42.3553
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Garden View", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2069, 
+    "lat": 42.3563
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Garden View", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2115, 
+    "lat": 42.3578
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Garden View", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2105, 
+    "lat": 42.3578
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Garden View", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2092, 
+    "lat": 42.3564
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Garden View", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2151, 
+    "lat": 42.3507
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Garden View", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2108, 
+    "lat": 42.3554
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Garden View", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2077, 
+    "lat": 42.3564
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Garden View", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2076, 
+    "lat": 42.3525
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Garden View", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2087, 
+    "lat": 42.3528
+  }
+]

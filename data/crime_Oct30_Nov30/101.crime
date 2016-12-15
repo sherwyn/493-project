@@ -1,0 +1,155 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1868, 
+    "lat": 42.3581
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1776, 
+    "lat": 42.3542
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1777, 
+    "lat": 42.3541
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 13, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1771, 
+    "lat": 42.3541
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1774, 
+    "lat": 42.3538
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1778, 
+    "lat": 42.3526
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1774, 
+    "lat": 42.3544
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 13, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1793, 
+    "lat": 42.3584
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1769, 
+    "lat": 42.3529
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1785, 
+    "lat": 42.3523
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1776, 
+    "lat": 42.3555
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 7, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1771, 
+    "lat": 42.3545
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 7, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1772, 
+    "lat": 42.3547
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1772, 
+    "lat": 42.354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1773, 
+    "lat": 42.3543
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1781, 
+    "lat": 42.3565
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Joy-Schaefer", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1774, 
+    "lat": 42.3545
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "West Side Industrial", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0607, 
+    "lat": 42.3249
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "West Side Industrial", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0546, 
+    "lat": 42.3255
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "West Side Industrial", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0662, 
+    "lat": 42.32
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "West Side Industrial", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0888, 
+    "lat": 42.3128
+  }
+]

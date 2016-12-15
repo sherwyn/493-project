@@ -1,0 +1,65 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Hubbard Farms", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0897, 
+    "lat": 42.3213
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Hubbard Farms", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0855, 
+    "lat": 42.3173
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Hubbard Farms", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0895, 
+    "lat": 42.3202
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Hubbard Farms", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0909, 
+    "lat": 42.3202
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Hubbard Farms", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.088, 
+    "lat": 42.3159
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Hubbard Farms", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0877, 
+    "lat": 42.3201
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Hubbard Farms", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0887, 
+    "lat": 42.3191
+  }
+]

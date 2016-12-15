@@ -1,0 +1,731 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Midwest", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1449, 
+    "lat": 42.3678
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 12, 
+    "community": "Midwest", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1166, 
+    "lat": 42.3448
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Midwest", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1169, 
+    "lat": 42.3483
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Midwest", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1468, 
+    "lat": 42.356
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 14, 
+    "community": "Midwest", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1146, 
+    "lat": 42.3538
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Midwest", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1377, 
+    "lat": 42.354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Midwest", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1181, 
+    "lat": 42.3536
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Midwest", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1331, 
+    "lat": 42.3647
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Midwest", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1468, 
+    "lat": 42.3564
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Midwest", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1441, 
+    "lat": 42.3591
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Midwest", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1141, 
+    "lat": 42.3562
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Midwest", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1332, 
+    "lat": 42.3638
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 19, 
+    "community": "Midwest", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1133, 
+    "lat": 42.3538
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Midwest", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1437, 
+    "lat": 42.3508
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Midwest", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1363, 
+    "lat": 42.3506
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Midwest", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1458, 
+    "lat": 42.347
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Midwest", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1441, 
+    "lat": 42.352
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Midwest", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.133, 
+    "lat": 42.3589
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Midwest", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1426, 
+    "lat": 42.3662
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Midwest", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1282, 
+    "lat": 42.3612
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Midwest", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1288, 
+    "lat": 42.3622
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Midwest", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1188, 
+    "lat": 42.3571
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 4, 
+    "community": "Midwest", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1179, 
+    "lat": 42.3474
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 17, 
+    "community": "Midwest", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1349, 
+    "lat": 42.3508
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Midwest", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1284, 
+    "lat": 42.3579
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Midwest", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1437, 
+    "lat": 42.3679
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Midwest", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1171, 
+    "lat": 42.3471
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 17, 
+    "community": "Midwest", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1358, 
+    "lat": 42.3508
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 15, 
+    "community": "Midwest", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1105, 
+    "lat": 42.3479
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Midwest", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.114, 
+    "lat": 42.3487
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Midwest", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1334, 
+    "lat": 42.3617
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Midwest", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1382, 
+    "lat": 42.3549
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Midwest", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1183, 
+    "lat": 42.3544
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Midwest", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1375, 
+    "lat": 42.3537
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Midwest", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1396, 
+    "lat": 42.355
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Midwest", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1374, 
+    "lat": 42.3474
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Midwest", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1337, 
+    "lat": 42.3591
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Midwest", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.135, 
+    "lat": 42.3495
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Midwest", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1348, 
+    "lat": 42.3497
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Midwest", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1348, 
+    "lat": 42.3496
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Midwest", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1315, 
+    "lat": 42.3635
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Midwest", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1461, 
+    "lat": 42.3469
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Midwest", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1153, 
+    "lat": 42.3575
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Midwest", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1438, 
+    "lat": 42.3508
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Midwest", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1333, 
+    "lat": 42.3648
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Midwest", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1397, 
+    "lat": 42.3598
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Midwest", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1276, 
+    "lat": 42.3528
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Midwest", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1348, 
+    "lat": 42.3493
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Midwest", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1135, 
+    "lat": 42.3538
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Midwest", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.125, 
+    "lat": 42.3489
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Midwest", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1283, 
+    "lat": 42.3528
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Midwest", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1435, 
+    "lat": 42.3454
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 14, 
+    "community": "Midwest", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1185, 
+    "lat": 42.3447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Midwest", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.108, 
+    "lat": 42.3531
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Midwest", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1445, 
+    "lat": 42.3663
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Midwest", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1357, 
+    "lat": 42.3459
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Midwest", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1438, 
+    "lat": 42.3452
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Midwest", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1433, 
+    "lat": 42.3542
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 6, 
+    "community": "Midwest", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1382, 
+    "lat": 42.3594
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Midwest", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1382, 
+    "lat": 42.3631
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Midwest", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1478, 
+    "lat": 42.3669
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Midwest", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1399, 
+    "lat": 42.3562
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Midwest", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1379, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Midwest", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1291, 
+    "lat": 42.3604
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Midwest", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1151, 
+    "lat": 42.3512
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Midwest", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1335, 
+    "lat": 42.349
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 16, 
+    "community": "Midwest", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1335, 
+    "lat": 42.3492
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Midwest", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1461, 
+    "lat": 42.352
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Midwest", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1459, 
+    "lat": 42.3472
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 15, 
+    "community": "Midwest", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1182, 
+    "lat": 42.3544
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 14, 
+    "community": "Midwest", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.1148, 
+    "lat": 42.3538
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Midwest", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1301, 
+    "lat": 42.3561
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Midwest", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1133, 
+    "lat": 42.3559
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Midwest", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1419, 
+    "lat": 42.3561
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Midwest", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1375, 
+    "lat": 42.3592
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Midwest", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1119, 
+    "lat": 42.3504
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 21, 
+    "community": "Midwest", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1295, 
+    "lat": 42.352
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Midwest", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1378, 
+    "lat": 42.3629
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Midwest", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1194, 
+    "lat": 42.3594
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Midwest", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1245, 
+    "lat": 42.356
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 13, 
+    "community": "Midwest", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1355, 
+    "lat": 42.3459
+  }
+]

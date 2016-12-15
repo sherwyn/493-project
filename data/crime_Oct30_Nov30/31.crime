@@ -1,0 +1,110 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9824, 
+    "lat": 42.3923
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9705, 
+    "lat": 42.3671
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9825, 
+    "lat": 42.3922
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -82.9679, 
+    "lat": 42.3836
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9831, 
+    "lat": 42.3927
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 21, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9707, 
+    "lat": 42.3868
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 17, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.959, 
+    "lat": 42.3701
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9665, 
+    "lat": 42.3612
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9785, 
+    "lat": 42.3791
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9827, 
+    "lat": 42.3925
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9759, 
+    "lat": 42.3891
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Conner Creek Industrial", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9664, 
+    "lat": 42.3682
+  }
+]

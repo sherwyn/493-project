@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Indian Village", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9965, 
+    "lat": 42.3593
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Indian Village", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9964, 
+    "lat": 42.3604
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Indian Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9961, 
+    "lat": 42.3613
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Indian Village", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.996, 
+    "lat": 42.3612
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Springwells", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1291, 
+    "lat": 42.3023
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Springwells", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1263, 
+    "lat": 42.3033
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Springwells", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -83.1301, 
+    "lat": 42.3055
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Springwells", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1253, 
+    "lat": 42.316
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Springwells", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1285, 
+    "lat": 42.3105
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Springwells", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1287, 
+    "lat": 42.3104
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Springwells", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1286, 
+    "lat": 42.3104
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Springwells", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.1201, 
+    "lat": 42.311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Springwells", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1298, 
+    "lat": 42.3
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Springwells", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1309, 
+    "lat": 42.3022
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Springwells", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1245, 
+    "lat": 42.3053
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Springwells", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1193, 
+    "lat": 42.3111
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Springwells", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1322, 
+    "lat": 42.3085
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Springwells", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1266, 
+    "lat": 42.3085
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Springwells", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1307, 
+    "lat": 42.3016
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 14, 
+    "community": "Springwells", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1229, 
+    "lat": 42.3108
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Springwells", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.132, 
+    "lat": 42.3051
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Springwells", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1244, 
+    "lat": 42.3155
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 4, 
+    "community": "Springwells", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.1286, 
+    "lat": 42.3014
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 13, 
+    "community": "Springwells", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1335, 
+    "lat": 42.3148
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Springwells", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1217, 
+    "lat": 42.3125
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Springwells", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1264, 
+    "lat": 42.31
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Springwells", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1243, 
+    "lat": 42.3153
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Springwells", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1292, 
+    "lat": 42.3151
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Springwells", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1283, 
+    "lat": 42.3176
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Springwells", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.1193, 
+    "lat": 42.3144
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Springwells", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1231, 
+    "lat": 42.3109
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Springwells", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1283, 
+    "lat": 42.3104
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Springwells", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1341, 
+    "lat": 42.3087
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Springwells", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1368, 
+    "lat": 42.311
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Springwells", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.1302, 
+    "lat": 42.3057
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Springwells", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1278, 
+    "lat": 42.3165
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Springwells", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1339, 
+    "lat": 42.3008
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Springwells", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.1387, 
+    "lat": 42.3074
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Springwells", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1234, 
+    "lat": 42.3036
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Springwells", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.1309, 
+    "lat": 42.3109
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Springwells", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1264, 
+    "lat": 42.3103
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Springwells", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.1166, 
+    "lat": 42.3158
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Springwells", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1346, 
+    "lat": 42.3036
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 1, 
+    "community": "Springwells", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1268, 
+    "lat": 42.3077
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Springwells", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.1167, 
+    "lat": 42.3159
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 7, 
+    "community": "Springwells", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.1312, 
+    "lat": 42.3124
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Springwells", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.1223, 
+    "lat": 42.313
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Springwells", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.1256, 
+    "lat": 42.3145
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 11, 
+    "community": "Springwells", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1258, 
+    "lat": 42.3036
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Springwells", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.1279, 
+    "lat": 42.3076
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Springwells", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1256, 
+    "lat": 42.2985
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Springwells", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.132, 
+    "lat": 42.3086
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Springwells", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.1181, 
+    "lat": 42.3135
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Springwells", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1354, 
+    "lat": 42.3113
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 5, 
+    "community": "Springwells", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.1355, 
+    "lat": 42.3113
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 5, 
+    "community": "Springwells", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1304, 
+    "lat": 42.3098
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Springwells", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.1313, 
+    "lat": 42.3146
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Springwells", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.1268, 
+    "lat": 42.3162
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Springwells", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.132, 
+    "lat": 42.3028
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Springwells", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.1285, 
+    "lat": 42.3103
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Springwells", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.124, 
+    "lat": 42.3127
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Springwells", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.1237, 
+    "lat": 42.304
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Springwells", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1361, 
+    "lat": 42.3087
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Springwells", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.1326, 
+    "lat": 42.3091
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 3, 
+    "community": "Springwells", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.124, 
+    "lat": 42.3127
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Springwells", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.1269, 
+    "lat": 42.3157
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Springwells", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.1323, 
+    "lat": 42.303
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Springwells", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.1343, 
+    "lat": 42.3045
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Springwells", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1224, 
+    "lat": 42.313
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "Springwells", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.1361, 
+    "lat": 42.3078
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 12, 
+    "community": "Springwells", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.123, 
+    "lat": 42.3101
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Springwells", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1305, 
+    "lat": 42.3019
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Springwells", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.1306, 
+    "lat": 42.3156
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Springwells", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1259, 
+    "lat": 42.3148
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Springwells", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.131, 
+    "lat": 42.302
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 16, 
+    "community": "Springwells", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.1235, 
+    "lat": 42.3037
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Springwells", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.1355, 
+    "lat": 42.3079
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Springwells", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1287, 
+    "lat": 42.3105
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 19, 
+    "community": "Springwells", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1335, 
+    "lat": 42.3097
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Springwells", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.1345, 
+    "lat": 42.3034
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Springwells", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.1263, 
+    "lat": 42.3102
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Springwells", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1185, 
+    "lat": 42.3141
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Springwells", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1198, 
+    "lat": 42.3121
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Springwells", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.1236, 
+    "lat": 42.3113
+  }
+]

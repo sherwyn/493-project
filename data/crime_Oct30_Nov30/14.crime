@@ -1,0 +1,83 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Brewster Homes", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0513, 
+    "lat": 42.3499
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Brewster Homes", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.0495, 
+    "lat": 42.3475
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Brewster Homes", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.05, 
+    "lat": 42.3473
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Brewster Homes", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0513, 
+    "lat": 42.3491
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Brewster Homes", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0476, 
+    "lat": 42.3482
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Brewster Homes", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.0497, 
+    "lat": 42.3488
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Brewster Homes", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0501, 
+    "lat": 42.3477
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Brewster Homes", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0487, 
+    "lat": 42.3478
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Brewster Homes", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.0499, 
+    "lat": 42.3495
+  }
+]

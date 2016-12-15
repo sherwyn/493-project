@@ -1,0 +1,1271 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Regent Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9642, 
+    "lat": 42.4492
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Regent Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9674, 
+    "lat": 42.4448
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Regent Park", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -82.97, 
+    "lat": 42.4431
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 19, 
+    "community": "Regent Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9703, 
+    "lat": 42.4456
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Regent Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9701, 
+    "lat": 42.4453
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Regent Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9583, 
+    "lat": 42.4469
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Regent Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9439, 
+    "lat": 42.4472
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 20, 
+    "community": "Regent Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9607, 
+    "lat": 42.4437
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Regent Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9679, 
+    "lat": 42.4498
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 19, 
+    "community": "Regent Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9703, 
+    "lat": 42.4456
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Regent Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9514, 
+    "lat": 42.4423
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Regent Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9687, 
+    "lat": 42.441
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Regent Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9731, 
+    "lat": 42.4362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Regent Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9498, 
+    "lat": 42.4491
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Regent Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.965, 
+    "lat": 42.4358
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Regent Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9562, 
+    "lat": 42.4454
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Regent Park", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9508, 
+    "lat": 42.4484
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Regent Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9595, 
+    "lat": 42.4459
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Regent Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9546, 
+    "lat": 42.442
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Regent Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9566, 
+    "lat": 42.4405
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Regent Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9491, 
+    "lat": 42.4445
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Regent Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9691, 
+    "lat": 42.4449
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Regent Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9717, 
+    "lat": 42.4421
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Regent Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9489, 
+    "lat": 42.4443
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Regent Park", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -82.9562, 
+    "lat": 42.4422
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Regent Park", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -82.9614, 
+    "lat": 42.4429
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Regent Park", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -82.9613, 
+    "lat": 42.443
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Regent Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9558, 
+    "lat": 42.4364
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 18, 
+    "community": "Regent Park", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.954, 
+    "lat": 42.4406
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Regent Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9612, 
+    "lat": 42.4452
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Regent Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9686, 
+    "lat": 42.4416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Regent Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9498, 
+    "lat": 42.4496
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Regent Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.97, 
+    "lat": 42.443
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Regent Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9688, 
+    "lat": 42.4416
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Regent Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9564, 
+    "lat": 42.4451
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Regent Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9776, 
+    "lat": 42.4351
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Regent Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9775, 
+    "lat": 42.4351
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 16, 
+    "community": "Regent Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9553, 
+    "lat": 42.4382
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Regent Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9614, 
+    "lat": 42.4493
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Regent Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9588, 
+    "lat": 42.4471
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Regent Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9688, 
+    "lat": 42.4354
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Regent Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9581, 
+    "lat": 42.4455
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Regent Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9617, 
+    "lat": 42.4495
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 10, 
+    "community": "Regent Park", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -82.9543, 
+    "lat": 42.445
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Regent Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9663, 
+    "lat": 42.4497
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 20, 
+    "community": "Regent Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9534, 
+    "lat": 42.4357
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Regent Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9551, 
+    "lat": 42.4378
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Regent Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9638, 
+    "lat": 42.4423
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Regent Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9674, 
+    "lat": 42.4454
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Regent Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9547, 
+    "lat": 42.4479
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Regent Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9709, 
+    "lat": 42.4437
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Regent Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9535, 
+    "lat": 42.4388
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Regent Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -82.9647, 
+    "lat": 42.4452
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Regent Park", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9575, 
+    "lat": 42.4378
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Regent Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9702, 
+    "lat": 42.4404
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Regent Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9503, 
+    "lat": 42.4451
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Regent Park", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9494, 
+    "lat": 42.45
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Regent Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9607, 
+    "lat": 42.4374
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Regent Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9746, 
+    "lat": 42.4365
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Regent Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9723, 
+    "lat": 42.4353
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Regent Park", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9574, 
+    "lat": 42.4372
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "Regent Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9681, 
+    "lat": 42.449
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Regent Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9504, 
+    "lat": 42.4501
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Regent Park", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9505, 
+    "lat": 42.4494
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Regent Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9687, 
+    "lat": 42.4418
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Regent Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9604, 
+    "lat": 42.4398
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Regent Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9562, 
+    "lat": 42.4477
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 12, 
+    "community": "Regent Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9656, 
+    "lat": 42.4355
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 17, 
+    "community": "Regent Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9636, 
+    "lat": 42.4362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Regent Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9501, 
+    "lat": 42.4472
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Regent Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9687, 
+    "lat": 42.4415
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Regent Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9685, 
+    "lat": 42.4488
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Regent Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9775, 
+    "lat": 42.4353
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Regent Park", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -82.9714, 
+    "lat": 42.4445
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Regent Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9679, 
+    "lat": 42.4496
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Regent Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9522, 
+    "lat": 42.4464
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Regent Park", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9531, 
+    "lat": 42.4425
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Regent Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9608, 
+    "lat": 42.44
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Regent Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9551, 
+    "lat": 42.4478
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Regent Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9551, 
+    "lat": 42.4481
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Regent Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9537, 
+    "lat": 42.4451
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Regent Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9575, 
+    "lat": 42.4479
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Regent Park", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9583, 
+    "lat": 42.4443
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Regent Park", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9604, 
+    "lat": 42.4465
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Regent Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9672, 
+    "lat": 42.4498
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Regent Park", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -82.9713, 
+    "lat": 42.4373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Regent Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9493, 
+    "lat": 42.4469
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Regent Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.952, 
+    "lat": 42.448
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Regent Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9493, 
+    "lat": 42.4439
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Regent Park", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9473, 
+    "lat": 42.4452
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Regent Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9459, 
+    "lat": 42.4485
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Regent Park", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -82.9689, 
+    "lat": 42.446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Regent Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9461, 
+    "lat": 42.4489
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 3, 
+    "community": "Regent Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9736, 
+    "lat": 42.4362
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Regent Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9495, 
+    "lat": 42.447
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Regent Park", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -82.966, 
+    "lat": 42.4464
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Regent Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9501, 
+    "lat": 42.4395
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Regent Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9679, 
+    "lat": 42.4488
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Regent Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9502, 
+    "lat": 42.4387
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 3, 
+    "community": "Regent Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -82.9651, 
+    "lat": 42.4409
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Regent Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9508, 
+    "lat": 42.44
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Regent Park", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9513, 
+    "lat": 42.4417
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Regent Park", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9538, 
+    "lat": 42.4478
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Regent Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9649, 
+    "lat": 42.4366
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Regent Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9742, 
+    "lat": 42.4368
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Regent Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9625, 
+    "lat": 42.4476
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Regent Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9589, 
+    "lat": 42.4413
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Regent Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9543, 
+    "lat": 42.444
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Regent Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9526, 
+    "lat": 42.446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Regent Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9505, 
+    "lat": 42.4495
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Regent Park", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9702, 
+    "lat": 42.4455
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 15, 
+    "community": "Regent Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.977, 
+    "lat": 42.436
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 16, 
+    "community": "Regent Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9552, 
+    "lat": 42.438
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Regent Park", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9488, 
+    "lat": 42.4463
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 14, 
+    "community": "Regent Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9676, 
+    "lat": 42.4454
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Regent Park", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9589, 
+    "lat": 42.4493
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Regent Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9543, 
+    "lat": 42.4441
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Regent Park", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9653, 
+    "lat": 42.4475
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Regent Park", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -82.9583, 
+    "lat": 42.4362
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Regent Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -82.9642, 
+    "lat": 42.4366
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Regent Park", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9769, 
+    "lat": 42.4354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 4, 
+    "community": "Regent Park", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9758, 
+    "lat": 42.4366
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Regent Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9496, 
+    "lat": 42.4493
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 1, 
+    "community": "Regent Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9498, 
+    "lat": 42.4446
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 7, 
+    "community": "Regent Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9551, 
+    "lat": 42.4357
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Regent Park", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -82.9543, 
+    "lat": 42.444
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Regent Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9541, 
+    "lat": 42.4377
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 23, 
+    "community": "Regent Park", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9737, 
+    "lat": 42.4405
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 23, 
+    "community": "Regent Park", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9735, 
+    "lat": 42.4405
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Regent Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9535, 
+    "lat": 42.4467
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Regent Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9569, 
+    "lat": 42.4481
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 5, 
+    "community": "Regent Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -82.9548, 
+    "lat": 42.4465
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Regent Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9765, 
+    "lat": 42.4368
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Regent Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9526, 
+    "lat": 42.443
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Regent Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9776, 
+    "lat": 42.4351
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Regent Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9544, 
+    "lat": 42.4372
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 1, 
+    "community": "Regent Park", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9742, 
+    "lat": 42.4369
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 8, 
+    "community": "Regent Park", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -82.9522, 
+    "lat": 42.4462
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 19, 
+    "community": "Regent Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -82.9584, 
+    "lat": 42.4492
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 10, 
+    "community": "Regent Park", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9563, 
+    "lat": 42.45
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Regent Park", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -82.9672, 
+    "lat": 42.4455
+  }
+]

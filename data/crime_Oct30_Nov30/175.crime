@@ -1,0 +1,164 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2196, 
+    "lat": 42.3743
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2244, 
+    "lat": 42.3727
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 21, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2243, 
+    "lat": 42.3722
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 1, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.221, 
+    "lat": 42.3726
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.221, 
+    "lat": 42.3723
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 0, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2212, 
+    "lat": 42.3725
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2245, 
+    "lat": 42.3727
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -83.2224, 
+    "lat": 42.3733
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2178, 
+    "lat": 42.375
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2236, 
+    "lat": 42.3739
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2176, 
+    "lat": 42.3735
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 2, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2181, 
+    "lat": 42.3758
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2228, 
+    "lat": 42.3723
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 0, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2236, 
+    "lat": 42.3741
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2235, 
+    "lat": 42.3741
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2255, 
+    "lat": 42.373
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 16, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2255, 
+    "lat": 42.3739
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Southfield Plymouth", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2242, 
+    "lat": 42.3725
+  }
+]

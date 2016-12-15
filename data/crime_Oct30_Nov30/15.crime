@@ -1,0 +1,983 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 6, 
+    "community": "Brightmoor", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2376, 
+    "lat": 42.3913
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 5, 
+    "community": "Brightmoor", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2469, 
+    "lat": 42.3956
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Brightmoor", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.258, 
+    "lat": 42.3835
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Brightmoor", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2671, 
+    "lat": 42.403
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Brightmoor", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.238, 
+    "lat": 42.3907
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Brightmoor", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.256, 
+    "lat": 42.3971
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Brightmoor", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.246, 
+    "lat": 42.3818
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Brightmoor", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.253, 
+    "lat": 42.3876
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Brightmoor", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2405, 
+    "lat": 42.4006
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 12, 
+    "community": "Brightmoor", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.2379, 
+    "lat": 42.3983
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 14, 
+    "community": "Brightmoor", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.2505, 
+    "lat": 42.393
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Brightmoor", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2686, 
+    "lat": 42.4022
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Brightmoor", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2477, 
+    "lat": 42.4056
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Brightmoor", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2445, 
+    "lat": 42.3946
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 8, 
+    "community": "Brightmoor", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2648, 
+    "lat": 42.3977
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 9, 
+    "community": "Brightmoor", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2465, 
+    "lat": 42.3804
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Brightmoor", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2428, 
+    "lat": 42.3867
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Brightmoor", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2464, 
+    "lat": 42.3801
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Brightmoor", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2569, 
+    "lat": 42.394
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Brightmoor", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2555, 
+    "lat": 42.3842
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 3, 
+    "community": "Brightmoor", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2378, 
+    "lat": 42.3905
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 20, 
+    "community": "Brightmoor", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2535, 
+    "lat": 42.3899
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Brightmoor", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.261, 
+    "lat": 42.3965
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Brightmoor", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.2637, 
+    "lat": 42.4057
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Brightmoor", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2651, 
+    "lat": 42.4034
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 13, 
+    "community": "Brightmoor", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2611, 
+    "lat": 42.382
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Brightmoor", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2416, 
+    "lat": 42.382
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 20, 
+    "community": "Brightmoor", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2483, 
+    "lat": 42.3838
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 18, 
+    "community": "Brightmoor", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2658, 
+    "lat": 42.4002
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 10, 
+    "community": "Brightmoor", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2592, 
+    "lat": 42.3876
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 19, 
+    "community": "Brightmoor", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2402, 
+    "lat": 42.4026
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 9, 
+    "community": "Brightmoor", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2464, 
+    "lat": 42.3801
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Brightmoor", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2619, 
+    "lat": 42.3952
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 6, 
+    "community": "Brightmoor", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2512, 
+    "lat": 42.3932
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Brightmoor", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.247, 
+    "lat": 42.4071
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Brightmoor", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2571, 
+    "lat": 42.4069
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Brightmoor", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2473, 
+    "lat": 42.401
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Brightmoor", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2529, 
+    "lat": 42.3907
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 13, 
+    "community": "Brightmoor", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2397, 
+    "lat": 42.3894
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Brightmoor", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -83.2474, 
+    "lat": 42.4053
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Brightmoor", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2572, 
+    "lat": 42.407
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 12, 
+    "community": "Brightmoor", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2611, 
+    "lat": 42.382
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 7, 
+    "community": "Brightmoor", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2734, 
+    "lat": 42.3999
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 22, 
+    "community": "Brightmoor", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2587, 
+    "lat": 42.4074
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Brightmoor", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2417, 
+    "lat": 42.382
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 17, 
+    "community": "Brightmoor", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2661, 
+    "lat": 42.4069
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Brightmoor", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2405, 
+    "lat": 42.3978
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "Brightmoor", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2478, 
+    "lat": 42.4024
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Brightmoor", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2521, 
+    "lat": 42.3979
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Brightmoor", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.253, 
+    "lat": 42.3911
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Brightmoor", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2685, 
+    "lat": 42.3989
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Brightmoor", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.253, 
+    "lat": 42.3956
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 19, 
+    "community": "Brightmoor", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2382, 
+    "lat": 42.4025
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Brightmoor", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2552, 
+    "lat": 42.3826
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 10, 
+    "community": "Brightmoor", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2706, 
+    "lat": 42.4071
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 15, 
+    "community": "Brightmoor", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2391, 
+    "lat": 42.3859
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Brightmoor", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.2484, 
+    "lat": 42.4038
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 4, 
+    "community": "Brightmoor", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.2375, 
+    "lat": 42.3987
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 20, 
+    "community": "Brightmoor", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2406, 
+    "lat": 42.3916
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Brightmoor", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.2501, 
+    "lat": 42.4075
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 3, 
+    "community": "Brightmoor", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2582, 
+    "lat": 42.3844
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Brightmoor", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2622, 
+    "lat": 42.3953
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Brightmoor", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2415, 
+    "lat": 42.3986
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 22, 
+    "community": "Brightmoor", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2391, 
+    "lat": 42.406
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 23, 
+    "community": "Brightmoor", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2514, 
+    "lat": 42.3933
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 12, 
+    "community": "Brightmoor", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.255, 
+    "lat": 42.3823
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 11, 
+    "community": "Brightmoor", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2385, 
+    "lat": 42.3948
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 16, 
+    "community": "Brightmoor", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.2637, 
+    "lat": 42.3968
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Brightmoor", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2402, 
+    "lat": 42.402
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Brightmoor", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2424, 
+    "lat": 42.4033
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Brightmoor", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2571, 
+    "lat": 42.3898
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 20, 
+    "community": "Brightmoor", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2706, 
+    "lat": 42.4012
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 23, 
+    "community": "Brightmoor", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2515, 
+    "lat": 42.3934
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Brightmoor", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2531, 
+    "lat": 42.3909
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Brightmoor", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.249, 
+    "lat": 42.3912
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Brightmoor", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.2629, 
+    "lat": 42.3947
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 8, 
+    "community": "Brightmoor", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2653, 
+    "lat": 42.4067
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Brightmoor", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2458, 
+    "lat": 42.3818
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 18, 
+    "community": "Brightmoor", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.2565, 
+    "lat": 42.3857
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Brightmoor", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2378, 
+    "lat": 42.4008
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Brightmoor", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2444, 
+    "lat": 42.3867
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 19, 
+    "community": "Brightmoor", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -83.2467, 
+    "lat": 42.3849
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 15, 
+    "community": "Brightmoor", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.2594, 
+    "lat": 42.3834
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 3, 
+    "community": "Brightmoor", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2378, 
+    "lat": 42.4002
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Brightmoor", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2533, 
+    "lat": 42.4006
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 2, 
+    "community": "Brightmoor", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2577, 
+    "lat": 42.3998
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 15, 
+    "community": "Brightmoor", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.2389, 
+    "lat": 42.3857
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Brightmoor", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2583, 
+    "lat": 42.3881
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 23, 
+    "community": "Brightmoor", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2422, 
+    "lat": 42.3934
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Brightmoor", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2384, 
+    "lat": 42.3905
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 21, 
+    "community": "Brightmoor", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.2372, 
+    "lat": 42.3935
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 23, 
+    "community": "Brightmoor", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2655, 
+    "lat": 42.4065
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 9, 
+    "community": "Brightmoor", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2612, 
+    "lat": 42.398
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 19, 
+    "community": "Brightmoor", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2377, 
+    "lat": 42.4004
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 0, 
+    "community": "Brightmoor", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -83.2463, 
+    "lat": 42.3848
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 7, 
+    "community": "Brightmoor", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.2378, 
+    "lat": 42.401
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 11, 
+    "community": "Brightmoor", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.244, 
+    "lat": 42.4019
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Brightmoor", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2617, 
+    "lat": 42.3942
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Brightmoor", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.2468, 
+    "lat": 42.388
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Brightmoor", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.263, 
+    "lat": 42.3938
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Brightmoor", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.2462, 
+    "lat": 42.4055
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 19, 
+    "community": "Brightmoor", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2619, 
+    "lat": 42.3941
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 19, 
+    "community": "Brightmoor", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.2616, 
+    "lat": 42.3941
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 1, 
+    "community": "Brightmoor", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.2387, 
+    "lat": 42.398
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 10, 
+    "community": "Brightmoor", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2403, 
+    "lat": 42.3898
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 11, 
+    "community": "Brightmoor", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2475, 
+    "lat": 42.4008
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Brightmoor", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2599, 
+    "lat": 42.401
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 20, 
+    "community": "Brightmoor", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.2543, 
+    "lat": 42.402
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Brightmoor", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2596, 
+    "lat": 42.4049
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Buffalo", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0494, 
+    "lat": 42.4137
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Buffalo", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.0473, 
+    "lat": 42.4113
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Buffalo", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0431, 
+    "lat": 42.4135
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 21, 
+    "community": "Buffalo", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0491, 
+    "lat": 42.4138
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Buffalo", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0453, 
+    "lat": 42.4074
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 0, 
+    "community": "Buffalo", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0481, 
+    "lat": 42.4108
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 1, 
+    "community": "Buffalo", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0527, 
+    "lat": 42.4067
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Buffalo", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.044, 
+    "lat": 42.4137
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 0, 
+    "community": "Buffalo", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0613, 
+    "lat": 42.4155
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Buffalo", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0508, 
+    "lat": 42.4066
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Buffalo", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0509, 
+    "lat": 42.4113
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Buffalo", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0485, 
+    "lat": 42.4101
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 10, 
+    "community": "Buffalo", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0455, 
+    "lat": 42.4118
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 8, 
+    "community": "Buffalo", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0456, 
+    "lat": 42.4083
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Buffalo", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.0531, 
+    "lat": 42.4107
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 21, 
+    "community": "Buffalo", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0513, 
+    "lat": 42.4067
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Buffalo", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0385, 
+    "lat": 42.4107
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Buffalo", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0456, 
+    "lat": 42.4143
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 17, 
+    "community": "Buffalo", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0575, 
+    "lat": 42.4105
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Buffalo", 
+    "date": "2016-10-30T00:00:00", 
+    "lot": -83.044, 
+    "lat": 42.4116
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 16, 
+    "community": "Buffalo", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.04, 
+    "lat": 42.4099
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 23, 
+    "community": "Buffalo", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0474, 
+    "lat": 42.4119
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Buffalo", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.0404, 
+    "lat": 42.4111
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Buffalo", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0519, 
+    "lat": 42.4093
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 2, 
+    "community": "Buffalo", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.056, 
+    "lat": 42.4077
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Buffalo", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0457, 
+    "lat": 42.4118
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Buffalo", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0412, 
+    "lat": 42.4155
+  }
+]

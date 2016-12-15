@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 1, 
+    "community": "Hubbard Richard", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0707, 
+    "lat": 42.3256
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 0, 
+    "community": "Hubbard Richard", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0768, 
+    "lat": 42.3238
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Hubbard Richard", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0755, 
+    "lat": 42.3252
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 0, 
+    "community": "Hubbard Richard", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0766, 
+    "lat": 42.324
+  }
+]

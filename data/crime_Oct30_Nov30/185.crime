@@ -1,0 +1,218 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Wade", 
+    "date": "2016-11-14T00:00:00", 
+    "lot": -82.9875, 
+    "lat": 42.4088
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Wade", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.9841, 
+    "lat": 42.4097
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Wade", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -82.9903, 
+    "lat": 42.4039
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 1, 
+    "community": "Wade", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9824, 
+    "lat": 42.4043
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 17, 
+    "community": "Wade", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.9882, 
+    "lat": 42.4074
+  }, 
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 18, 
+    "community": "Wade", 
+    "date": "2016-11-17T00:00:00", 
+    "lot": -82.9797, 
+    "lat": 42.4038
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 21, 
+    "community": "Wade", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9873, 
+    "lat": 42.4067
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 1, 
+    "community": "Wade", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -82.9894, 
+    "lat": 42.4034
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 14, 
+    "community": "Wade", 
+    "date": "2016-10-31T00:00:00", 
+    "lot": -82.9893, 
+    "lat": 42.4027
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Wade", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -82.9846, 
+    "lat": 42.4098
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Wade", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9899, 
+    "lat": 42.3999
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 5, 
+    "community": "Wade", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9899, 
+    "lat": 42.4
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Wade", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -82.988, 
+    "lat": 42.4069
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 15, 
+    "community": "Wade", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9842, 
+    "lat": 42.4077
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Wade", 
+    "date": "2016-11-26T00:00:00", 
+    "lot": -82.9965, 
+    "lat": 42.4053
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Wade", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -82.9828, 
+    "lat": 42.4099
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 15, 
+    "community": "Wade", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9906, 
+    "lat": 42.4028
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Wade", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -82.9838, 
+    "lat": 42.4038
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Wade", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.9891, 
+    "lat": 42.4026
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 9, 
+    "community": "Wade", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -82.9833, 
+    "lat": 42.4099
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 7, 
+    "community": "Wade", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -82.988, 
+    "lat": 42.4077
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Wade", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -82.9916, 
+    "lat": 42.4051
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 8, 
+    "community": "Wade", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -82.9843, 
+    "lat": 42.4078
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "DAMAGE TO PROPERTY", 
+    "hour": 20, 
+    "community": "Wade", 
+    "date": "2016-11-24T00:00:00", 
+    "lot": -82.987, 
+    "lat": 42.4044
+  }
+]

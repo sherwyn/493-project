@@ -1,0 +1,119 @@
+[
+  {
+    "category": "Quality-of-Life Crime", 
+    "sub category": "DANGEROUS DRUGS", 
+    "hour": 22, 
+    "community": "Westwood Park", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.2371, 
+    "lat": 42.3979
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Westwood Park", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.2326, 
+    "lat": 42.3884
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 5, 
+    "community": "Westwood Park", 
+    "date": "2016-11-15T00:00:00", 
+    "lot": -83.2299, 
+    "lat": 42.3865
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 12, 
+    "community": "Westwood Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2347, 
+    "lat": 42.3937
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 15, 
+    "community": "Westwood Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2339, 
+    "lat": 42.3936
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Westwood Park", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.2341, 
+    "lat": 42.3938
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 19, 
+    "community": "Westwood Park", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.2305, 
+    "lat": 42.391
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Westwood Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.2299, 
+    "lat": 42.3878
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 4, 
+    "community": "Westwood Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2323, 
+    "lat": 42.3866
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 3, 
+    "community": "Westwood Park", 
+    "date": "2016-11-23T00:00:00", 
+    "lot": -83.237, 
+    "lat": 42.3933
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 20, 
+    "community": "Westwood Park", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.2314, 
+    "lat": 42.3866
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 10, 
+    "community": "Westwood Park", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.2368, 
+    "lat": 42.3863
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Westwood Park", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.23, 
+    "lat": 42.3935
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 6, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-27T00:00:00", 
+    "lot": -83.0318, 
+    "lat": 42.377
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 22, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0131, 
+    "lat": 42.3827
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 0, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-03T00:00:00", 
+    "lot": -83.0206, 
+    "lat": 42.37
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 18, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0192, 
+    "lat": 42.375
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0256, 
+    "lat": 42.3796
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 15, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.031, 
+    "lat": 42.3769
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 11, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0229, 
+    "lat": 42.3805
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 18, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0097, 
+    "lat": 42.3877
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 11, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-18T00:00:00", 
+    "lot": -83.0316, 
+    "lat": 42.3768
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 2, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0307, 
+    "lat": 42.3767
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 20, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0176, 
+    "lat": 42.3748
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 2, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0206, 
+    "lat": 42.3702
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 5, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-29T00:00:00", 
+    "lot": -83.0187, 
+    "lat": 42.3729
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 6, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0181, 
+    "lat": 42.3844
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 18, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-10T00:00:00", 
+    "lot": -83.0193, 
+    "lat": 42.3741
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 13, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0232, 
+    "lat": 42.3826
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 2, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-25T00:00:00", 
+    "lot": -83.0315, 
+    "lat": 42.3768
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 23, 
+    "community": "Gratiot Town/Ketterring", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0153, 
+    "lat": 42.3821
+  }
+]

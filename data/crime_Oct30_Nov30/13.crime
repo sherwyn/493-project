@@ -1,0 +1,11 @@
+[
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 11, 
+    "community": "Brewster Douglas", 
+    "date": "2016-11-20T00:00:00", 
+    "lot": -83.0481, 
+    "lat": 42.3432
+  }
+]

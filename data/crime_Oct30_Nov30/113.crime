@@ -1,0 +1,236 @@
+[
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 17, 
+    "community": "Medical Center", 
+    "date": "2016-11-21T00:00:00", 
+    "lot": -83.059, 
+    "lat": 42.359
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Medical Center", 
+    "date": "2016-11-30T00:00:00", 
+    "lot": -83.0571, 
+    "lat": 42.3503
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Medical Center", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0543, 
+    "lat": 42.3553
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 22, 
+    "community": "Medical Center", 
+    "date": "2016-11-19T00:00:00", 
+    "lot": -83.0534, 
+    "lat": 42.354
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 8, 
+    "community": "Medical Center", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0529, 
+    "lat": 42.3562
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 9, 
+    "community": "Medical Center", 
+    "date": "2016-11-01T00:00:00", 
+    "lot": -83.0546, 
+    "lat": 42.3555
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 15, 
+    "community": "Medical Center", 
+    "date": "2016-11-02T00:00:00", 
+    "lot": -83.0578, 
+    "lat": 42.3589
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 8, 
+    "community": "Medical Center", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0568, 
+    "lat": 42.3596
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 13, 
+    "community": "Medical Center", 
+    "date": "2016-11-11T00:00:00", 
+    "lot": -83.0588, 
+    "lat": 42.3589
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 14, 
+    "community": "Medical Center", 
+    "date": "2016-11-05T00:00:00", 
+    "lot": -83.0543, 
+    "lat": 42.3518
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Medical Center", 
+    "date": "2016-11-07T00:00:00", 
+    "lot": -83.0564, 
+    "lat": 42.3574
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "AGGRAVATED ASSAULT", 
+    "hour": 22, 
+    "community": "Medical Center", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.0529, 
+    "lat": 42.357
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ROBBERY", 
+    "hour": 18, 
+    "community": "Medical Center", 
+    "date": "2016-11-13T00:00:00", 
+    "lot": -83.0545, 
+    "lat": 42.3519
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 17, 
+    "community": "Medical Center", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0604, 
+    "lat": 42.3552
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "ASSAULT", 
+    "hour": 10, 
+    "community": "Medical Center", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0543, 
+    "lat": 42.3518
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 19, 
+    "community": "Medical Center", 
+    "date": "2016-11-04T00:00:00", 
+    "lot": -83.0538, 
+    "lat": 42.3588
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 4, 
+    "community": "Medical Center", 
+    "date": "2016-11-28T00:00:00", 
+    "lot": -83.0524, 
+    "lat": 42.3497
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 14, 
+    "community": "Medical Center", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.0604, 
+    "lat": 42.3578
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 16, 
+    "community": "Medical Center", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0549, 
+    "lat": 42.3605
+  }, 
+  {
+    "category": "Violent Crime", 
+    "sub category": "WEAPONS OFFENSES", 
+    "hour": 3, 
+    "community": "Medical Center", 
+    "date": "2016-11-12T00:00:00", 
+    "lot": -83.056, 
+    "lat": 42.3505
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 18, 
+    "community": "Medical Center", 
+    "date": "2016-11-09T00:00:00", 
+    "lot": -83.0533, 
+    "lat": 42.3542
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 9, 
+    "community": "Medical Center", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0522, 
+    "lat": 42.3566
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "BURGLARY", 
+    "hour": 9, 
+    "community": "Medical Center", 
+    "date": "2016-11-06T00:00:00", 
+    "lot": -83.058, 
+    "lat": 42.3588
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Medical Center", 
+    "date": "2016-11-16T00:00:00", 
+    "lot": -83.0533, 
+    "lat": 42.3539
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "LARCENY", 
+    "hour": 12, 
+    "community": "Medical Center", 
+    "date": "2016-11-08T00:00:00", 
+    "lot": -83.0603, 
+    "lat": 42.3552
+  }, 
+  {
+    "category": "Property Crime", 
+    "sub category": "STOLEN VEHICLE", 
+    "hour": 16, 
+    "community": "Medical Center", 
+    "date": "2016-11-22T00:00:00", 
+    "lot": -83.0531, 
+    "lat": 42.3584
+  }
+]
