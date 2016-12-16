@@ -29,7 +29,7 @@ for year in range(2009, 2017):
 
 	    	c = data_communities[i]
 	    	d = data[i]['date']
-	    	d = str(d[0:10])
+	    	d = str(d[0:7])
 	    	if d in data_output[c]:
 	    		data_output[c][d] = data_output[c][d] + 1
 	    	else:
@@ -44,12 +44,14 @@ od = collections.OrderedDict(sorted(mydict.items()))
 # os.remove(filename + '.json')
 # with open(filename + '.json', 'w') as f:
 #     json.dump(data, f, indent=2)
+import ipdb; ipdb.set_trace();
 for c in communities:
 	with open('historical_graph/' + str(community_id[c]) + '.historical', 'w') as f:
 		mydict = data_output[c]
 		od = collections.OrderedDict(sorted(mydict.items()))
+		f.write('date\tclose\n')
 		for key, value in od.items():
-			f.write(key + ' ' + str(value) + '\n')
+			f.write(key + '\t' + str(value) + '\n')
 
 	f.close()
 

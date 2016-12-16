@@ -88,7 +88,7 @@ footer p {
   margin-bottom: .25rem;
 }
 
-.neighborhood, .crime-trends, .crime-reports, .date-range {
+.neighborhood, .crime-trends, .crime-reports, .date-range, .timegraph-title{
   text-transform: capitalize;
 }
 
@@ -106,4 +106,19 @@ footer p {
 
 .crime-report-left {
   text-align: center;
+}
+
+svg{
+    display: block;
+    margin: auto;
+}
+
+.axis--x path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
 }
