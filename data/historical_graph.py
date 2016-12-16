@@ -3,8 +3,6 @@ import os
 import collections
 from pprint import pprint
 
-filename = 'crime_2009'
-
 data_output = {}
 community_id = {}
 cid = 0
@@ -20,7 +18,7 @@ with open('communities.txt') as f:
 		cid = cid + 1
 
 for year in range(2009, 2017):
-	filename = 'crime_' + str(year)
+	filename = 'crime_data/crime_' + str(year)
 	with open(filename + '.txt') as f:
 		data_communities = f.read().split('\n')
 		
@@ -47,7 +45,7 @@ od = collections.OrderedDict(sorted(mydict.items()))
 # with open(filename + '.json', 'w') as f:
 #     json.dump(data, f, indent=2)
 for c in communities:
-	with open('data/historical_graph/' + str(community_id[c]) + '.historical', 'w') as f:
+	with open('historical_graph/' + str(community_id[c]) + '.historical', 'w') as f:
 		mydict = data_output[c]
 		od = collections.OrderedDict(sorted(mydict.items()))
 		for key, value in od.items():
