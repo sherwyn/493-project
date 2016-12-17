@@ -22,19 +22,30 @@ $(function() {
         // return;
         
         // If valid address found
-        if (data.status != "ZERO_RESULTS") {
+        var flag = true;
+        num = 0;
+        while (flag && num < data.results.length){
+          var i;
+          for (i = 0; i<data.results[num].address_components.length; i++){
+            if ((data.results[num].address_components[i].long_name == "Detroit") && 
+              (data.results[num].address_components[i].types[0] == "locality")){
+              flag = false; 
+            }
+          }
+          num++;
+        }
+        num--;
+        if (!flag) {
           // Save data to locaStorage
-          localStorage.setItem("address", data.results[0].formatted_address);
-          localStorage.setItem("lat", data.results[0].geometry.location.lat);
-          localStorage.setItem("lng", data.results[0].geometry.location.lng);
+          localStorage.setItem("address", data.results[num].formatted_address);
+          localStorage.setItem("lat", data.results[num].geometry.location.lat);
+          localStorage.setItem("lng", data.results[num].geometry.location.lng);
           
           // Submit form
           $("form").submit();
         }
         else {
-          // Just reload the page if address not found
-          location.reload();
-          // alert("Address not found. Try being more specific in your query.");
+          alert("Address not found. Try being more specific in your query.");
         }
       }
     })
