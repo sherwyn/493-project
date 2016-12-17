@@ -2,7 +2,11 @@
 $(function() {
   // Get address from localStorage.
   var address = localStorage.getItem("address");
-  
+  var coordinates = JSON.stringify(localStorage.getItem("coordinates"));
+
+  console.log("cc:" + coordinates);
+  console.log("add:" + address);
+    
   // Set the neighborhood label.
   $("#neighborhood-label").text(address);
   
