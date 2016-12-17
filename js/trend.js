@@ -1,6 +1,5 @@
+// We call this from map.js with the communityId
 function showTrend(i) {
-	console.log("trend communityId = " + i);
-
 	var svg = d3.select("#trend-svg"),
     margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = +svg.attr("width") - margin.left - margin.right,
@@ -34,7 +33,7 @@ function showTrend(i) {
 	      .attr("y", 6)
 	      .attr("dy", "0.71em")
 	      .attr("text-anchor", "end")
-	      .text("Frequency");
+	      .text("crime report");
 
 	  g.selectAll(".bar")
 	    .data(data)

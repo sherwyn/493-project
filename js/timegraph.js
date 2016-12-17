@@ -1,6 +1,5 @@
+// We call this from map.js with the communityId
 function drawGraph(i) {
-  console.log('timegraph communityId = ', i);
-  
   var svg = d3.select("#timegraph-svg"),
       margin = {top: 20, right: 80, bottom: 30, left: 50},
       width = svg.attr("width") - margin.left - margin.right,

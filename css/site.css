@@ -194,5 +194,8 @@ svg{
 
 .legend-violent, .legend-property, .legend-quality {
   font-weight: 500;
-  padding-right: 5rem;
+  padding-right: 1rem;
+}
+
+.chart-div {
 }

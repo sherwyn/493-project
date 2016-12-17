@@ -209,7 +209,10 @@ $(function() {
     $("#neighborhood-label").text(community);
     
     // Set the neighborhood label.
-    $("#crime-trends").text("Crime Trends in " + community);
+    $("#crime-trends").text("Crime by Time of Day in " + community);
+    
+    // Set the neighborhood label.
+    $("#crime-leaderboard").text("Crime by Type in " + community);
     
     // Set the neighborhood label.
     $("#crime-reports").text("Crime Reports in " + community);
@@ -325,19 +328,11 @@ function updateSummaryWidgets(data) {
   }).length;
   $('#violent-assault').text('Assault: ' + assaultCount);
   
-  var batteryCount = data.filter(function(v) {
-    return v["sub category"] == "AGGRAVATED ASSAULT"
-  }).length;
-  
   // Property
-  var propertySummary = data.filter(function(v) {
+  var propertyCount = data.filter(function(v) {
     return v["category"] == "Property Crime"
   }).length;
-  
-  var batteryCount = data.filter(function(v) {
-    return v["sub category"] == "AGGRAVATED ASSAULT"
-  }).length;
-  $('#crime-property-qty').text(propertySummary);
+  $('#crime-property-qty').text(propertyCount);
 
   var theftCount = data.filter(function(v) {
     return v["sub category"] == "LARCENY"
@@ -364,4 +359,20 @@ function updateSummaryWidgets(data) {
     return v["sub category"] == "DANGEROUS DRUGS"
   }).length;
   $('#quality-narcotics').text('Narcotics: ' + narcoticsCount);
+  
+  var unordered = {
+    "Robbery": robberyCount,
+    "Battery": batteryCount,
+    "Assault": assaultCount,
+    "Burglary": burglaryCount,
+    "Narcotics": narcoticsCount
+  };
+  const ordered = {}
+  Object.keys(unordered).sort().forEach(function(key) {
+    ordered[key] = unordered[key];
+  });
+  
+  for (var key in ordered) {
+      $("#leaderboard").append("<tr><th scope=\"row\">" + key + "</th><td>" +  ordered[key] + "</td></tr>");
+  }
 }

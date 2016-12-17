@@ -40,7 +40,7 @@
             <a class="nav-link" href="#timegraph-title">Historical Crime</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#crime-report-property">Crime Trends</a>
+            <a class="nav-link" href="#crime-trends">Crime By Time</a>
           </li>
         </ul>
         
@@ -136,28 +136,42 @@
 
         <br>
         
-        <h5 class="timegraph-title" id="timegraph-title"></h5>
-        
-        <div class="legend">
-          <span class="legend-violent">Violent Crimes</span>
-          <span class="legend-property">Property Crimes</span>
-          <span class="legend-quality">Quality of Life Crimes</span>
-        </div>
-        
-        <div id="timegraph">
-          <svg id="timegraph-svg" width="1100" height="500" display="block" margin="auto"></svg>
+        <div class="row">
+          <div class="col-md-12">
+            <h5 class="timegraph-title" id="timegraph-title"></h5>
+            <div class="chart-div">
+              <div class="legend">
+                <span class="legend-violent">Violent Crimes</span>
+                <span class="legend-property">Property Crimes</span>
+                <span class="legend-quality">Quality of Life Crimes</span>
+              </div>
+              <div id="timegraph">
+                <svg id="timegraph-svg" width="1140" height="400" display="block" margin="auto"></svg>
+              </div>
+            </div>
+          </div>
         </div>
         
         <br>
 
-        <h5 class="crime-trends" id="crime-trends"></h5>
-
         <div class="row">
           <div class="col-md-6">
+            <h5 class="crime-trends" id="crime-trends"></h5>
             <svg id="trend-svg" width="540" height="400"></svg>
           </div>
           <div class="col-md-6">
-            <img data-src="holder.js/100px400/thumb" alt="Card image cap">
+            <h5 class="crime-leaderboard" id="crime-leaderboard"></h5>
+            <!-- <img data-src="holder.js/100px400/thumb" alt="Card image cap"> -->
+            <table class="table" id="leaderboard">
+              <thead>
+                <tr>
+                  <th>Crime Type</th>
+                  <th>Crime Reports</th>
+                </tr>
+              </thead>
+              <tbody>
+              </tbody>
+            </table>          
           </div>
         </div>
         
