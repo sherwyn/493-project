@@ -235,7 +235,13 @@ $(function() {
         circle.bringToFront();
         
         // add and bind popup for each crime
-        var popup = L.popup().setContent(collection[j]['category'] + ': ' + collection[j]['date']);
+        var subCate = collection[j]['sub category'].toLowerCase();
+        subCate = subCate[0].toUpperCase() + subCate.slice(1);
+        var ppContent = '<b style="color: ' + colorMap[crimeCate] + '">' + subCate + "</b>";
+        ppContent += '<br><b>' + collection[j]['hour'] + ':00 </b>';
+        ppContent += '<br><b>' + collection[j]['date'].slice(0, 10) + '</b>';
+
+        var popup = L.popup().setContent(ppContent);
         circle.bindPopup(popup);
         circle.on('mouseover', function(e) {
           this.openPopup();
@@ -280,10 +286,21 @@ $(function() {
       // update polyPopup
       if (moveResult.length > 0 && moveResult[0]['feature']['properties']['name'] !== community) {
         var c = moveResult[0]['feature']['properties']['name'];
-        polyPopup
-          .setLatLng(e.latlng)
-          .setContent(c);
-        mymap.openPopup(polyPopup);
+
+        var crimeFile = '/data/crime_Oct30_Nov30/' + communityIdMap[c] + '.crime';
+    
+        d3.json(crimeFile, function(error, collection) {
+
+          var ppContent = '<b style="color: #576172">' + c + "</b>";
+          ppContent += '<br><b style="color: #768296">' + collection.length + ' reported crimes' + '</b>';
+
+          polyPopup
+            .setLatLng(e.latlng)
+            .setContent(ppContent);
+          
+          mymap.openPopup(polyPopup);
+        
+        });
       }
       else {
         mymap.closePopup(polyPopup);
