@@ -16,19 +16,67 @@ $(function() {
   $("#date-range").text("Nov. 2: Dec. 2, 2016");
   
   // Violent Crime widget onHover
-  $("#crime-report-violent").hover(function() {
-    console.log("crime-report-violent");
-  })
+  $("#crime-report-violent").hover(
+    function() {
+      console.log("crime-report-violent");
+      for (var i = 0; i < circles['Property Crime'].length; i++) {
+        mymap.removeLayer(circles['Property Crime'][i]);
+      }
+      for (var i = 0; i < circles['Quality-of-Life Crime'].length; i++) {
+        mymap.removeLayer(circles['Quality-of-Life Crime'][i]);
+      }
+    },
+    function() {
+      for (var i = 0; i < circles['Property Crime'].length; i++) {
+        circles['Property Crime'][i].addTo(mymap);
+      }
+      for (var i = 0; i < circles['Quality-of-Life Crime'].length; i++) {
+        circles['Quality-of-Life Crime'][i].addTo(mymap);
+      }
+    }
+  )
   
   // Property Crime widget onHover
-  $("#crime-report-property").hover(function() {
-    console.log("crime-report-property");
-  })
+  $("#crime-report-property").hover(
+    function() {
+      console.log("crime-report-property");
+      for (var i = 0; i < circles['Violent Crime'].length; i++) {
+        mymap.removeLayer(circles['Violent Crime'][i]);
+      }
+      for (var i = 0; i < circles['Quality-of-Life Crime'].length; i++) {
+        mymap.removeLayer(circles['Quality-of-Life Crime'][i]);
+      }
+    },
+    function() {
+      for (var i = 0; i < circles['Violent Crime'].length; i++) {
+        circles['Violent Crime'][i].addTo(mymap);
+      }
+      for (var i = 0; i < circles['Quality-of-Life Crime'].length; i++) {
+        circles['Quality-of-Life Crime'][i].addTo(mymap);
+      }
+    }
+  )
   
   // Quality Crime widget onHover
-  $("#crime-report-quality").hover(function() {
-    console.log("crime-report-quality");
-  })
+  $("#crime-report-quality").hover(
+    function() {
+      console.log("crime-report-quality");
+      for (var i = 0; i < circles['Violent Crime'].length; i++) {
+        mymap.removeLayer(circles['Violent Crime'][i]);
+      }
+      for (var i = 0; i < circles['Property Crime'].length; i++) {
+        mymap.removeLayer(circles['Property Crime'][i]);
+      }
+    },
+    function() {
+      for (var i = 0; i < circles['Violent Crime'].length; i++) {
+        circles['Violent Crime'][i].addTo(mymap);
+      }
+      for (var i = 0; i < circles['Property Crime'].length; i++) {
+        circles['Property Crime'][i].addTo(mymap);
+      }
+    }
+  )
   
   $("form").submit(function(e) {
     var address = $("#address").val();
@@ -76,6 +124,7 @@ $(function() {
     "Quality-of-Life Crime": "#009E87"
   }
 
+
   // custom styles for rendering polygons and circles
   var styleEmpty = {
     "opacity": 0,
@@ -96,14 +145,37 @@ $(function() {
     "weight": 3,
     "opacity": 0.9
   }
-  var crimeNormal = {
-    // "color": '#009E87',
+  var crimeViolent = {
+    "color": '#B413A5',
     "weight": 2,
     "fill": true,
     "fillcolor": '#e52041',
     "fillOpacity": 1
   }
+  var crimeProperty = {
+    "color": '#E59127',
+    "weight": 2,
+    "fill": true,
+    "fillcolor": '#e52041',
+    "fillOpacity": 1
+  }
+  var crimeQuality = {
+    "color": '#009E87',
+    "weight": 2,
+    "fill": true,
+    "fillcolor": '#e52041',
+    "fillOpacity": 1
+  }
+  
+  var crimeMap = {
+    "Violent Crime": crimeViolent,
+    "Property Crime": crimeProperty,
+    "Quality-of-Life Crime": crimeQuality
+  }
 
+  var crimeEmpty = {
+    "fillOpacity": 0
+  }
 
   var radius = 15;
 
@@ -156,8 +228,8 @@ $(function() {
         var circle = L.circle([collection[j]['lat'], collection[j]['lot']], radius);
         var crimeCate = collection[j]['category'];
         circles[crimeCate].push(circle);
-        crimeNormal['color'] = colorMap[crimeCate];
-        circle.setStyle(crimeNormal);
+        // crimeNormal['color'] = colorMap[crimeCate];
+        circle.setStyle(crimeMap[crimeCate]);
         circle.addTo(mymap);
         circle.bringToFront();
         
@@ -188,6 +260,7 @@ $(function() {
         });
         p.on('mouseout', function(e) {
           this.setStyle(styleNormal);
+          mymap.closePopup(polyPopup);
         });
       }
     }
@@ -198,14 +271,7 @@ $(function() {
     // it will update global polyPopup and display
     // at correct position
     function onMapMove(e) {
-      console.log(circles['Violent Crime'].length);
-      console.log(circles['Property Crime'].length);
-      console.log(circles['Quality-of-Life Crime'].length);
-      // for (var i = 0; i < circles['Violent Crime'].length; i++) {
-      //   console.log("aha");
-      //   console.log(circles['Violent Crime'][i]);
-      // }
-
+   
       // search polygon for current mouse position
       var movePoint = [e.latlng['lng'], e.latlng['lat']];
       var moveResult = leafletPip.pointInLayer(movePoint, dataLayer, true);
