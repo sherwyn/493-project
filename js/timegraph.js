@@ -4,7 +4,7 @@ $(function() {
   var address = localStorage.getItem("address");
   $("#timegraph-title").text("Historical Crimes in " + address);
 
-  var svg = d3.select("svg"),
+  var svg = d3.select("#timegraph-svg"),
       margin = {top: 20, right: 20, bottom: 30, left: 50},
       width = +svg.attr("width") - margin.left - margin.right,
       height = +svg.attr("height") - margin.top - margin.bottom,
