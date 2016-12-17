@@ -115,6 +115,10 @@ footer p {
   padding: 1.5rem;
 }
 
+.crime-report:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
 .crime-report-qty {
   font-size: 4rem;
 }

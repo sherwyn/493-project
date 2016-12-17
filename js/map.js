@@ -1,12 +1,5 @@
 // jQuery onLoad
 $(function() {
-  // Load community data
-  $.ajax({
-    url: '/js/test-community.json',
-    dataType: 'json',
-    success: handleCommunityData
-  })
-  
   // Get address from localStorage.
   var address = localStorage.getItem("address");
   
@@ -20,7 +13,22 @@ $(function() {
   $("#crime-reports").text("Crime Reports in " + address);
   
   // Set the date label.
-  $("#date-range").text("Nov. 2 - Dec. 2, 2016");
+  $("#date-range").text("Nov. 2: Dec. 2, 2016");
+  
+  // Violent Crime widget onHover
+  $("#crime-report-violent").hover(function() {
+    console.log("crime-report-violent");
+  })
+  
+  // Property Crime widget onHover
+  $("#crime-report-property").hover(function() {
+    console.log("crime-report-property");
+  })
+  
+  // Quality Crime widget onHover
+  $("#crime-report-quality").hover(function() {
+    console.log("crime-report-quality");
+  })
   
   $("form").submit(function(e) {
     var address = $("#address").val();
@@ -106,7 +114,7 @@ $(function() {
   });
 
   // 
-  d3.json('data/neighborhoods.geojson', function(error, collection) {
+  d3.json('/data/neighborhoods.geojson', function(error, collection) {
     if (error) throw error;
 
     // retrieve data
@@ -137,8 +145,11 @@ $(function() {
     communityId = communityIdMap[community];
 
     // open crime data for current community
-    var crimeFile = 'data/crime_Oct30_Nov30/' + communityId + '.crime';
+    var crimeFile = '/data/crime_Oct30_Nov30/' + communityId + '.crime';
+    
     d3.json(crimeFile, function(error, collection) {
+      // Update summary widgets
+      handleCommunityData(collection);
 
       // create circles for all crimes
       for (var j = 0; j < collection.length; j++) {
@@ -238,17 +249,17 @@ function updateSummaryWidgets(data) {
   var robberyCount = data.filter(function(v) {
     return v["sub category"] == "ROBBERY"
   }).length;
-  $('#violent-robbery').text('Robbery - ' + robberyCount);
+  $('#violent-robbery').text('Robbery: ' + robberyCount);
   
   var batteryCount = data.filter(function(v) {
     return v["sub category"] == "AGGRAVATED ASSAULT"
   }).length;
-  $('#violent-battery').text('Battery - ' + batteryCount);
+  $('#violent-battery').text('Battery: ' + batteryCount);
   
   var assaultCount = data.filter(function(v) {
     return v["sub category"] == "ASSAULT"
   }).length;
-  $('#violent-assault').text('Assault - ' + assaultCount);
+  $('#violent-assault').text('Assault: ' + assaultCount);
   
   var batteryCount = data.filter(function(v) {
     return v["sub category"] == "AGGRAVATED ASSAULT"
@@ -267,17 +278,17 @@ function updateSummaryWidgets(data) {
   var theftCount = data.filter(function(v) {
     return v["sub category"] == "LARCENY"
   }).length;  
-  $('#property-theft').text('Theft - ' + theftCount);
+  $('#property-theft').text('Theft: ' + theftCount);
   
   var burglaryCount = data.filter(function(v) {
     return v["sub category"] == "BURGLARY"
   }).length;  
-  $('#property-burglary').text('Burglary - ' + burglaryCount);
+  $('#property-burglary').text('Burglary: ' + burglaryCount);
   
   var motorCount = data.filter(function(v) {
     return v["sub category"] == "STOLEN VEHICLE"
   }).length;  
-  $('#property-motor').text('Motor vehicle theft - ' + motorCount);
+  $('#property-motor').text('Motor vehicle theft: ' + motorCount);
   
   // Quality
   var qualityCount = data.filter(function(v) {
@@ -288,5 +299,5 @@ function updateSummaryWidgets(data) {
   var narcoticsCount = data.filter(function(v) {
     return v["sub category"] == "DANGEROUS DRUGS"
   }).length;
-  $('#quality-narcotics').text('Narcotics - ' + narcoticsCount);
+  $('#quality-narcotics').text('Narcotics: ' + narcoticsCount);
 }
