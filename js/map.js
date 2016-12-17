@@ -241,7 +241,11 @@ $(function() {
         ppContent += '<br><b>' + collection[j]['hour'] + ':00 </b>';
         ppContent += '<br><b>' + collection[j]['date'].slice(0, 10) + '</b>';
 
-        var popup = L.popup().setContent(ppContent);
+        var popup = L.popup({
+         autoPan: false,
+         keepInView: true
+        });
+        popup.setContent(ppContent);
         circle.bindPopup(popup);
         circle.on('mouseover', function(e) {
           this.openPopup();
