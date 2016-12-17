@@ -25,7 +25,8 @@ $(function() {
         if (data.status != "ZERO_RESULTS") {
           // Save data to locaStorage
           localStorage.setItem("address", data.results[0].formatted_address);
-          localStorage.setItem("coordinates", data.results[0].geometry.location);
+          localStorage.setItem("lat", data.results[0].geometry.location.lat);
+          localStorage.setItem("lng", data.results[0].geometry.location.lng);
           
           // Submit form
           $("form").submit();
