@@ -7,7 +7,7 @@ $(function() {
   var lng = localStorage.getItem("lng");
 
   // Set the date label.
-  $("#date-range").text("Nov. 2: Dec. 2, 2016");
+  $("#date-range").text("Oct. 30: Nov. 30, 2016");
   
   // Violent Crime widget onHover
   $("#crime-report-violent").hover(
@@ -84,7 +84,7 @@ $(function() {
 
   // add marker, test
   L.marker([lat, lng]).addTo(mymap)
-    .bindPopup('<b style="font-size: 20px">' + address + '</b>').openPopup();
+    .bindPopup('<b style="">' + address + '</b>').openPopup();
 
   var point = [lng, lat]; // coordinate
   var data; // geojson for all communities
@@ -203,19 +203,19 @@ $(function() {
     showTrend(communityId);
     
     // Set Historical Trends label
-    $("#timegraph-title").text("Historical Crime by Month in " + community);
+    $("#timegraph-title").html('Historical Crime by Month in <span style="color:#6a7477">' + community + '</span>');
     
     // Set the neighborhood label.
     $("#neighborhood-label").text(community);
     
     // Set the neighborhood label.
-    $("#crime-trends").text("Crime by Time of Day in " + community);
+    $("#crime-trends").html('Crime by Time of Day in <span style="color:#6a7477">' + community + '</span>');
     
     // Set the neighborhood label.
-    $("#crime-leaderboard").text("Crime by Type in " + community);
+    $("#crime-leaderboard").html('Crime By Type In <span style="color:#6a7477">' + community + '</span>');
     
     // Set the neighborhood label.
-    $("#crime-reports").text("Crime Reports in " + community);
+    $("#crime-reports").html('Crime Reports in <span style="color:#6a7477">' + community + '</span>');
 
     // open crime data for current community
     var crimeFile = '/data/crime_Oct30_Nov30/' + communityId + '.crime';
