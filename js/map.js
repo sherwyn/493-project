@@ -72,18 +72,6 @@ $(function() {
     }
   )
   
-  $("form").submit(function(e) {
-    var address = $("#address").val();
-    
-    // If no address, prevent form submit
-    if (!address) {
-      e.preventDefault()
-    }
-    
-    // Save input to localStorage. We'll access this later in map.js.
-    localStorage.setItem("address", address);
-  })
-
   // setup for leaflet map
   // setView for the centered point
   var mymap = L.map('mapid').setView([lat, lng], 14);
@@ -209,6 +197,11 @@ $(function() {
     console.log(cName);
     community = cName;
     communityId = communityIdMap[community];
+    
+    console.log('communityId = ', communityId)
+    
+    // Save communityId
+    localStorage.setItem("communityId", communityId);
     
     // Set Historical Trends label
     $("#timegraph-title").text("Historical Crime by Month in " + community);

@@ -180,14 +180,19 @@ svg{
   display: none;
 }
 
-.violent-label {
+.violent-label, .legend-violent {
   color: #B413A5;
 }
 
-.property-label {
+.property-label, .legend-property {
   color: #E59127;
 }
 
-.quality-label {
+.quality-label, .legend-quality {
   color: #009E87;
+}
+
+.legend-violent, .legend-property, .legend-quality {
+  font-weight: 500;
+  padding-right: 5rem;
 }

@@ -32,7 +32,7 @@ $(function() {
           $("form").submit();
         }
         else {
-          // alert("Address not found!");
+          alert("Address not found!");
         }
       }
     })

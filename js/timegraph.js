@@ -17,7 +17,7 @@ $(function() {
       .x(function(d) { return x(d.date); })
       .y(function(d) { return y(d.temperature); });
 
-  d3.tsv("/data/historical_graph_categorized/1.historical", type, function(error, data) {
+  d3.tsv("/data/historical_graph_categorized/" + localStorage.getItem("communityId") + ".historical", type, function(error, data) {
     if (error) throw error;
 
     var cities = data.columns.slice(1).map(function(id) {
