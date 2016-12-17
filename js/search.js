@@ -1,28 +1,40 @@
 // jQuery onLoad
 $(function() {
-  $("form").submit(function(e) {
+  $("#go-button").click(function(e) {
     var address = $("#address").val();
     
-    // If no address, prevent form submit
+    // Prevent form submit here. We'll submit the form after our ajax call.
+    e.preventDefault()
+    
+    // If no address, return
     if (!address) {
-      e.preventDefault()
-      return
+      return;
     }
+    
     var new_address = address.split(' ').join('+');
-    // Save input to localStorage. We'll access this later in map.js.
     var url = "https://maps.googleapis.com/maps/api/geocode/json?address=" + new_address+",+Detroit";
-    var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( "GET", url, false ); 
-    xmlHttp.send();
-    var str = xmlHttp.responseText;
+    
+    $.ajax({
+      url: url,
+      success: function(data) {
+        // Uncomment these lines to examine data
+        // console.log(data);
+        // return;
+        
+        // If valid address found
+        if (data.status != "ZERO_RESULTS") {
+          // Save data to locaStorage
+          localStorage.setItem("address", data.results[0].formatted_address);
+          localStorage.setItem("coordinates", data.results[0].geometry.location);
+          
+          // Submit form
+          $("form").submit();
+        }
+        else {
+          alert("Address not found!");
+        }
+      }
+    })
 
-    var result = jQuery.parseJSON(str);
-    if (result.status =="ZERO_RESULTS") {
-      e.preventDefault()
-      return
-    }
-    console.log(result.results.length);
-    localStorage.setItem("address", result.results[0].formatted_address);
-    localStorage.setItem("coordinates", result.results[0].geometry.location);
   })
 })
