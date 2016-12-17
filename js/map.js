@@ -2,7 +2,10 @@
 $(function() {
   // Get address from localStorage.
   var address = localStorage.getItem("address");
-  
+  var coordinates = JSON.stringify(localStorage.getItem("coordinates"));
+  var lat = localStorage.getItem("lat");
+  var lng = localStorage.getItem("lng");
+
   // Set the neighborhood label.
   $("#neighborhood-label").text(address);
   
@@ -92,7 +95,7 @@ $(function() {
 
   // setup for leaflet map
   // setView for the centered point
-  var mymap = L.map('mapid').setView([42.344365, -83.076050999999], 14);
+  var mymap = L.map('mapid').setView([lat, lng], 14);
   L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiaWFuenljIiwiYSI6ImNpd2I3bThjYTA0bmgyb3F1eHpiYXI2bTgifQ.uvJQRBGq8wA3BlyFcIXV8g', {
     maxZoom: 18,
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> ' + 
@@ -101,10 +104,10 @@ $(function() {
   }).addTo(mymap);
 
   // add marker, test
-  L.marker([42.344365, -83.076050999999]).addTo(mymap)
-    .bindPopup('<b style="font-size: 20px"> Commonwealth St, Detroit, MI 48208</b>').openPopup();
+  L.marker([lat, lng]).addTo(mymap)
+    .bindPopup('<b style="font-size: 20px">' + address + '</b>').openPopup();
 
-  var point = [-83.076050999999, 42.344365]; // coordinate
+  var point = [lng, lat]; // coordinate
   var data; // geojson for all communities
   var dataLayer; // community layer for later search
   var polygons = {}; // map for (community, polygon) pair
