@@ -179,3 +179,15 @@ svg{
 .axis--x path {
   display: none;
 }
+
+.violent-label {
+  color: #B413A5;
+}
+
+.property-label {
+  color: #E59127;
+}
+
+.quality-label {
+  color: #009E87;
+}

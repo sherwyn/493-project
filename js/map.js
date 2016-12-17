@@ -6,15 +6,6 @@ $(function() {
   var lat = localStorage.getItem("lat");
   var lng = localStorage.getItem("lng");
 
-  // Set the neighborhood label.
-  $("#neighborhood-label").text(address);
-  
-  // Set the neighborhood label.
-  $("#crime-trends").text("Crime Trends in " + address);
-  
-  // Set the neighborhood label.
-  $("#crime-reports").text("Crime Reports in " + address);
-  
   // Set the date label.
   $("#date-range").text("Nov. 2: Dec. 2, 2016");
   
@@ -218,6 +209,18 @@ $(function() {
     console.log(cName);
     community = cName;
     communityId = communityIdMap[community];
+    
+    // Set Historical Trends label
+    $("#timegraph-title").text("Historical Crime by Month in " + community);
+    
+    // Set the neighborhood label.
+    $("#neighborhood-label").text(community);
+    
+    // Set the neighborhood label.
+    $("#crime-trends").text("Crime Trends in " + community);
+    
+    // Set the neighborhood label.
+    $("#crime-reports").text("Crime Reports in " + community);
 
     // open crime data for current community
     var crimeFile = '/data/crime_Oct30_Nov30/' + communityId + '.crime';
