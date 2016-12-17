@@ -94,7 +94,7 @@ $(function() {
   });
 
   // 
-  d3.json('data/neighborhoods.geojson', function(error, collection) {
+  d3.json('/data/neighborhoods.geojson', function(error, collection) {
     if (error) throw error;
 
     // retrieve data
@@ -125,7 +125,7 @@ $(function() {
     communityId = communityIdMap[community];
 
     // open crime data for current community
-    var crimeFile = 'data/crime_Oct30_Nov30/' + communityId + '.crime';
+    var crimeFile = '/data/crime_Oct30_Nov30/' + communityId + '.crime';
     d3.json(crimeFile, function(error, collection) {
 
       // create circles for all crimes
