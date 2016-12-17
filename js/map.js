@@ -54,9 +54,19 @@ $(function() {
   var polygons = {}; // map for (community, polygon) pair
   var communityIdMap = {}; // map for (community, community id) pair
   var communityArray = []; // array for all community names
+  var circles = {} // map for (crime category, list of circles) pair
   var communityId; // current search community id
   var community; // current search community name
   communityIdMap['NULL'] = 0; // default community
+  circles['Property Crime'] = [];
+  circles['Violent Crime'] = [];
+  circles['Quality-of-Life Crime'] = [];
+
+  var colorMap = {
+    "Violent Crime": "#B413A5",
+    "Property Crime": "#E59127",
+    "Quality-of-Life Crime": "#009E87"
+  }
 
   // custom styles for rendering polygons and circles
   var styleEmpty = {
@@ -79,12 +89,14 @@ $(function() {
     "opacity": 0.9
   }
   var crimeNormal = {
-    "color": '#e52041',
+    // "color": '#009E87',
     "weight": 2,
     "fill": true,
     "fillcolor": '#e52041',
     "fillOpacity": 1
   }
+
+
   var radius = 15;
 
   // global popup for polygon
@@ -131,6 +143,9 @@ $(function() {
       // create circles for all crimes
       for (var j = 0; j < collection.length; j++) {
         var circle = L.circle([collection[j]['lat'], collection[j]['lot']], radius);
+        var crimeCate = collection[j]['category'];
+        circles[crimeCate].push(circle);
+        crimeNormal['color'] = colorMap[crimeCate];
         circle.setStyle(crimeNormal);
         circle.addTo(mymap);
         circle.bringToFront();
@@ -166,10 +181,19 @@ $(function() {
       }
     }
 
+
+
     // event handler for moving on the map
     // it will update global polyPopup and display
     // at correct position
     function onMapMove(e) {
+      console.log(circles['Violent Crime'].length);
+      console.log(circles['Property Crime'].length);
+      console.log(circles['Quality-of-Life Crime'].length);
+      // for (var i = 0; i < circles['Violent Crime'].length; i++) {
+      //   console.log("aha");
+      //   console.log(circles['Violent Crime'][i]);
+      // }
 
       // search polygon for current mouse position
       var movePoint = [e.latlng['lng'], e.latlng['lat']];
