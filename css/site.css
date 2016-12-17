@@ -1,21 +1,6 @@
 body {
-  padding-top: 5rem;
+  padding-top: 6rem;
   background-color: #f7f7f7;
-}
-
-.navbar-sections{
-  height: 40px;
-  font-size: 18px;
-  font-color: white;
-  right: 0px;
-  width: 100%;
-
-}
-
-.navbar-sections a{
-  padding: 10px;
-  color: #55595c;
-
 }
 
 a:visited{
@@ -24,6 +9,30 @@ a:visited{
 
 .navbar {
   margin-bottom: 0;
+  padding: 0px;
+}
+
+.navbar .container-fluid {
+  margin: 10px;
+}
+
+.navbar-sections{
+  height: auto;
+  font-size: 18px;
+  font-color: white;
+  right: 0px;
+  width: 100%;
+  margin-top: 10px;
+  background-color: #b3bfcb;
+  padding: 10px 0px;
+}
+
+.navbar-sections a{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 24px;
+  padding-right: 30px;
+  color: #55595c;
 }
 
 .navbar-collapse .container-fluid {
@@ -39,6 +48,9 @@ a:visited{
   color: #818a91;
 }
 
+.form-control {
+  margin: 10px auto;
+}
 .about {
   float: left;
   max-width: 30rem;
@@ -109,6 +121,10 @@ footer p {
 
 .neighborhood, .crime-trends, .crime-reports, .date-range, .timegraph-title{
   text-transform: capitalize;
+}
+
+#neighborhood-label {
+  font-size: 25pt;
 }
 
 .crime-report {
