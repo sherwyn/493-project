@@ -48,9 +48,9 @@ a:visited{
   color: #818a91;
 }
 
-.form-control {
+/*.form-control {
   margin: 10px auto;
-}
+}*/
 .about {
   float: left;
   max-width: 30rem;
@@ -123,10 +123,10 @@ footer p {
   text-transform: capitalize;
 }
 
-#neighborhood-label {
+/*#neighborhood-label {
   font-size: 20pt;
   margin: 5px;
-}
+}*/
 
 .crime-report {
   padding: 1.5rem;

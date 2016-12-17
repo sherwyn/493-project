@@ -30,7 +30,20 @@
 
     <div class="navbar navbar-fixed-top navbar-dark bg-inverse">
       <div class="container-fluid">
-        <a id="neighborhood-label" href="/" class="neighborhood navbar-brand">Crime in Detroit</a>
+        <a href="/" class="navbar-brand">Crime in Detroit</a>
+
+        <ul class="nav navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="#">Map & Summary</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#crime-report-property">Crime Trends</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#timegraph-title">Historical Trends</a>
+          </li>
+        </ul>
+        
         <form class="form-inline float-xs-right" action="/map">
           <div class="form-group">
             <label class="sr-only" for="exampleInputEmail3">Email address</label>
@@ -38,11 +51,6 @@
           </div>
           <button type="submit" class="btn btn-primary">GO</button>
         </form>
-      </div>
-      <div class= 'navbar-sections'>
-        <a href= '#'>Map and Summary</a>
-        <a href= '#crime-report-property'>Crime Trends</a>
-        <a href= "#timegraph-title">Historical Crimes</a>
       </div>
     </div>
   
