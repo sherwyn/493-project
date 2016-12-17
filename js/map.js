@@ -360,19 +360,19 @@ function updateSummaryWidgets(data) {
   }).length;
   $('#quality-narcotics').text('Narcotics: ' + narcoticsCount);
   
-  var unordered = {
-    "Robbery": robberyCount,
-    "Battery": batteryCount,
-    "Assault": assaultCount,
-    "Burglary": burglaryCount,
-    "Narcotics": narcoticsCount
-  };
-  const ordered = {}
-  Object.keys(unordered).sort().forEach(function(key) {
-    ordered[key] = unordered[key];
+  
+  var stats = [
+    ["Robbery", robberyCount],
+    ["Battery", batteryCount],
+    ["Assault", assaultCount],
+    ["Burglary", burglaryCount],
+    ["Narcotics", narcoticsCount]
+  ];
+  stats.sort(function(a, b) {
+    return b[1] - a[1];
   });
   
-  for (var key in ordered) {
-      $("#leaderboard").append("<tr><th scope=\"row\">" + key + "</th><td>" +  ordered[key] + "</td></tr>");
-  }
+  stats.forEach(function(s) {
+      $("#leaderboard").append("<tr><th scope=\"row\">" + s[0] + "</th><td>" +  s[1] + "</td></tr>");
+  });
 }
