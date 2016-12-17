@@ -5,7 +5,7 @@ function showTrend(i) {
     width = +svg.attr("width") - margin.left - margin.right,
     height = +svg.attr("height") - margin.top - margin.bottom;
 
-	var x = d3.scaleBand().rangeRound([0, width]).padding(0.1),
+	var x = d3.scaleBand().rangeRound([10, width]).padding(0.1),
 	    y = d3.scaleLinear().rangeRound([height, 0]);
 
 	var g = svg.append("g")
@@ -32,8 +32,14 @@ function showTrend(i) {
 	      .attr("transform", "rotate(-90)")
 	      .attr("y", 6)
 	      .attr("dy", "0.71em")
+	      .attr("fill", "#000")
 	      .attr("text-anchor", "end")
-	      .text("crime report");
+	      .text("crime reported");
+
+	  g.selectAll(".axis--x text")  // select all the text elements for the xaxis
+          .attr("transform", function(d) {
+             return "translate(" + this.getBBox().height*-1 + "," + this.getBBox().height + ")rotate(-45)";
+         });
 
 	  g.selectAll(".bar")
 	    .data(data)
