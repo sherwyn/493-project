@@ -7,7 +7,7 @@ $(function() {
   var lng = localStorage.getItem("lng");
 
   // Set the date label.
-  $("#date-range").text("Nov. 2: Dec. 2, 2016");
+  $("#date-range").text("Oct. 30: Nov. 30, 2016");
   
   // Violent Crime widget onHover
   $("#crime-report-violent").hover(
@@ -84,7 +84,7 @@ $(function() {
 
   // add marker, test
   L.marker([lat, lng]).addTo(mymap)
-    .bindPopup('<b style="font-size: 20px">' + address + '</b>').openPopup();
+    .bindPopup('<b style="">' + address + '</b>').openPopup();
 
   var point = [lng, lat]; // coordinate
   var data; // geojson for all communities
@@ -203,19 +203,19 @@ $(function() {
     showTrend(communityId);
     
     // Set Historical Trends label
-    $("#timegraph-title").text("Historical Crime by Month in " + community);
+    $("#timegraph-title").html('Historical Crime by Month in <span style="color:#6a7477">' + community + '</span>');
     
     // Set the neighborhood label.
     $("#neighborhood-label").text(community);
     
     // Set the neighborhood label.
-    $("#crime-trends").text("Crime by Time of Day in " + community);
+    $("#crime-trends").html('Crime by Time of Day in <span style="color:#6a7477">' + community + '</span>');
     
     // Set the neighborhood label.
-    $("#crime-leaderboard").text("Crime by Type in " + community);
+    $("#crime-leaderboard").html('Crime By Type In <span style="color:#6a7477">' + community + '</span>');
     
     // Set the neighborhood label.
-    $("#crime-reports").text("Crime Reports in " + community);
+    $("#crime-reports").html('Crime Reports in <span style="color:#6a7477">' + community + '</span>');
 
     // open crime data for current community
     var crimeFile = '/data/crime_Oct30_Nov30/' + communityId + '.crime';
@@ -235,7 +235,13 @@ $(function() {
         circle.bringToFront();
         
         // add and bind popup for each crime
-        var popup = L.popup().setContent(collection[j]['category'] + ': ' + collection[j]['date']);
+        var subCate = collection[j]['sub category'].toLowerCase();
+        subCate = subCate[0].toUpperCase() + subCate.slice(1);
+        var ppContent = '<b style="color: ' + colorMap[crimeCate] + '">' + subCate + "</b>";
+        ppContent += '<br><b>' + collection[j]['hour'] + ':00 </b>';
+        ppContent += '<br><b>' + collection[j]['date'].slice(0, 10) + '</b>';
+
+        var popup = L.popup().setContent(ppContent);
         circle.bindPopup(popup);
         circle.on('mouseover', function(e) {
           this.openPopup();
@@ -280,10 +286,21 @@ $(function() {
       // update polyPopup
       if (moveResult.length > 0 && moveResult[0]['feature']['properties']['name'] !== community) {
         var c = moveResult[0]['feature']['properties']['name'];
-        polyPopup
-          .setLatLng(e.latlng)
-          .setContent(c);
-        mymap.openPopup(polyPopup);
+
+        var crimeFile = '/data/crime_Oct30_Nov30/' + communityIdMap[c] + '.crime';
+    
+        d3.json(crimeFile, function(error, collection) {
+
+          var ppContent = '<b style="color: #576172">' + c + "</b>";
+          ppContent += '<br><b style="color: #768296">' + collection.length + ' reported crimes' + '</b>';
+
+          polyPopup
+            .setLatLng(e.latlng)
+            .setContent(ppContent);
+          
+          mymap.openPopup(polyPopup);
+        
+        });
       }
       else {
         mymap.closePopup(polyPopup);
