@@ -124,7 +124,8 @@ footer p {
 }
 
 #neighborhood-label {
-  font-size: 25pt;
+  font-size: 20pt;
+  margin: 5px;
 }
 
 .crime-report {
