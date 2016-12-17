@@ -198,10 +198,9 @@ $(function() {
     community = cName;
     communityId = communityIdMap[community];
     
-    console.log('communityId = ', communityId)
-    
-    // Save communityId
-    localStorage.setItem("communityId", communityId);
+    // We calculate communityId here! After we grab this, then we can load timegraph + trend
+    drawGraph(communityId);
+    showTrend(communityId);
     
     // Set Historical Trends label
     $("#timegraph-title").text("Historical Crime by Month in " + community);

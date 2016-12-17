@@ -1,5 +1,6 @@
-// jQuery onLoad
-$(function() {
+function drawGraph(i) {
+  console.log('timegraph communityId = ', i);
+  
   var svg = d3.select("#timegraph-svg"),
       margin = {top: 20, right: 80, bottom: 30, left: 50},
       width = svg.attr("width") - margin.left - margin.right,
@@ -17,7 +18,7 @@ $(function() {
       .x(function(d) { return x(d.date); })
       .y(function(d) { return y(d.temperature); });
 
-  d3.tsv("/data/historical_graph_categorized/" + localStorage.getItem("communityId") + ".historical", type, function(error, data) {
+  d3.tsv("/data/historical_graph_categorized/" + i + ".historical", type, function(error, data) {
     if (error) throw error;
 
     var cities = data.columns.slice(1).map(function(id) {
@@ -77,4 +78,4 @@ $(function() {
     for (var i = 1, n = columns.length, c; i < n; ++i) d[c = columns[i]] = +d[c];
     return d;
   }
-})
+}

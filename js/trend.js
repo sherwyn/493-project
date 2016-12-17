@@ -1,8 +1,6 @@
-$(function() {
-	showTrend(3)
-})
-
 function showTrend(i) {
+	console.log("trend communityId = " + i);
+
 	var svg = d3.select("#trend-svg"),
     margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = +svg.attr("width") - margin.left - margin.right,
