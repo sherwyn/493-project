@@ -6,9 +6,9 @@ $(function() {
     // Prevent form submit here. We'll submit the form after our ajax call.
     e.preventDefault()
     
-    // If no address, return
+    // Just reload the page if user entered no address
     if (!address) {
-      return;
+      return location.reload();
     }
     
     var new_address = address.split(' ').join('+');
@@ -32,7 +32,9 @@ $(function() {
           $("form").submit();
         }
         else {
-          alert("Address not found. Try being more specific in your query.");
+          // Just reload the page if address not found
+          location.reload();
+          // alert("Address not found. Try being more specific in your query.");
         }
       }
     })
