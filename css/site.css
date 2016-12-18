@@ -12,8 +12,18 @@ a:visited{
   padding: 0px;
 }
 
+ .navbar-brand {
+   font-size: 25px;
+ }
+
 .navbar .container-fluid {
   margin: 10px;
+}
+
+.nav-link {
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 5px;
 }
 
 .navbar-sections{
