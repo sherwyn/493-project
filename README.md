@@ -1,4 +1,6 @@
-### Team Name: Team 2
+### EECS 493 Final Project
+### Detroit Crime Trends
+### Demo: https://eecs-493-crime-trends.herokuapp.com
 
 ### Members:
   - Alex Grant (alexgene)
@@ -7,6 +9,3 @@
   - Sherwyn Poon (sherwynp)
   - Siyuan Sheng (ssyssy)
   - Yicong Zhang (ianzyc)
-
-### Running the project:
-  - python -m SimpleHTTPServer
